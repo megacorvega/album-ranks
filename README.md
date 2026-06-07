@@ -34,7 +34,18 @@ Useful switches:
 - `-Mode all` fetches and caches art for every entry.
 - `-Mode missing` only fills blank `art:` fields.
 
-The script looks up the best MusicBrainz release for each album, downloads the cover into `images/covers/`, and writes the local image path back into [albums.txt](albums.txt). The site reads `albums.txt` directly, so no rebake step is needed.
+The script looks up the best MusicBrainz release group for each album, chooses the best matching release edition from that group, downloads the cover into `images/covers/`, and writes the local image path back into [albums.txt](albums.txt). The site reads `albums.txt` directly, so no rebake step is needed.
+
+If you want to force a specific release, you can optionally add an `mbid:` field:
+
+```txt
+artist: Grizzly Bear
+album: Shields
+score: 9.9
+mbid: b0b64ca6-5bc7-4ced-a6a0-7ca8563d36ea
+art: images/covers/grizzly-bear-shields-b0b64ca6-5bc7-4ced-a6a0-7ca8563d36ea.jpg
+review: ...
+```
 
 ## Files
 

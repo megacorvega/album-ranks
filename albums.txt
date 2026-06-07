@@ -1,115 +1,115 @@
 artist: Songs: Ohia
 album: Magnolia Electric Co.
 score: 10
-art: https://coverartarchive.org/release/f9479fc5-6438-42e6-b493-0f0bde23a352/front-500
+art: images/covers/songs-ohia-magnolia-electric-co-f9479fc5-6438-42e6-b493-0f0bde23a352.jpg
 review: "Magnolia Electric Co." by Songs: Ohia is a haunting journey through the American heartland, blending folk, rock, and alt-country with poetic lyricism. Released in 2003, it's the pinnacle of Jason Molina's songwriting prowess, showcasing his raw, emotive vocals and evocative storytelling. Each track is a sonic landscape, painting scenes of longing, loss, and redemption against a backdrop of twangy guitars, melancholic melodies, and understated instrumentation. Molina's introspective lyrics, coupled with the band's atmospheric soundscapes, create an immersive experience that resonates deeply with listeners, leaving an indelible mark long after the last note fades away.
 
 artist: Jon Hopkins
 album: Immunity
 score: 9.9
-art: https://coverartarchive.org/release/9b93c88b-b939-4206-af30-b3a3e7f1ab8d/front-500
+art: images/covers/jon-hopkins-immunity-9b93c88b-b939-4206-af30-b3a3e7f1ab8d.jpg
 review: "Immunity" by Jon Hopkins is a sonic odyssey that seamlessly merges electronic music with ambient textures and pulsating rhythms. Released in 2013, it's a masterclass in atmosphere and emotion, taking listeners on a mesmerizing journey through hypnotic beats and ethereal melodies. Each track unfolds like a vivid dreamscape, with intricate layers of sound that ebb and flow, building tension and release in equal measure. Hopkins' meticulous production and attention to detail create a sense of immersive intimacy, inviting listeners to lose themselves in the music. "Immunity" stands as a testament to Hopkins' visionary talent and remains a timeless masterpiece of electronic music.
 
 artist: Grizzly Bear
 album: Shields
 score: 9.9
-art: https://coverartarchive.org/release/1f6442cc-62a8-4b3e-9592-c12d0dfcd422/front-500
+art: images/covers/grizzly-bear-shields-1520e624-7564-44cf-9867-1155581b6253.jpg
 review: "Shields" by Grizzly Bear, released in 2012, is a captivating sonic journey through lush indie rock landscapes. With intricate arrangements and ethereal harmonies, the album immerses listeners in a world of introspection and emotion. Each track is a meticulously crafted tapestry of sound, blending shimmering guitars, intricate percussion, and haunting melodies. From the delicate beauty of acoustic moments to the grandeur of expansive arrangements, "Shields" showcases Grizzly Bear's evolution as musicians and songwriters. It's an album that invites repeated listening, revealing new layers and nuances with each listen, and leaving a lasting impression on those who delve into its depths.
 
 artist: Burial
 album: Untrue
 score: 9.9
-art: https://coverartarchive.org/release/3b78aca5-18da-4183-a5dc-51626d39e8ff/front-500
+art: images/covers/burial-untrue-e08c3db9-fc33-4d4e-b8b7-818d34228bef.jpg
 review: "Untrue" by Burial, released in 2007, is a groundbreaking exploration of urban melancholy and electronic innovation. Through intricate rhythms, haunting melodies, and evocative sampling, Burial creates a sonic landscape that feels simultaneously futuristic and deeply rooted in the contemporary urban experience. Each track pulses with a sense of longing and nostalgia, capturing the essence of late-night cityscapes and the emotions they evoke. With its distinctive blend of dubstep, ambient, and garage influences, "Untrue" remains a seminal work in electronic music, pushing the boundaries of the genre and inspiring countless artists in its wake. It's an album that resonates with listeners on a profound emotional level, leaving an enduring impact long after the music fades.
 
 artist: Grizzly Bear
 album: Veckatimest
 score: 9.9
-art: https://coverartarchive.org/release/ceb7c785-0cde-4312-bc9e-db66c1ce6887/front-500
+art: images/covers/grizzly-bear-veckatimest-5d7797f1-7efc-350e-8d1f-71c5229502e0.jpg
 review: "Veckatimest" by Grizzly Bear, released in 2009, is a mesmerizing journey through lush harmonies and intricate arrangements. With its blend of folk, indie rock, and experimental pop, the album captivates listeners with its rich textures and haunting melodies. Each track unfolds like a sonic tapestry, weaving together layers of ethereal vocals, shimmering guitars, and dynamic percussion. From the intimate introspection of acoustic moments to the grandeur of expansive orchestration, "Veckatimest" showcases Grizzly Bear's musical versatility and songwriting prowess. It's an album that invites deep exploration, revealing new depths and nuances with each listen, and leaving a lasting impression on all who encounter it.
 
 artist: Shabazz Palaces
 album: Black Up
 score: 9.8
-art: https://coverartarchive.org/release/36e2f7a2-0d1d-4f0a-92e0-851bdfdb424f/front-500
+art: images/covers/shabazz-palaces-black-up-e2f38b4b-96a1-4dfb-91b1-aeb533ab9095.jpg
 review: "Black Up" by Shabazz Palaces, released in 2011, is a genre-defying masterpiece that defies easy categorization. With its fusion of hip-hop, jazz, and experimental electronic elements, the album transports listeners to an otherworldly realm of sonic exploration. Each track is a sonic collage, blending intricate beats, cosmic synths, and poetic lyricism to create a hypnotic and immersive experience. Shabazz Palaces' avant-garde approach to production and storytelling challenges conventions, pushing the boundaries of hip-hop and reshaping the landscape of contemporary music. "Black Up" stands as a testament to their innovative spirit and artistic vision, leaving a profound impact on all who encounter its enigmatic beauty.
 
 artist: The Microphones
 album: Microphones in 2020
 score: 9.8
-art: https://coverartarchive.org/release/85c2082e-9f31-4995-86b2-82871a4730ce/front-500
+art: images/covers/the-microphones-microphones-in-2020-85c2082e-9f31-4995-86b2-82871a4730ce.jpg
 review: "Microphones in 2020" by The Microphones, released in 2020, is a sprawling, introspective opus that serves as both a reflection and a reckoning. Frontman Phil Elverum revisits his musical roots under The Microphones moniker, crafting a monumental work that spans a single, 44-minute track. Through intricate instrumentation, including guitars, keyboards, and field recordings, Elverum explores themes of memory, mortality, and the passage of time. The album's raw honesty and emotional depth invite listeners on a deeply personal journey, confronting the complexities of existence with unflinching sincerity. "Microphones in 2020" stands as a testament to Elverum's artistic vision and his enduring impact on indie music.
 
 artist: Gorillaz
 album: Demon Days
 score: 9.7
-art: https://coverartarchive.org/release/ad0a377b-6c7c-30ff-921d-a47edae073e2/front-500
+art: images/covers/gorillaz-demon-days-8e34cd2a-87cb-4f20-b6cd-aa44a38c1bbc.jpg
 review: "Demon Days" by Gorillaz, released in 2005, is a visionary fusion of hip-hop, rock, and electronica that paints a dystopian portrait of modern society. Through its eclectic soundscapes and eclectic collaborations, the album delves into themes of politics, technology, and human nature. From the infectious hooks of "Feel Good Inc." to the haunting balladry of "El Mañana," each track showcases Damon Albarn's songwriting genius and Jamie Hewlett's imaginative visuals. "Demon Days" transcends mere music, offering a multimedia experience that's both thought-provoking and entertaining. It's a timeless classic that continues to resonate with listeners, reflecting the anxieties and aspirations of our times.
 
 artist: George Clanton
 album: Slide
 score: 9.7
-art: https://coverartarchive.org/release/050d544b-67f1-4eb7-8459-d150e0293fab/front-500
+art: images/covers/george-clanton-slide-050d544b-67f1-4eb7-8459-d150e0293fab.jpg
 review: "Slide" by George Clanton, released in 2018, is a shimmering journey through the realms of dreamy synth-pop and nostalgic vaporwave. With its lush production and infectious melodies, the album evokes a sense of euphoria and introspection. Each track is a sonic tapestry, weaving together pulsating beats, shimmering synths, and Clanton's ethereal vocals. From the upbeat energy of "Make It Forever" to the introspective mood of "Dumb," "Slide" showcases Clanton's versatility as a songwriter and producer. It's an album that transports listeners to a nostalgic yet futuristic landscape, inviting them to dance, reflect, and lose themselves in its captivating
 
 artist: Daniel Rossen
 album: You Belong There
 score: 9.7
-art: https://coverartarchive.org/release/aed1714d-3c3a-4266-bd7a-0444ff0dcfb2/front-500
+art: images/covers/daniel-rossen-you-belong-there-aed1714d-3c3a-4266-bd7a-0444ff0dcfb2.jpg
 review: "You Belong There" by Daniel Rossen, released in 2022, is a hauntingly beautiful exploration of introspection and vulnerability. Rossen, known for his work with Grizzly Bear and Department of Eagles, delivers a solo debut that captivates with its intricate songwriting and ethereal arrangements. Each track is a delicate balance of folk-inspired melodies, intricate guitar work, and Rossen's evocative vocals. You Belong There invites listeners on a journey through moments of intimacy and reflection. "You Belong There" stands as a testament to Rossen's talent as a songwriter and his ability to craft music that resonates deeply with the soul.
 
 artist: Alvvays
 album: Blue Rev
 score: 9.7
-art: https://coverartarchive.org/release/d3ed7333-9769-46e8-a9ea-f4f0730c8051/front-500
+art: images/covers/alvvays-blue-rev-92b28e5a-69a2-4046-8d7e-2d78f2a572d9.jpg
 review: "Blue Rev" by Alvvays, released in 2023, is a shimmering indie-pop gem that solidifies the band's place as masters of dreamy guitar-driven melodies. With this album, Alvvays delivers a sonic landscape filled with infectious hooks, bittersweet lyrics, and nostalgic charm. Each track is a journey through hazy summer days and starry nights, blending jangly guitars, lush synths, and Molly Rankin's ethereal vocals. "Blue Rev" is a captivating experience that transports listeners to a world of romance and reverie, leaving them longing for more with each listen.
 
 artist: D'Angelo
 album: Black Messiah
 score: 9.6
-art: https://coverartarchive.org/release/ab140e13-7b36-402a-a528-b69e3dee38a8/front-500
+art: images/covers/d-angelo-black-messiah-b4b96943-5dd5-4f34-956a-7a2d0356476a.jpg
 review: "Black Messiah" by D'Angelo, released in 2014, is a powerful and timely statement that merges soul, funk, and R&B with social commentary and personal reflection. After a 14-year hiatus, D'Angelo returns with an album that challenges societal norms and celebrates black identity. Each track is a sonic exploration, blending infectious grooves, intricate instrumentation, and D'Angelo's soulful vocals. From the politically charged "The Charade" to the sensual "Really Love," the album is a testament to D'Angelo's musical genius and his unwavering commitment to artistic integrity. "Black Messiah" is more than just an album; it's a cultural landmark that continues to inspire and provoke thought.
 
 artist: Frank Ocean
 album: channel ORANGE
 score: 9.6
-art: https://coverartarchive.org/release/89d63d9e-96be-483a-8822-890b71db62ba/front-500
+art: images/covers/frank-ocean-channel-orange-9519df6d-f8a6-4b57-9ab4-ddb35aa7d09e.jpg
 review: "channel ORANGE" by Frank Ocean, released in 2012, is a genre-defying masterpiece that transcends the boundaries of R&B and pop. With its introspective lyricism and lush production, the album paints a vivid portrait of modern life, exploring themes of love, identity, and societal issues. Ocean's soulful vocals glide effortlessly over a diverse sonic landscape, from the smooth grooves of "Thinkin Bout You" to the experimental textures of "Pyramids." "channel ORANGE" is a deeply personal and immersive experience that resonates with listeners on a profound level, solidifying Frank Ocean's status as one of the most innovative and influential artists of his generation.
 
 artist: Slowdive
 album: Slowdive
 score: 9.5
-art: https://coverartarchive.org/release/915cb221-2355-4e0d-aaa9-27796abceb10/front-500
+art: images/covers/slowdive-slowdive-25da871f-ca88-4076-92d4-fe4161c361ba.jpg
 review: "Slowdive" by Slowdive, released in 2017, is a mesmerizing return to form for the shoegaze pioneers. With their self-titled album, Slowdive effortlessly recaptures the ethereal magic of their early work while infusing it with a newfound maturity and depth. Each track is a sonic journey through layers of lush guitars, dreamy vocals, and atmospheric textures, enveloping the listener in a hazy, hypnotic haze. From the shimmering beauty of "Sugar for the Pill" to the expansive soundscapes of "Star Roving," the album showcases Slowdive's timeless ability to evoke emotion and transport listeners to otherworldly realms of sound and sensation.
 
 artist: Madvillain
 album: Madvillainy
 score: 9.4
-art: https://coverartarchive.org/release/4187769c-7da1-48c6-90ff-b198fdead587/front-500
+art: images/covers/madvillain-madvillainy-a63ffa0d-d6f0-4941-9659-8e199ca14a60.jpg
 review: 
 
 artist: Bon Iver
 album: For Emma, Forever Ago
 score: 9.2
-art: https://coverartarchive.org/release/f2d4a53b-0612-48e2-a09c-02489ae27a51/front-500
+art: images/covers/bon-iver-for-emma-forever-ago-f2d4a53b-0612-48e2-a09c-02489ae27a51.jpg
 review: 
 
 artist: Gorillaz
 album: Plastic Beach
 score: 9.2
-art: https://coverartarchive.org/release/ecfd35c8-cdb4-4a20-bef9-8530f5feaa7e/front-500
+art: images/covers/gorillaz-plastic-beach-ecfd35c8-cdb4-4a20-bef9-8530f5feaa7e.jpg
 review: 
 
 artist: George Clanton
 album: 100% Electronica
 score: 9.1
-art: https://coverartarchive.org/release/8391ba6f-08ec-4087-9ec5-0e114967ec2a/front-500
+art: images/covers/george-clanton-100-electronica-36164993-fb55-4889-b22b-4ae0397d226c.jpg
 review: 
 
 artist: Danny Brown
 album: Atrocity Exhibition
 score: 9.1
-art: https://coverartarchive.org/release/9081346b-8ffa-4a72-a9b7-fd3bd393dbd9/front-500
+art: images/covers/danny-brown-atrocity-exhibition-d6117cf0-cc7a-4685-8fa0-6b214ebd0f8d.jpg
 review: 
 
 artist: SZA
@@ -121,253 +121,253 @@ review:
 artist: billy woods & Kenny Segal
 album: Maps
 score: 9.1
-art: https://coverartarchive.org/release/244563b3-14bb-4862-9783-e4e4639f783a/front-500
+art: images/covers/billy-woods-kenny-segal-maps-244563b3-14bb-4862-9783-e4e4639f783a.jpg
 review: 
 
 artist: Pinegrove
-album: Cardinal (Expanded Edition)
+album: Cardinal
 score: 9
-art: https://i.scdn.co/image/ab67616d0000b27302d62ee01af9308e623854ca
+art: images/covers/pinegrove-cardinal-470f6a84-5d38-4544-8130-aa80b67c4fe7.jpg
 review: 
 
 artist: Magdalena Bay
 album: Mercurial World
 score: 9
-art: https://coverartarchive.org/release/e24b8995-129d-4174-b3b5-a95297bd79fc/front-500
+art: images/covers/magdalena-bay-mercurial-world-ad715911-f723-4d56-adb8-5c7da92bfe6b.jpg
 review: 
 
 artist: The Microphones
 album: The Glow, Pt. 2
 score: 9
-art: https://coverartarchive.org/release/42a30618-90cf-415d-95e0-35454531659d/front-500
+art: images/covers/the-microphones-the-glow-pt-2-42a30618-90cf-415d-95e0-35454531659d.jpg
 review: 
 
 artist: The Wonder Years
 album: Suburbia I've Given You All and Now I'm Nothing
 score: 9
-art: https://coverartarchive.org/release/cbdfb374-5914-48ff-849d-da20115f83aa/front-500
+art: images/covers/the-wonder-years-suburbia-i-ve-given-you-all-and-now-i-m-nothing-cbdfb374-5914-48ff-849d-da20115f83aa.jpg
 review: 
 
 artist: Alvvays
 album: Alvvays
 score: 9
-art: https://coverartarchive.org/release/df7bfb31-6c65-405f-972b-19052141f753/front-500
+art: images/covers/alvvays-alvvays-f137548f-500f-421a-82fe-2d0e5ffb5be8.jpg
 review: 
 
 artist: Sleep
 album: Dopesmoker
 score: 8.9
-art: https://coverartarchive.org/release/e025a38d-b9f3-4711-9365-f06d720730f4/front-500
+art: images/covers/sleep-dopesmoker-e025a38d-b9f3-4711-9365-f06d720730f4.jpg
 review: 
 
 artist: Frank Ocean
 album: Endless
 score: 8.9
-art: https://coverartarchive.org/release/6d38a7f8-7aa7-4a9b-8330-7623ce4e9272/front-500
+art: images/covers/frank-ocean-endless-fcac5979-9f6b-473a-a58e-706bedffc93c.jpg
 review: 
 
 artist: Andy Shauf
 album: The Party
 score: 8.8
-art: https://coverartarchive.org/release/f80adc2e-0583-4335-953e-435ec6423b9a/front-500
+art: images/covers/andy-shauf-the-party-f80adc2e-0583-4335-953e-435ec6423b9a.jpg
 review: 
 
 artist: Frank Ocean
 album: Blonde
 score: 8.8
-art: https://coverartarchive.org/release/8294645a-f996-44b6-9060-7f189b9f59f3/front-500
+art: images/covers/frank-ocean-blonde-08f54f68-7c89-4e22-8a0f-ac2b06e48568.jpg
 review: 
 
 artist: Deltron 3030
 album: Deltron 3030
 score: 8.8
-art: https://coverartarchive.org/release/92aebaaa-9d6d-31ea-8f01-0cb561d16da4/front-500
+art: images/covers/deltron-3030-deltron-3030-a61dc51a-b7b0-4b78-adf7-36438628859e.jpg
 review: 
 
 artist: The Hotelier
 album: Home, Like Noplace Is There
 score: 8.8
-art: https://coverartarchive.org/release/50939a4b-83d6-4d58-8067-fcc3336702be/front-500
+art: images/covers/the-hotelier-home-like-noplace-is-there-371e1e83-cff8-461b-94e1-92ac4476348c.jpg
 review: 
 
 artist: Todd Terje
 album: It's Album Time
 score: 8.8
-art: https://coverartarchive.org/release/26ea4033-53b2-4382-9422-d0d62d53bbc6/front-500
+art: images/covers/todd-terje-it-s-album-time-26ea4033-53b2-4382-9422-d0d62d53bbc6.jpg
 review: 
 
 artist: Radiohead
 album: Kid A
 score: 8.8
-art: https://coverartarchive.org/release/b13f061a-bd3c-3aaf-9a60-64a0c6f7aee5/front-500
+art: images/covers/radiohead-kid-a-1c10e255-c03f-4e60-b957-7a86e71faa59.jpg
 review: 
 
 artist: Animal Collective
 album: Merriweather Post Pavilion
 score: 8.8
-art: https://coverartarchive.org/release/e6e1db61-284d-4d65-8229-c367bc20fa91/front-500
+art: images/covers/animal-collective-merriweather-post-pavilion-fe607444-0a02-4532-9631-1052402f9a01.jpg
 review: 
 
 artist: D'Angelo
 album: Voodoo
 score: 8.8
-art: https://coverartarchive.org/release/297b0447-fc4a-4266-91ff-6010a5309710/front-500
+art: images/covers/d-angelo-voodoo-c38e2ae2-ed32-4e8d-aa4a-4c8bac3bec64.jpg
 review: 
 
 artist: Grizzly Bear
 album: Yellow House
 score: 8.8
-art: https://coverartarchive.org/release/da6d95b3-17bb-4dcf-b5a0-cb688dfa7f04/front-500
+art: images/covers/grizzly-bear-yellow-house-fcdbfd2f-7dd4-415b-877d-3257bd5429e5.jpg
 review: 
 
 artist: Billy Woods
 album: Aethiopes
 score: 8.7
-art: https://coverartarchive.org/release/80c7e915-35b8-48d7-bbd0-0b8e11b8c8b5/front-500
+art: images/covers/billy-woods-aethiopes-80c7e915-35b8-48d7-bbd0-0b8e11b8c8b5.jpg
 review: 
 
 artist: Beach House
 album: Bloom
 score: 8.7
-art: https://coverartarchive.org/release/f2f1a163-a620-4d15-95b4-709d79526fc5/front-500
+art: images/covers/beach-house-bloom-24c99b7d-b243-450d-8477-46dfd4a8bfa3.jpg
 review: 
 
 artist: Injury Reserve
 album: By The Time I Get To Phoenix
 score: 8.7
-art: https://coverartarchive.org/release/45d90526-f6c1-461d-9ec2-3f8bfbe623ea/front-500
+art: images/covers/injury-reserve-by-the-time-i-get-to-phoenix-45d90526-f6c1-461d-9ec2-3f8bfbe623ea.jpg
 review: 
 
 artist: Floating Points
 album: Elaenia
 score: 8.7
-art: https://coverartarchive.org/release/560732a7-5db6-4651-aa4f-9212ec2d1aa1/front-500
+art: images/covers/floating-points-elaenia-18e7f731-e89a-4591-b201-499977d7688a.jpg
 review: 
 
 artist: The Field
 album: From Here We Go Sublime
 score: 8.7
-art: https://coverartarchive.org/release/53ec7f0c-5a23-4404-8118-f25e7579d2fe/front-500
+art: images/covers/the-field-from-here-we-go-sublime-28854250-aaa2-4215-a17c-eaffa6d16440.jpg
 review: 
 
 artist: Gorillaz
 album: Gorillaz
 score: 8.7
-art: https://coverartarchive.org/release/e98e1e23-709b-4d3e-846a-74798f0582e0/front-500
+art: images/covers/gorillaz-gorillaz-a4405319-5330-49ed-8db7-71cf540cf201.jpg
 review: 
 
 artist: Father John Misty
 album: I Love You, Honeybear
 score: 8.7
-art: https://coverartarchive.org/release/0921936c-b911-4f82-9790-0bd9ab5cfaac/front-500
+art: images/covers/father-john-misty-i-love-you-honeybear-52d2047a-1a84-4313-b0f4-1ef4cc558c1b.jpg
 review: 
 
 artist: Radiohead
 album: In Rainbows
 score: 8.7
-art: https://coverartarchive.org/release/ea92a194-2d60-35c7-9d56-0e1dba20cd45/front-500
+art: images/covers/radiohead-in-rainbows-219e7d7c-806c-44b3-9972-cdb3614b3411.jpg
 review: 
 
 artist: my bloody valentine
 album: Loveless
 score: 8.7
-art: https://coverartarchive.org/release/68f5b261-dcea-4506-b400-90efc4c60254/front-500
+art: images/covers/my-bloody-valentine-loveless-a78a16d6-2c2d-4873-9676-f07f313ba372.jpg
 review: 
 
 artist: FKA twigs
 album: LP1
 score: 8.7
-art: https://coverartarchive.org/release/5f816880-92a0-4e5b-a367-21dfba772faf/front-500
+art: images/covers/fka-twigs-lp1-c7605ef6-554d-459b-a435-7f8866e47b18.jpg
 review: 
 
 artist: Perfume Genius
 album: No Shape
 score: 8.7
-art: https://coverartarchive.org/release/d5d9c649-f1e2-4ff8-af48-0ff65588ce58/front-500
+art: images/covers/perfume-genius-no-shape-70c8c63e-b985-4f4d-a9e4-1ce634e02409.jpg
 review: 
 
 artist: Danny Brown
 album: Old
 score: 8.7
-art: https://coverartarchive.org/release/4a5a2821-8050-49a1-8a0b-b7f8db6528a4/front-500
+art: images/covers/danny-brown-old-4a5a2821-8050-49a1-8a0b-b7f8db6528a4.jpg
 review: 
 
 artist: DARKSIDE
 album: Psychic
 score: 8.7
-art: https://coverartarchive.org/release/e069caee-975a-436e-a333-e59dcd5458d8/front-500
+art: images/covers/darkside-psychic-d1b10da9-c1df-4619-9c5c-da7599df5b56.jpg
 review: 
 
 artist: King Geedorah
 album: Take Me To Your Leader
 score: 8.7
-art: https://coverartarchive.org/release/879b8574-20bf-4721-8cd3-3f0d9496d4cd/front-500
+art: images/covers/king-geedorah-take-me-to-your-leader-e21c3566-03b6-43a2-974c-a8859be391ba.jpg
 review: 
 
 artist: American Football
 album: American Football
 score: 8.6
-art: https://coverartarchive.org/release/644817d4-6c05-42f2-ae20-0a1148e93489/front-500
+art: images/covers/american-football-american-football-3f41825e-5e12-477f-a0f8-76a0a9086297.jpg
 review: 
 
 artist: Vince Staples
 album: Big Fish Theory
 score: 8.6
-art: https://coverartarchive.org/release/3b7d1d1f-27f5-4a85-9635-edd678c2a576/front-500
+art: images/covers/vince-staples-big-fish-theory-31205c55-b5c6-4e6a-aa6f-999d119dd37b.jpg
 review: 
 
 artist: El-P
 album: Cancer 4 Cure
 score: 8.6
-art: https://coverartarchive.org/release/82cc7b89-6abe-465f-ade1-11c7705e3520/front-500
+art: images/covers/el-p-cancer-4-cure-82cc7b89-6abe-465f-ade1-11c7705e3520.jpg
 review: 
 
 artist: Daft Punk
 album: Discovery
 score: 8.6
-art: https://coverartarchive.org/release/6b6628a6-59a2-4284-86fc-8f2d24cb7b7e/front-500
+art: images/covers/daft-punk-discovery-5ad66522-edce-3a77-b5fa-7956ee879239.jpg
 review: 
 
 artist: Fiona Apple
 album: Fetch The Bolt Cutters
 score: 8.6
-art: https://coverartarchive.org/release/51f08309-cfad-478b-a25d-ee61ba4acc26/front-500
+art: images/covers/fiona-apple-fetch-the-bolt-cutters-36026c03-f5b7-4d74-8418-0a2692b910da.jpg
 review: 
 
 artist: Kate Bush
 album: Hounds Of Love
 score: 8.6
-art: https://coverartarchive.org/release/fde7ed79-5fa9-45fb-b2e3-c89158c00a6d/front-500
+art: images/covers/kate-bush-hounds-of-love-b19ac567-8f88-3182-b41f-77bb475e85fe.jpg
 review: 
 
 artist: Slowdive
 album: Just For A Day
 score: 8.6
-art: https://coverartarchive.org/release/028edcd8-fe6f-495b-8dfa-d23d6e0a1a46/front-500
+art: images/covers/slowdive-just-for-a-day-a7db72e2-9f26-3bbb-98b2-bce8a27a7f93.jpg
 review: 
 
 artist: Shabazz Palaces
 album: Lese Majesty
 score: 8.6
-art: https://coverartarchive.org/release/85f02ef9-7f72-46ea-8204-e32801709adc/front-500
+art: images/covers/shabazz-palaces-lese-majesty-85f02ef9-7f72-46ea-8204-e32801709adc.jpg
 review: 
 
 artist: my bloody valentine
 album: m b v
 score: 8.6
-art: https://coverartarchive.org/release/60015c5c-e5c8-48c8-baf4-ba92005bd849/front-500
+art: images/covers/my-bloody-valentine-m-b-v-60015c5c-e5c8-48c8-baf4-ba92005bd849.jpg
 review: 
 
 artist: Run The Jewels
 album: RTJ4
 score: 8.6
-art: https://coverartarchive.org/release/e669bdc6-f37c-4055-a04f-b6ef91bc60ec/front-500
+art: images/covers/run-the-jewels-rtj4-4a7accb6-0ac6-4348-88cc-474d4c2aa349.jpg
 review: 
 
 artist: Run The Jewels
 album: Run the Jewels
 score: 8.6
-art: https://coverartarchive.org/release/53d52798-8884-4143-b334-07d05faa922d/front-500
+art: images/covers/run-the-jewels-run-the-jewels-53d52798-8884-4143-b334-07d05faa922d.jpg
 review: 
 
 artist: William Basinski
@@ -379,19 +379,19 @@ review:
 artist: Kendrick Lamar
 album: To Pimp A Butterfly
 score: 8.5
-art: https://coverartarchive.org/release/98e80256-8123-4243-baf8-cc088e087a67/front-500
+art: images/covers/kendrick-lamar-to-pimp-a-butterfly-8a426098-714d-4897-b180-dfd8f0a70fc9.jpg
 review: 
 
 artist: Jessie Ware
 album: What's Your Pleasure?
 score: 8.5
-art: https://coverartarchive.org/release/d5676a1e-0166-484f-b384-5c8231e42322/front-500
+art: images/covers/jessie-ware-what-s-your-pleasure-d5676a1e-0166-484f-b384-5c8231e42322.jpg
 review: 
 
 artist: Queens of the Stone Age
 album: ...Like Clockwork
 score: 8.5
-art: https://coverartarchive.org/release/8786a039-235b-4070-8528-6d22b340e62e/front-500
+art: images/covers/queens-of-the-stone-age-like-clockwork-f2950275-2fa1-4339-9a8c-a0e5fa4a78f4.jpg
 review: 
 
 artist: Against All Logic
@@ -403,43 +403,43 @@ review:
 artist: Beach House
 album: 7
 score: 8.5
-art: https://coverartarchive.org/release/86c49df1-690f-47c3-ba15-918b1b5f8ecf/front-500
+art: images/covers/beach-house-7-2ed28366-d982-4671-aec0-632cda8ca9bb.jpg
 review: 
 
 artist: Chance the Rapper
 album: Acid Rap
 score: 8.5
-art: https://coverartarchive.org/release/8caabc0f-8c2a-4060-893f-f71bc93cc073/front-500
+art: images/covers/chance-the-rapper-acid-rap-aff11a21-d4ed-41f8-8798-93ec3b5bddfb.jpg
 review: 
 
 artist: Brian Eno
 album: Apollo
 score: 8.5
-art: https://coverartarchive.org/release/151554d2-f588-426a-8d78-f4b55019261c/front-500
+art: images/covers/brian-eno-apollo-978ce480-cf4b-468d-985b-daee3976e7e7.jpg
 review: 
 
 artist: Joy Division
 album: Closer
 score: 8.5
-art: https://coverartarchive.org/release/caf17f1e-56b9-4203-9495-be162e7879ed/front-500
+art: images/covers/joy-division-closer-ee50be9b-85c9-3f3c-a851-e198731ae2ff.jpg
 review: 
 
 artist: Father John Misty
 album: Fear Fun
 score: 8.5
-art: https://coverartarchive.org/release/89d9bdba-4b4f-4ec7-be26-9fe4f8993dd9/front-500
+art: images/covers/father-john-misty-fear-fun-bc46cc23-b517-4abf-9bc8-ba16fb38e52d.jpg
 review: 
 
 artist: Blood Orange
 album: Freetown Sound
 score: 8.5
-art: https://coverartarchive.org/release/c58d72f5-7ee5-4d3d-a653-ad5aecb050d0/front-500
+art: images/covers/blood-orange-freetown-sound-06217f40-785f-4765-a382-15259baa8251.jpg
 review: 
 
 artist: Deerhunter
 album: Halcyon Digest
 score: 8.5
-art: https://coverartarchive.org/release/6651795a-e914-474b-a67e-9630b12b57f4/front-500
+art: images/covers/deerhunter-halcyon-digest-fbd9a0fc-9a54-3295-b4b7-2b34cdd5e6c7.jpg
 review: 
 
 artist: Cocteau Twins
@@ -451,49 +451,49 @@ review:
 artist: Charli XCX
 album: how i'm feeling now
 score: 8.5
-art: https://coverartarchive.org/release/f098f679-4188-4e96-973b-76bfb158e4ab/front-500
+art: images/covers/charli-xcx-how-i-m-feeling-now-7861c45d-6a99-40d1-9f47-cfe48d393d38.jpg
 review: 
 
 artist: Sufjan Stevens
 album: Illinois
 score: 8.5
-art: https://coverartarchive.org/release/677957b6-6c42-4dce-89af-685eefbb1aba/front-500
+art: images/covers/sufjan-stevens-illinois-97618304-bfce-4803-a08c-729105f664cb.jpg
 review: 
 
 artist: Jamila Woods
 album: LEGACY! LEGACY!
 score: 8.5
-art: https://coverartarchive.org/release/e7e7688a-396e-4333-b97a-a6f7e4d45fac/front-500
+art: images/covers/jamila-woods-legacy-legacy-ff8ccd31-5bbb-4a74-8b38-eec726b48fda.jpg
 review: 
 
 artist: Nujabes
 album: Metaphorical Music
 score: 8.5
-art: https://coverartarchive.org/release/941a3f75-661f-4e89-8381-cbf851bea6b6/front-500
+art: images/covers/nujabes-metaphorical-music-28b0ad2b-1d23-4940-b43e-5425ea752609.jpg
 review: 
 
 artist: C418
 album: Minecraft - Volume Alpha
 score: 8.5
-art: https://coverartarchive.org/release/5e396e48-5bc1-4d28-ab34-ee77dc534fed/front-500
+art: images/covers/c418-minecraft-volume-alpha-16688ad4-7df2-41f1-8ca8-d8f1e7256ae9.jpg
 review: 
 
 artist: C418
 album: Minecraft - Volume Beta
 score: 8.5
-art: https://coverartarchive.org/release/5d179bca-6305-487d-8e33-5a895f79424c/front-500
+art: images/covers/c418-minecraft-volume-beta-968fcf60-3a87-4929-8d60-74d766246292.jpg
 review: 
 
 artist: Aesop Rock
 album: None Shall Pass
 score: 8.5
-art: https://coverartarchive.org/release/04741b22-6eec-40d4-a46f-49f740384004/front-500
+art: images/covers/aesop-rock-none-shall-pass-447bb7c1-8b2a-4c76-bedd-95c045076d38.jpg
 review: 
 
 artist: Nostrum Grocers
 album: Nostrum Grocers
 score: 8.5
-art: https://coverartarchive.org/release/11356133-8d02-4696-9927-c007b5257ceb/front-500
+art: images/covers/nostrum-grocers-nostrum-grocers-11356133-8d02-4696-9927-c007b5257ceb.jpg
 review: 
 
 artist: R.A.P. Ferreira
@@ -505,37 +505,37 @@ review:
 artist: Elder
 album: Reflections of a Floating World
 score: 8.5
-art: https://coverartarchive.org/release/e0b73316-d6e6-41e9-a4c8-7091c5809d21/front-500
+art: images/covers/elder-reflections-of-a-floating-world-00d6c33d-d6dd-42f1-aa9a-2240c3b6ea90.jpg
 review: 
 
 artist: Talking Heads
 album: Remain in Light
 score: 8.5
-art: https://coverartarchive.org/release/5db4b569-1076-333a-b493-4a1a0e2ced52/front-500
+art: images/covers/talking-heads-remain-in-light-6d9db0cb-c7e5-31d0-ac93-0db4d4b6d829.jpg
 review: 
 
 artist: Slowdive
 album: Souvlaki
 score: 8.5
-art: https://coverartarchive.org/release/12694708-e437-4874-a5d4-c1ca0ec46313/front-500
+art: images/covers/slowdive-souvlaki-07d02411-6722-4071-8130-14fb8512288a.jpg
 review: 
 
 artist: Caroline Loveglow
 album: Strawberry
 score: 8.5
-art: https://coverartarchive.org/release/b610c272-d757-42d2-8170-bf69915a8704/front-500
+art: images/covers/caroline-loveglow-strawberry-b610c272-d757-42d2-8170-bf69915a8704.jpg
 review: 
 
 artist: The Roots
 album: Undun
 score: 8.5
-art: https://coverartarchive.org/release/92b0d932-ecfb-403c-8e85-a45eafe4579a/front-500
+art: images/covers/the-roots-undun-17105002-a6fd-4f92-9589-aa7f98073638.jpg
 review: 
 
 artist: Milo
 album: Who Told You To Think??!!?!?!?!
 score: 8.5
-art: https://coverartarchive.org/release/4d577e4c-a517-485c-a317-279ed0af184e/front-500
+art: images/covers/milo-who-told-you-to-think-4d577e4c-a517-485c-a317-279ed0af184e.jpg
 review: 
 
 artist: Against All Logic
@@ -553,73 +553,73 @@ review:
 artist: Open Mike Eagle
 album: Brick Body Kids Still Daydream
 score: 8.4
-art: https://coverartarchive.org/release/19b646c3-052f-492f-bb36-a70e04436683/front-500
+art: images/covers/open-mike-eagle-brick-body-kids-still-daydream-19b646c3-052f-492f-bb36-a70e04436683.jpg
 review: 
 
 artist: DJ Shadow
 album: Endtroducing.....
 score: 8.4
-art: https://coverartarchive.org/release/76bd6217-5f4a-4402-ab0d-9e859b2efdb6/front-500
+art: images/covers/dj-shadow-endtroducing-5992a7fd-6ade-3895-827a-a7dfdf6ebb51.jpg
 review: 
 
 artist: Dua Lipa
 album: Future Nostalgia
 score: 8.4
-art: https://coverartarchive.org/release/25f15efb-04ca-43f5-8409-3b2bcf7a63b5/front-500
+art: images/covers/dua-lipa-future-nostalgia-e178c3af-076b-4fed-a7ec-456df283cc57.jpg
 review: 
 
 artist: Blood Orange
 album: Negro Swan
 score: 8.4
-art: https://coverartarchive.org/release/57ecf5b3-4058-4291-b14f-3b1cb483e25b/front-500
+art: images/covers/blood-orange-negro-swan-57ecf5b3-4058-4291-b14f-3b1cb483e25b.jpg
 review: 
 
 artist: Panda Bear
 album: Person Pitch
 score: 8.4
-art: https://coverartarchive.org/release/d40165ac-a2c9-4ab7-9844-b643106a5a9b/front-500
+art: images/covers/panda-bear-person-pitch-d40165ac-a2c9-4ab7-9844-b643106a5a9b.jpg
 review: 
 
 artist: Slowdive
 album: Pygmalion
 score: 8.4
-art: https://coverartarchive.org/release/97d85ef1-bc99-4c2b-9a76-fb6a0975be70/front-500
+art: images/covers/slowdive-pygmalion-97d85ef1-bc99-4c2b-9a76-fb6a0975be70.jpg
 review: 
 
 artist: TV On The Radio
 album: Return To Cookie Mountain
 score: 8.4
-art: https://coverartarchive.org/release/df1a3c35-487b-4cf0-bfaa-0a0e0d382bca/front-500
+art: images/covers/tv-on-the-radio-return-to-cookie-mountain-3c7f5b38-1f43-417e-bf31-75dd238a7516.jpg
 review: 
 
 artist: Run The Jewels
 album: Run the Jewels 2
 score: 8.4
-art: https://coverartarchive.org/release/f2b87901-961a-4243-9fec-6f16226a0018/front-500
+art: images/covers/run-the-jewels-run-the-jewels-2-322a77de-4a67-4f57-aa2f-b918a12fbd5f.jpg
 review: 
 
 artist: Nick Cave & The Bad Seeds
 album: Skeleton Tree
 score: 8.4
-art: https://coverartarchive.org/release/1661a003-1e89-498b-80cb-d79202b73e79/front-500
+art: images/covers/nick-cave-the-bad-seeds-skeleton-tree-1661a003-1e89-498b-80cb-d79202b73e79.jpg
 review: 
 
 artist: Queens of the Stone Age
 album: Songs For The Deaf
 score: 8.4
-art: https://coverartarchive.org/release/ca1cbca3-e7a5-44ac-953f-9a84b22ab333/front-500
+art: images/covers/queens-of-the-stone-age-songs-for-the-deaf-c5729b32-d992-4283-9d86-d38bcb814a14.jpg
 review: 
 
 artist: Vince Staples
 album: Summertime '06
 score: 8.4
-art: https://coverartarchive.org/release/611983ae-54d2-424d-ac72-2fe6c1ff853b/front-500
+art: images/covers/vince-staples-summertime-06-ddf8e715-7f7a-4e9d-8fbb-cad0b7964351.jpg
 review: 
 
 artist: Joy Division
 album: Unknown Pleasures
 score: 8.4
-art: https://coverartarchive.org/release/76f1a023-511e-46e6-a311-45c08cc49fb7/front-500
+art: images/covers/joy-division-unknown-pleasures-8c7b6fd4-bd58-46dd-b747-8b67ae863aa2.jpg
 review: 
 
 artist: Mariah
@@ -631,25 +631,25 @@ review:
 artist: Mid-Air Thief
 album: Crumbling
 score: 8.3
-art: https://coverartarchive.org/release/342e45b0-225d-4411-8c1e-3fb647926a76/front-500
+art: images/covers/mid-air-thief-crumbling-342e45b0-225d-4411-8c1e-3fb647926a76.jpg
 review: 
 
 artist: Viktor Vaughn
 album: Vaudeville Villain
 score: 8.3
-art: https://coverartarchive.org/release/d50c5faa-00b2-493b-9779-636078a17a62/front-500
+art: images/covers/viktor-vaughn-vaudeville-villain-d50c5faa-00b2-493b-9779-636078a17a62.jpg
 review: 
 
 artist: Solange
 album: A Seat at the Table
 score: 8.3
-art: https://coverartarchive.org/release/76b1b676-37ec-4357-b8a3-5f2e564eb0d3/front-500
+art: images/covers/solange-a-seat-at-the-table-8311bc5e-45fa-44b5-926f-2e1b8c00b1d5.jpg
 review: 
 
 artist: Nils Frahm
 album: All Melody
 score: 8.3
-art: https://coverartarchive.org/release/7ebabd10-6943-494b-bbb9-8c38d164f342/front-500
+art: images/covers/nils-frahm-all-melody-7ebabd10-6943-494b-bbb9-8c38d164f342.jpg
 review: 
 
 artist: Brian Eno
@@ -661,19 +661,19 @@ review:
 artist: Sharon Van Etten
 album: Are We There
 score: 8.3
-art: https://coverartarchive.org/release/294ce5a9-a36b-4e41-982e-56f2f94bb581/front-500
+art: images/covers/sharon-van-etten-are-we-there-294ce5a9-a36b-4e41-982e-56f2f94bb581.jpg
 review: 
 
 artist: M.I.A.
 album: Arular
 score: 8.3
-art: https://coverartarchive.org/release/07620db3-afcb-463a-8c0b-54d501a986d2/front-500
+art: images/covers/m-i-a-arular-c3d10658-391c-4444-baf5-e26492068f96.jpg
 review: 
 
 artist: Hiatus Kaiyote
 album: Choose Your Weapon
 score: 8.3
-art: https://coverartarchive.org/release/1cd6fbf4-0a5b-46f9-86d3-544d13041ddc/front-500
+art: images/covers/hiatus-kaiyote-choose-your-weapon-ceab1135-c175-46fd-b0dd-2f981648e78c.jpg
 review: 
 
 artist: Sunny Day Real Estate
@@ -691,109 +691,109 @@ review:
 artist: Pinegrove
 album: Everything so Far
 score: 8.3
-art: https://coverartarchive.org/release/25adb9dc-18f9-4f27-af69-3fde430c4ff7/front-500
+art: images/covers/pinegrove-everything-so-far-25adb9dc-18f9-4f27-af69-3fde430c4ff7.jpg
 review: 
 
 artist: Ty Segall
 album: Freedom's Goblin
 score: 8.3
-art: https://coverartarchive.org/release/2e7ae78b-e86a-4e6d-af98-2b16c1eca140/front-500
+art: images/covers/ty-segall-freedom-s-goblin-2e7ae78b-e86a-4e6d-af98-2b16c1eca140.jpg
 review: 
 
 artist: Kacey Musgraves
 album: Golden Hour
 score: 8.3
-art: https://coverartarchive.org/release/3666066f-ffc2-41d6-b68c-349046dbfb66/front-500
+art: images/covers/kacey-musgraves-golden-hour-3666066f-ffc2-41d6-b68c-349046dbfb66.jpg
 review: 
 
 artist: Alex G
 album: House of Sugar
 score: 8.3
-art: https://coverartarchive.org/release/915ee873-bffb-410e-94a7-6d1c56cd6b2a/front-500
+art: images/covers/alex-g-house-of-sugar-ad0cce86-94e1-4369-93a3-fd5448f209d9.jpg
 review: 
 
 artist: Nas
 album: Illmatic
 score: 8.3
-art: https://coverartarchive.org/release/d9942007-f52f-47a7-b072-5b6ed22489ba/front-500
+art: images/covers/nas-illmatic-2e7c03a2-2ef9-4563-bb6d-ebc65eed77e4.jpg
 review: 
 
 artist: JJ DOOM
 album: Key to the Kuffs
 score: 8.3
-art: https://coverartarchive.org/release/7a88e218-e95b-436a-ac49-b0fbb64bb771/front-500
+art: images/covers/jj-doom-key-to-the-kuffs-aa46d4e1-313f-44c1-b76e-46619dbf073b.jpg
 review: 
 
 artist: Lorde
 album: Melodrama
 score: 8.3
-art: https://coverartarchive.org/release/ee9946a5-082d-4905-8613-a2d0896d70ff/front-500
+art: images/covers/lorde-melodrama-0024c5d8-8b54-459f-ab43-afeab54030a8.jpg
 review: 
 
 artist: MF DOOM
 album: MM...FOOD
 score: 8.3
-art: https://coverartarchive.org/release/8dc35066-e444-445a-a8c6-bb112f8bc844/front-500
+art: images/covers/mf-doom-mm-food-8dc35066-e444-445a-a8c6-bb112f8bc844.jpg
 review: 
 
 artist: Kanye West
 album: My Beautiful Dark Twisted Fantasy
 score: 8.3
-art: https://coverartarchive.org/release/224cc584-3254-454a-98bd-01f594152d27/front-500
+art: images/covers/kanye-west-my-beautiful-dark-twisted-fantasy-90bd7e27-d9c3-4b28-9058-0d55f74ab497.jpg
 review: 
 
 artist: Freddie Gibbs
 album: Piñata
 score: 8.3
-art: https://coverartarchive.org/release/08e46c03-3c06-402a-a00b-f293ed021b38/front-500
+art: images/covers/freddie-gibbs-pi-ata-08e46c03-3c06-402a-a00b-f293ed021b38.jpg
 review: 
 
 artist: Phoebe Bridgers
 album: Punisher
 score: 8.3
-art: https://coverartarchive.org/release/053dc03a-871e-40cf-80fa-e079b0b8a52b/front-500
+art: images/covers/phoebe-bridgers-punisher-446e1326-f326-4949-83fd-c1e8154db31d.jpg
 review: 
 
 artist: dvsn
 album: SEPT 5TH
 score: 8.3
-art: https://coverartarchive.org/release/65dd3633-4611-4df1-bc40-be0b4f8ed6a0/front-500
+art: images/covers/dvsn-sept-5th-65dd3633-4611-4df1-bc40-be0b4f8ed6a0.jpg
 review: 
 
 artist: Perfume Genius
 album: Set My Heart On Fire Immediately
 score: 8.3
-art: https://coverartarchive.org/release/6b1d2515-d6ef-437e-aa28-f7d5b294ecb1/front-500
+art: images/covers/perfume-genius-set-my-heart-on-fire-immediately-79109383-6c84-434d-a910-e4bcc0489b8c.jpg
 review: 
 
 artist: Madlib
 album: Shades Of Blue: Madlib Invades Blue Note
 score: 8.3
-art: https://coverartarchive.org/release/b883bdd1-5dca-46e8-bdb2-31f6b7dc9102/front-500
+art: images/covers/madlib-shades-of-blue-madlib-invades-blue-note-b883bdd1-5dca-46e8-bdb2-31f6b7dc9102.jpg
 review: 
 
 artist: Jon Hopkins
 album: Singularity
 score: 8.3
-art: https://coverartarchive.org/release/878cd698-02b5-4190-98df-5906ee1ac791/front-500
+art: images/covers/jon-hopkins-singularity-30161b32-5bf3-4ea5-8a13-4dbddfb40699.jpg
 review: 
 
 artist: Adrianne Lenker
 album: songs
 score: 8.3
-art: https://coverartarchive.org/release/46b96d25-e893-4bac-a2b2-379a32f591b3/front-500
+art: images/covers/adrianne-lenker-songs-46b96d25-e893-4bac-a2b2-379a32f591b3.jpg
 review: 
 
 artist: Kurt Vile
 album: Square Shells
 score: 8.3
-art: https://coverartarchive.org/release/093b4602-4273-402e-8ad1-495f85cc3c62/front-500
+art: images/covers/kurt-vile-square-shells-39591ef4-bee6-4053-b5c0-e616e2809344.jpg
 review: 
 
 artist: The Cars
 album: The Cars
 score: 8.3
-art: https://coverartarchive.org/release/a47b6ee6-266e-44d8-9a26-251107eae25a/front-500
+art: images/covers/the-cars-the-cars-a47b6ee6-266e-44d8-9a26-251107eae25a.jpg
 review: 
 
 artist: Fiona Apple
@@ -805,25 +805,25 @@ review:
 artist: Death Grips
 album: The Money Store
 score: 8.3
-art: https://coverartarchive.org/release/82b3a467-4db4-44ab-b972-dd35ea300348/front-500
+art: images/covers/death-grips-the-money-store-82b3a467-4db4-44ab-b972-dd35ea300348.jpg
 review: 
 
 artist: DANGERDOOM
 album: THE MOUSE & THE MASK
 score: 8.3
-art: https://coverartarchive.org/release/b4d640cd-568f-4793-b15c-d75f13f9471d/front-500
+art: images/covers/dangerdoom-the-mouse-the-mask-e798868e-f351-46ee-9b6f-7f4cf4787ef3.jpg
 review: 
 
 artist: King Krule
 album: The OOZ
 score: 8.3
-art: https://coverartarchive.org/release/a723e73f-0edc-4b3b-82ed-d9619aeb9433/front-500
+art: images/covers/king-krule-the-ooz-653bfb22-d8eb-4ae6-b1f1-013e570b8cd0.jpg
 review: 
 
 artist: Richard Dawson
 album: The Ruby Cord
 score: 8.3
-art: https://coverartarchive.org/release/ea70036b-5a18-4e3f-9471-ba801c69b227/front-500
+art: images/covers/richard-dawson-the-ruby-cord-b9119711-67fe-406c-9793-23cfd3aabe7f.jpg
 review: 
 
 artist: Car Seat Headrest
@@ -835,73 +835,73 @@ review:
 artist: Gil Scott-Heron
 album: We're New Here
 score: 8.3
-art: https://coverartarchive.org/release/29684643-7a99-3515-b869-e1863ee78766/front-500
+art: images/covers/gil-scott-heron-we-re-new-here-c64ff47a-7558-3d80-ab9d-1588325b4003.jpg
 review: 
 
 artist: The Shins
 album: Wincing The Night Away
 score: 8.3
-art: https://coverartarchive.org/release/34abb4ae-4d37-4d7d-9818-e3c39b5b203b/front-500
+art: images/covers/the-shins-wincing-the-night-away-34abb4ae-4d37-4d7d-9818-e3c39b5b203b.jpg
 review: 
 
 artist: Sorority Noise
 album: You're Not as _____ as You Think
 score: 8.3
-art: https://coverartarchive.org/release/7c75ddbc-46ff-48c3-b694-c91f46f9073e/front-500
+art: images/covers/sorority-noise-you-re-not-as-as-you-think-7c75ddbc-46ff-48c3-b694-c91f46f9073e.jpg
 review: 
 
 artist: JPEGMAFIA & Danny Brown
 album: SCARING THE HOES
 score: 8.2
-art: https://coverartarchive.org/release/56d7440e-dba2-413d-9d11-6a14d80d4f94/front-500
+art: images/covers/jpegmafia-danny-brown-scaring-the-hoes-b17d47b0-97bc-4a1a-b1cc-6b0c2d2c87f5.jpg
 review: 
 
 artist: Sturgill Simpson
 album: A Sailor's Guide to Earth
 score: 8.2
-art: https://coverartarchive.org/release/8875d33d-f300-45d1-865d-ff738f16e5ab/front-500
+art: images/covers/sturgill-simpson-a-sailor-s-guide-to-earth-7cfc597e-ab27-41ac-8ee2-7745169cd602.jpg
 review: 
 
 artist: Angel Olsen
 album: All Mirrors
 score: 8.2
-art: https://coverartarchive.org/release/e4f92970-f705-48b4-aa09-cd2072f945c0/front-500
+art: images/covers/angel-olsen-all-mirrors-a1421e35-7d26-4a51-ad49-b94c9a6ae996.jpg
 review: 
 
 artist: JPEGMAFIA
 album: All My Heroes Are Cornballs
 score: 8.2
-art: https://coverartarchive.org/release/0708f595-c841-4a97-86f0-cf8b2dfa5613/front-500
+art: images/covers/jpegmafia-all-my-heroes-are-cornballs-a4bd9823-b341-4992-99c2-19b0f0cdcfde.jpg
 review: 
 
 artist: LCD Soundsystem
 album: american dream
 score: 8.2
-art: https://coverartarchive.org/release/1eb90b92-b4b2-42be-9473-15d95e926e69/front-500
+art: images/covers/lcd-soundsystem-american-dream-1eb90b92-b4b2-42be-9473-15d95e926e69.jpg
 review: 
 
 artist: Bill Callahan
 album: Apocalypse
 score: 8.2
-art: https://coverartarchive.org/release/44ea7e33-9df4-3198-b955-d6d3a945b595/front-500
+art: images/covers/bill-callahan-apocalypse-cfeefd88-295a-40b5-8d98-f1c120baffa8.jpg
 review: 
 
 artist: Outkast
 album: Aquemini
 score: 8.2
-art: https://coverartarchive.org/release/078aa119-fd2a-492b-856d-b870e203a88c/front-500
+art: images/covers/outkast-aquemini-31957688-4145-4d40-ac0d-773a286d060b.jpg
 review: 
 
 artist: Jay Reatard
 album: Blood Visions
 score: 8.2
-art: https://coverartarchive.org/release/406066d0-a7b4-4ab8-bd6e-c1a324cb9b77/front-500
+art: images/covers/jay-reatard-blood-visions-406066d0-a7b4-4ab8-bd6e-c1a324cb9b77.jpg
 review: 
 
 artist: Digable Planets
 album: Blowout Comb
 score: 8.2
-art: https://coverartarchive.org/release/acdf71be-2eae-4031-a893-c286dc2a669d/front-500
+art: images/covers/digable-planets-blowout-comb-acdf71be-2eae-4031-a893-c286dc2a669d.jpg
 review: 
 
 artist: D'Angelo
@@ -913,109 +913,109 @@ review:
 artist: Soccer Mommy
 album: color theory
 score: 8.2
-art: https://coverartarchive.org/release/87f5b280-95fc-402f-b640-a028c5e2ce81/front-500
+art: images/covers/soccer-mommy-color-theory-d8ab1268-2a41-4757-96ad-2f8a7a5ebef6.jpg
 review: 
 
 artist: Open Mike Eagle
 album: Dark Comedy
 score: 8.2
-art: https://coverartarchive.org/release/399d1da7-1823-43d6-ab77-72413ad17cc8/front-500
+art: images/covers/open-mike-eagle-dark-comedy-5daf7a6f-1697-4b25-82e3-22f0c5951b07.jpg
 review: 
 
 artist: TV On The Radio
 album: Dear Science
 score: 8.2
-art: https://coverartarchive.org/release/9f7cc195-ad06-430f-b486-690d815b6684/front-500
+art: images/covers/tv-on-the-radio-dear-science-d1f2c31d-0e9e-4185-a0fb-d39fc35be0bd.jpg
 review: 
 
 artist: Amen Dunes
 album: Freedom
 score: 8.2
-art: https://coverartarchive.org/release/a7b9c3c7-bb86-40b8-a4f0-2d5cebf484c3/front-500
+art: images/covers/amen-dunes-freedom-67420950-c6e4-4f77-89f9-1c687bfc8eed.jpg
 review: 
 
 artist: Little Simz
 album: GREY Area
 score: 8.2
-art: https://coverartarchive.org/release/e543e591-8f14-490a-8d10-b2711bdd4584/front-500
+art: images/covers/little-simz-grey-area-b77a51b1-853e-4d29-b6a6-31615e4607e9.jpg
 review: 
 
 artist: El-P
 album: I'll Sleep When You're Dead
 score: 8.2
-art: https://coverartarchive.org/release/8fecfc1a-e8ca-4bf9-809a-f5c2e42196cd/front-500
+art: images/covers/el-p-i-ll-sleep-when-you-re-dead-8fecfc1a-e8ca-4bf9-809a-f5c2e42196cd.jpg
 review: 
 
 artist: ODESZA
 album: In Return
 score: 8.2
-art: https://coverartarchive.org/release/352ed422-6ff3-45e4-ad0b-60d7111ca67a/front-500
+art: images/covers/odesza-in-return-ebcca334-5254-4d05-a7c5-2bd514a09a9d.jpg
 review: 
 
 artist: James Blake
 album: James Blake
 score: 8.2
-art: https://coverartarchive.org/release/461324e3-e943-4a90-aba0-6eb1e4f4289d/front-500
+art: images/covers/james-blake-james-blake-461324e3-e943-4a90-aba0-6eb1e4f4289d.jpg
 review: 
 
 artist: Floating Points
 album: Kuiper
 score: 8.2
-art: https://coverartarchive.org/release/89e2de64-2346-495f-a97b-55ed92139626/front-500
+art: images/covers/floating-points-kuiper-0f7b7c2d-664d-42fe-8c50-586963d7b987.jpg
 review: 
 
 artist: Lil Ugly Mane
 album: Mista Thug Isolation
 score: 8.2
-art: https://coverartarchive.org/release/6d213275-7191-4e01-9be9-ad79f5c547a3/front-500
+art: images/covers/lil-ugly-mane-mista-thug-isolation-34542e13-4dba-4001-a077-26607d833d60.jpg
 review: 
 
 artist: Brian Eno
 album: Music For Installations
 score: 8.2
-art: https://coverartarchive.org/release/28bcb5a8-2b92-433b-b006-915308b658cb/front-500
+art: images/covers/brian-eno-music-for-installations-15a94669-7415-4a2e-87f6-8a7d274d29cb.jpg
 review: 
 
 artist: Nicolas Jaar
 album: Nymphs
 score: 8.2
-art: https://coverartarchive.org/release/61e8113b-990d-42b3-8ebc-be2168b53ad5/front-500
+art: images/covers/nicolas-jaar-nymphs-c4faee03-42c2-4faa-b99b-22fd8fee0d99.jpg
 review: 
 
 artist: SOPHIE
 album: OIL OF EVERY PEARL'S UN-INSIDES
 score: 8.2
-art: https://coverartarchive.org/release/957806d5-1053-4c2a-ac2c-539d54d4dc23/front-500
+art: images/covers/sophie-oil-of-every-pearl-s-un-insides-2b94a5d9-e61d-43a3-bd82-bd3412c1384c.jpg
 review: 
 
 artist: Panda Bear
 album: Panda Bear Meets The Grim Reaper
 score: 8.2
-art: https://coverartarchive.org/release/a8ff2634-1c7b-4d39-b9ff-3746fbd19562/front-500
+art: images/covers/panda-bear-panda-bear-meets-the-grim-reaper-a8ff2634-1c7b-4d39-b9ff-3746fbd19562.jpg
 review: 
 
 artist: Nick Drake
 album: Pink Moon
 score: 8.2
-art: https://coverartarchive.org/release/2a274c12-8785-351a-9155-1d6d2dfde21c/front-500
+art: images/covers/nick-drake-pink-moon-608de3ea-c08f-36f5-9ac6-53d401940de7.jpg
 review: 
 
 artist: Daft Punk
 album: Random Access Memories
 score: 8.2
-art: https://coverartarchive.org/release/ec116461-5b0d-4c98-bb44-a4de5de63076/front-500
+art: images/covers/daft-punk-random-access-memories-ec116461-5b0d-4c98-bb44-a4de5de63076.jpg
 review: 
 
 artist: Tim Hecker
 album: Ravedeath, 1972
 score: 8.2
-art: https://coverartarchive.org/release/a162cc57-4e6d-44bf-b0d2-f35ae3f90757/front-500
+art: images/covers/tim-hecker-ravedeath-1972-93c4d332-9954-4ea1-bd2b-f75c4e9f509f.jpg
 review: 
 
 artist: Run The Jewels
 album: Run the Jewels 3
 score: 8.2
-art: https://coverartarchive.org/release/81e91532-5a68-4d05-b21d-35ffb8aaac5a/front-500
+art: images/covers/run-the-jewels-run-the-jewels-3-ca507400-966b-41f8-85f8-3e77489e2c03.jpg
 review: 
 
 artist: Nicolas Jaar
@@ -1027,73 +1027,73 @@ review:
 artist: Pinegrove
 album: Skylight
 score: 8.2
-art: https://coverartarchive.org/release/2beed145-37ff-45ec-9969-baddfcdcde55/front-500
+art: images/covers/pinegrove-skylight-2beed145-37ff-45ec-9969-baddfcdcde55.jpg
 review: 
 
 artist: Ween
 album: The Mollusk
 score: 8.2
-art: https://coverartarchive.org/release/5bb989a3-cab7-3ca0-a20a-f5d4d7c30c7c/front-500
+art: images/covers/ween-the-mollusk-98d4e2e0-2ed1-43af-81d4-e5182d871a16.jpg
 review: 
 
 artist: Eartheater
 album: Trinity
 score: 8.2
-art: https://coverartarchive.org/release/bf665056-3492-46fa-96f1-02ca4bd91cc9/front-500
+art: images/covers/eartheater-trinity-de40b546-d988-4b06-a356-8627f1c83a0c.jpg
 review: 
 
 artist: A Tribe Called Quest
 album: We got it from Here... Thank You 4 Your service
 score: 8.2
-art: https://coverartarchive.org/release/e5c3e417-99b2-473f-9660-b4bb26c8b771/front-500
+art: images/covers/a-tribe-called-quest-we-got-it-from-here-thank-you-4-your-service-eb3a43ff-34cf-4c17-9be6-9ffa06e7ac40.jpg
 review: 
 
 artist: Solange
 album: When I Get Home
 score: 8.2
-art: https://coverartarchive.org/release/d8a54dea-12d4-48db-b2a4-12ed29a1c4f6/front-500
+art: images/covers/solange-when-i-get-home-4f3a0a39-88b0-485f-86ef-00639c8f0550.jpg
 review: 
 
 artist: Wilco
 album: Yankee Hotel Foxtrot
 score: 8.2
-art: https://coverartarchive.org/release/790cb86e-52b0-4c3d-a8d2-c5fa57b74076/front-500
+art: images/covers/wilco-yankee-hotel-foxtrot-d67d3f47-f7b5-45fe-9567-a237746a6105.jpg
 review: 
 
 artist: Kanye West
 album: Yeezus
 score: 8.2
-art: https://coverartarchive.org/release/3fe486c9-d4ad-44fb-b31a-7671fd1935ef/front-500
+art: images/covers/kanye-west-yeezus-e1cd2cd9-3cd6-40bf-9802-9aa2d231fc2d.jpg
 review: 
 
 artist: Fleetwood Mac
 album: Rumours
 score: 8.1
-art: https://coverartarchive.org/release/7ec069c0-4424-3169-8ed0-d5e2473e0e84/front-500
+art: images/covers/fleetwood-mac-rumours-b8fb140b-6fb2-4243-b25b-7edf3703443d.jpg
 review: 
 
 artist: Sharon Van Etten
 album: Remind Me Tomorrow
 score: 8.1
-art: https://coverartarchive.org/release/8294bd40-f4f5-4a8c-ac39-e4fd90936f4f/front-500
+art: images/covers/sharon-van-etten-remind-me-tomorrow-454934e0-2047-48b4-9beb-5d227af1256d.jpg
 review: 
 
 artist: Bon Iver
 album: 22, A Million
 score: 8.1
-art: https://coverartarchive.org/release/e145fc98-4895-43aa-b75a-8bacebab6a30/front-500
+art: images/covers/bon-iver-22-a-million-24a21b9e-0e6d-42b8-916c-e8648771b91c.jpg
 review: 
 
 artist: JAY-Z
 album: 4:44
 score: 8.1
-art: https://coverartarchive.org/release/e232736b-d682-4075-a468-06efad9b0ce6/front-500
+art: images/covers/jay-z-4-44-69ccef87-3693-45bf-b75b-e99013a4caec.jpg
 review: 
 
 artist: King Krule
 album: 6 Feet Beneath The Moon
 score: 8.1
-art: https://coverartarchive.org/release/cfa9feb3-bede-46fc-8d4f-4c2aa69e703d/front-500
+art: images/covers/king-krule-6-feet-beneath-the-moon-cfa9feb3-bede-46fc-8d4f-4c2aa69e703d.jpg
 review: 
 
 artist: KAYTRANADA
@@ -1105,169 +1105,169 @@ review:
 artist: Archy Marshall
 album: A New Place 2 Drown
 score: 8.1
-art: https://coverartarchive.org/release/ad7295c6-7075-4641-8691-ad7dbe826b79/front-500
+art: images/covers/archy-marshall-a-new-place-2-drown-ad7295c6-7075-4641-8691-ad7dbe826b79.jpg
 review: 
 
 artist: Alvvays
 album: Antisocialites
 score: 8.1
-art: https://coverartarchive.org/release/e5b2bec0-633e-46cf-9925-81cf067bc7f7/front-500
+art: images/covers/alvvays-antisocialites-1f2f93b4-7b9b-4fef-85fb-20f7439d9fbd.jpg
 review: 
 
 artist: Underworld
 album: Barbara Barbara, we face a shining future
 score: 8.1
-art: https://coverartarchive.org/release/9cfd8cfb-8ca2-458f-baed-a1b864a77fef/front-500
+art: images/covers/underworld-barbara-barbara-we-face-a-shining-future-b35fa411-e10b-42ff-8e91-938b6660fd8a.jpg
 review: 
 
 artist: Nick Drake
 album: Bryter Layter
 score: 8.1
-art: https://coverartarchive.org/release/0266c5dc-e7d4-49a7-8964-f7e4461f911a/front-500
+art: images/covers/nick-drake-bryter-layter-29605d1d-23bd-46c4-80ff-68813ef230d4.jpg
 review: 
 
 artist: Various Artists
 album: Call Me by Your Name (Original Motion Picture Soundtrack)
 score: 8.1
-art: https://coverartarchive.org/release/2a75d348-1eaa-4b2a-b0b8-e0a900f8e01c/front-500
+art: images/covers/various-artists-call-me-by-your-name-original-motion-picture-soundtrack-4cb28eae-9ba0-405f-81eb-839aa486cbab.jpg
 review: 
 
 artist: Nicolas Jaar
 album: Cenizas
 score: 8.1
-art: https://coverartarchive.org/release/b8391b02-2811-46a4-a707-16d9401e560f/front-500
+art: images/covers/nicolas-jaar-cenizas-bf00d7be-0cec-4f41-91b2-2d8c5946b6a2.jpg
 review: 
 
 artist: Duster
 album: Contemporary Movement
 score: 8.1
-art: https://coverartarchive.org/release/9b602e61-0324-4808-af0b-7fc62a400712/front-500
+art: images/covers/duster-contemporary-movement-9b602e61-0324-4808-af0b-7fc62a400712.jpg
 review: 
 
 artist: Electric Wizard
 album: Dopethrone
 score: 8.1
-art: https://coverartarchive.org/release/19c74370-6a04-4565-8d1f-feab2d46825d/front-500
+art: images/covers/electric-wizard-dopethrone-ffa960e6-503f-3a2c-a57a-801298cfdecf.jpg
 review: 
 
 artist: Low
 album: Double Negative
 score: 8.1
-art: https://coverartarchive.org/release/a8f94c7c-a2b1-4803-abee-19646a315cea/front-500
+art: images/covers/low-double-negative-a8f94c7c-a2b1-4803-abee-19646a315cea.jpg
 review: 
 
 artist: Black Country, New Road
 album: For the first time
 score: 8.1
-art: https://coverartarchive.org/release/5938b6e1-9825-4a2a-86fe-cb7148475d51/front-500
+art: images/covers/black-country-new-road-for-the-first-time-1d18ae80-52db-422d-90ee-4b8400096939.jpg
 review: 
 
 artist: Uyama Hiroto
 album: freeform jazz
 score: 8.1
-art: https://coverartarchive.org/release/3f5e17ae-ed32-4941-8709-dd17f4af74ed/front-500
+art: images/covers/uyama-hiroto-freeform-jazz-89ca5ac3-debe-4cc4-950f-4779493db1cd.jpg
 review: 
 
 artist: Quelle Chris
 album: Guns
 score: 8.1
-art: https://coverartarchive.org/release/92610b2f-e22e-413e-9e3d-99b7d5d72e39/front-500
+art: images/covers/quelle-chris-guns-92610b2f-e22e-413e-9e3d-99b7d5d72e39.jpg
 review: 
 
 artist: Open Mike Eagle
 album: Hella Personal Film Festival
 score: 8.1
-art: https://coverartarchive.org/release/2cda93e8-67d1-4703-a424-da0d6d7b02bf/front-500
+art: images/covers/open-mike-eagle-hella-personal-film-festival-2cda93e8-67d1-4703-a424-da0d6d7b02bf.jpg
 review: 
 
 artist: Lucy Dacus
 album: Historian
 score: 8.1
-art: https://coverartarchive.org/release/be0eec9e-98be-454f-8b8f-bee944ac0565/front-500
+art: images/covers/lucy-dacus-historian-be0eec9e-98be-454f-8b8f-bee944ac0565.jpg
 review: 
 
 artist: Rival Consoles
 album: Howl
 score: 8.1
-art: https://coverartarchive.org/release/008d6ca0-84a3-431b-8202-cb2a0e5b37ef/front-500
+art: images/covers/rival-consoles-howl-42adfa62-2db5-45bf-bc86-059c12644917.jpg
 review: 
 
 artist: Earl Sweatshirt
 album: I Don't Like Shit, I Don't Go Outside: An Album by Earl Sweatshirt
 score: 8.1
-art: https://coverartarchive.org/release/dc8b8c33-2138-4fd9-b9fa-a31863a3e858/front-500
+art: images/covers/earl-sweatshirt-i-don-t-like-shit-i-don-t-go-outside-an-album-by-earl-sweatshirt-8a914517-a5ec-433e-9828-d2e723e5e05f.jpg
 review: 
 
 artist: Spiritualized
 album: Ladies & Gentlemen We Are Floating In Space
 score: 8.1
-art: https://coverartarchive.org/release/f165c10a-aed2-3409-87a6-3da69cb71922/front-500
+art: images/covers/spiritualized-ladies-gentlemen-we-are-floating-in-space-02c019fd-a51a-48b2-bd8f-a64803537dc1.jpg
 review: 
 
 artist: Thelonious Monk
 album: Les Liaisons Dangereuses 1960
 score: 8.1
-art: https://coverartarchive.org/release/f5d0d728-c3b3-4ab8-9147-aa38e715f57e/front-500
+art: images/covers/thelonious-monk-les-liaisons-dangereuses-1960-f5d0d728-c3b3-4ab8-9147-aa38e715f57e.jpg
 review: 
 
 artist: Tame Impala
 album: Lonerism
 score: 8.1
-art: https://coverartarchive.org/release/d105e2cd-f497-488f-a33b-c51195ac85ad/front-500
+art: images/covers/tame-impala-lonerism-82ec7c9c-9cba-4a9e-ba74-211e170149c6.jpg
 review: 
 
 artist: The War On Drugs
 album: Lost In The Dream
 score: 8.1
-art: https://coverartarchive.org/release/c38765cc-bafe-48ff-9a78-26f6d816a46b/front-500
+art: images/covers/the-war-on-drugs-lost-in-the-dream-c38765cc-bafe-48ff-9a78-26f6d816a46b.jpg
 review: 
 
 artist: Snail Mail
 album: Lush
 score: 8.1
-art: https://coverartarchive.org/release/1ca103e0-ddca-4d71-8c7e-1edab93c7fd1/front-500
+art: images/covers/snail-mail-lush-1ca103e0-ddca-4d71-8c7e-1edab93c7fd1.jpg
 review: 
 
 artist: Sturgill Simpson
 album: Metamodern Sounds in Country Music
 score: 8.1
-art: https://coverartarchive.org/release/53725d07-1ef2-4bcf-a26c-081931a5182c/front-500
+art: images/covers/sturgill-simpson-metamodern-sounds-in-country-music-ff758bcd-3e71-410c-98c4-be50038c419d.jpg
 review: 
 
 artist: Vampire Weekend
 album: Modern Vampires of the City
 score: 8.1
-art: https://coverartarchive.org/release/c1159861-71c9-4710-9586-939c8bc3708c/front-500
+art: images/covers/vampire-weekend-modern-vampires-of-the-city-24b6a96d-93d7-474e-a70d-c00ef4cc27a8.jpg
 review: 
 
 artist: Rival Consoles
 album: Night Melody / Articulation
 score: 8.1
-art: https://coverartarchive.org/release/980a83c6-2629-4e59-a028-785197872cbc/front-500
+art: images/covers/rival-consoles-night-melody-articulation-87956204-5703-432e-8112-b23e0a93af89.jpg
 review: 
 
 artist: Lana Del Rey
 album: Norman Fucking Rockwell!
 score: 8.1
-art: https://coverartarchive.org/release/a48fdd57-39fb-48aa-96be-7d1e60e81bda/front-500
+art: images/covers/lana-del-rey-norman-fucking-rockwell-4d6a8ae6-f1c2-4ac5-8a20-bb6eebe949ab.jpg
 review: 
 
 artist: Caroline Polachek
 album: Pang
 score: 8.1
-art: https://coverartarchive.org/release/86238eec-9d3e-4b39-b146-3a8668bb1e5e/front-500
+art: images/covers/caroline-polachek-pang-d208d89f-e065-4435-b526-a812dd1eedf9.jpg
 review: 
 
 artist: Floating Points
 album: Promises
 score: 8.1
-art: https://coverartarchive.org/release/0a81992c-b8d6-43c5-8509-d74fd2846590/front-500
+art: images/covers/floating-points-promises-0a81992c-b8d6-43c5-8509-d74fd2846590.jpg
 review: 
 
 artist: Clams Casino
 album: Rainforest
 score: 8.1
-art: https://coverartarchive.org/release/56102380-feef-4a7d-affb-39354e468738/front-500
+art: images/covers/clams-casino-rainforest-56102380-feef-4a7d-affb-39354e468738.jpg
 review: 
 
 artist: Aesop Rock
@@ -1279,55 +1279,55 @@ review:
 artist: Milo
 album: So The Flies Don't Come
 score: 8.1
-art: https://coverartarchive.org/release/998f3931-e1b1-44de-bb30-5a7750deb5ea/front-500
+art: images/covers/milo-so-the-flies-don-t-come-998f3931-e1b1-44de-bb30-5a7750deb5ea.jpg
 review: 
 
 artist: Duster
 album: Stratosphere
 score: 8.1
-art: https://coverartarchive.org/release/852d8d77-2e77-49c3-a681-c3c953342c5a/front-500
+art: images/covers/duster-stratosphere-79acc86e-b12b-4a4a-ad7d-7c9f928438a3.jpg
 review: 
 
 artist: Wye Oak
 album: The Louder I Call, the Faster It Runs
 score: 8.1
-art: https://coverartarchive.org/release/5bbbd26b-e515-441f-932f-c748bb864346/front-500
+art: images/covers/wye-oak-the-louder-i-call-the-faster-it-runs-5bbbd26b-e515-441f-932f-c748bb864346.jpg
 review: 
 
 artist: Grandaddy
 album: The Sophtware Slump
 score: 8.1
-art: https://coverartarchive.org/release/427c06fd-4549-3556-beee-0d3221b99308/front-500
+art: images/covers/grandaddy-the-sophtware-slump-a1ad0a4b-9ad5-44b8-bed4-187698e05dc2.jpg
 review: 
 
 artist: Weyes Blood
 album: Titanic Rising
 score: 8.1
-art: https://coverartarchive.org/release/38c7af19-3f10-46f7-8a85-3c9801893593/front-500
+art: images/covers/weyes-blood-titanic-rising-fda29280-78f2-4e03-8108-f34a4cf5aae9.jpg
 review: 
 
 artist: Ezra Furman
 album: Transangelic Exodus
 score: 8.1
-art: https://coverartarchive.org/release/a8d3c33f-7ec5-4446-9afc-a55b53df35a2/front-500
+art: images/covers/ezra-furman-transangelic-exodus-a8d3c33f-7ec5-4446-9afc-a55b53df35a2.jpg
 review: 
 
 artist: Sleigh Bells
 album: Treats
 score: 8.1
-art: https://coverartarchive.org/release/628b5d0a-45ac-43df-b456-9bef62937fd3/front-500
+art: images/covers/sleigh-bells-treats-9080cfc2-8c59-4333-8040-219ea6ac0433.jpg
 review: 
 
 artist: Ty Segall
 album: Ty Segall
 score: 8.1
-art: https://coverartarchive.org/release/ea402b49-b13e-4c66-b368-479fa1dd3de8/front-500
+art: images/covers/ty-segall-ty-segall-ea402b49-b13e-4c66-b368-479fa1dd3de8.jpg
 review: 
 
 artist: Protomartyr
 album: Ultimate Success Today
 score: 8.1
-art: https://coverartarchive.org/release/5bdea2e9-09a6-4573-88dc-5931075218f1/front-500
+art: images/covers/protomartyr-ultimate-success-today-5bdea2e9-09a6-4573-88dc-5931075218f1.jpg
 review: 
 
 artist: Sweet Trip
@@ -1339,19 +1339,19 @@ review:
 artist: JPEGMAFIA
 album: Veteran
 score: 8.1
-art: https://coverartarchive.org/release/2f04b360-da19-4378-8974-22f36fdea0a9/front-500
+art: images/covers/jpegmafia-veteran-ba5078aa-69a6-4b69-b81e-cfb0b7aa74a3.jpg
 review: 
 
 artist: ２８１４
 album: 新しい日の誕生
 score: 8.1
-art: https://coverartarchive.org/release/3a2994a6-aa8a-4a57-b340-47bff57d70c7/front-500
+art: images/covers/item-item-3a2994a6-aa8a-4a57-b340-47bff57d70c7.jpg
 review: 
 
 artist: Luke Temple
 album: A Hand Through the Cellar Door
 score: 8
-art: https://coverartarchive.org/release/64e7b593-402a-4f49-be15-73bba4ac4750/front-500
+art: images/covers/luke-temple-a-hand-through-the-cellar-door-64e7b593-402a-4f49-be15-73bba4ac4750.jpg
 review: 
 
 artist: Brian Eno
@@ -1363,103 +1363,103 @@ review:
 artist: Caribou
 album: Andorra
 score: 8
-art: https://coverartarchive.org/release/1523e385-595c-3de2-9377-81197a71b329/front-500
+art: images/covers/caribou-andorra-8d824724-2ad0-4531-9e6d-c95a6b33ee40.jpg
 review: 
 
 artist: Mom Jeans.
 album: Best Buds
 score: 8
-art: https://coverartarchive.org/release/9003ed77-853e-4086-bfd7-c5e2a89bfdd8/front-500
+art: images/covers/mom-jeans-best-buds-9003ed77-853e-4086-bfd7-c5e2a89bfdd8.jpg
 review: 
 
 artist: Kurt Vile
 album: Bottle It In
 score: 8
-art: https://coverartarchive.org/release/068a8a78-eb80-4931-8242-490934a8e3b0/front-500
+art: images/covers/kurt-vile-bottle-it-in-068a8a78-eb80-4931-8242-490934a8e3b0.jpg
 review: 
 
 artist: Squid
 album: Bright Green Field
 score: 8
-art: https://coverartarchive.org/release/077b9687-3897-4887-969d-59ffbd607783/front-500
+art: images/covers/squid-bright-green-field-5dd3c929-1e62-4335-aeef-11a466ba57b5.jpg
 review: 
 
 artist: clipping.
 album: CLPPNG
 score: 8
-art: https://coverartarchive.org/release/ba8a8356-5075-4160-9fbb-0abdc7558a6b/front-500
+art: images/covers/clipping-clppng-c7da69ca-559e-4551-994a-11592e7f5236.jpg
 review: 
 
 artist: Forest Swords
 album: Compassion
 score: 8
-art: https://coverartarchive.org/release/d9798f9c-c4cf-4a76-908b-7858e4acc941/front-500
+art: images/covers/forest-swords-compassion-d9798f9c-c4cf-4a76-908b-7858e4acc941.jpg
 review: 
 
 artist: Underworld
 album: DRIFT Series 1
 score: 8
-art: https://coverartarchive.org/release/09337b23-defb-43af-8282-c7d2cad8e4e0/front-500
+art: images/covers/underworld-drift-series-1-09337b23-defb-43af-8282-c7d2cad8e4e0.jpg
 review: 
 
 artist: SPIRIT OF THE BEEHIVE
 album: ENTERTAINMENT, DEATH
 score: 8
-art: https://coverartarchive.org/release/f05096c9-79a3-4e9c-ae2b-35459203efdc/front-500
+art: images/covers/spirit-of-the-beehive-entertainment-death-f05096c9-79a3-4e9c-ae2b-35459203efdc.jpg
 review: 
 
 artist: Loraine James
 album: For You and I
 score: 8
-art: https://coverartarchive.org/release/e9ae8771-6d42-49b1-ba85-5abf7cd04900/front-500
+art: images/covers/loraine-james-for-you-and-i-e9ae8771-6d42-49b1-ba85-5abf7cd04900.jpg
 review: 
 
 artist: Nick Cave & The Bad Seeds
 album: Ghosteen
 score: 8
-art: https://coverartarchive.org/release/5b9443ab-1624-48fc-a1e2-caa9d8209ffc/front-500
+art: images/covers/nick-cave-the-bad-seeds-ghosteen-8ec4e8e7-a7c2-4820-a0f8-e2c37bb40ad9.jpg
 review: 
 
 artist: Soft Blue Shimmer
 album: Heaven Inches Away
 score: 8
-art: https://coverartarchive.org/release/a04f41ca-3ee2-4cae-a9cb-235338bc3146/front-500
+art: images/covers/soft-blue-shimmer-heaven-inches-away-a04f41ca-3ee2-4cae-a9cb-235338bc3146.jpg
 review: 
 
 artist: Yves Tumor
 album: Heaven To A Tortured Mind
 score: 8
-art: https://coverartarchive.org/release/187bfb77-35c9-4d1f-a8c4-1701479b8fa3/front-500
+art: images/covers/yves-tumor-heaven-to-a-tortured-mind-187bfb77-35c9-4d1f-a8c4-1701479b8fa3.jpg
 review: 
 
 artist: Burial
 album: Her Revolution / His Rope
 score: 8
-art: https://coverartarchive.org/release/7aff5d94-effc-477a-aae2-6802974cd1c6/front-500
+art: images/covers/burial-her-revolution-his-rope-7aff5d94-effc-477a-aae2-6802974cd1c6.jpg
 review: 
 
 artist: Billy Woods
 album: Hiding Places
 score: 8
-art: https://coverartarchive.org/release/f6794b6d-85b2-4c81-92dc-da3fda5497c1/front-500
+art: images/covers/billy-woods-hiding-places-f6794b6d-85b2-4c81-92dc-da3fda5497c1.jpg
 review: 
 
 artist: M83
 album: Hurry Up, We're Dreaming
 score: 8
-art: https://coverartarchive.org/release/cc138f19-a9e9-447a-bf76-34eb6f42231e/front-500
+art: images/covers/m83-hurry-up-we-re-dreaming-7bde711e-1455-4352-b53d-d87d1e0b6b69.jpg
 review: 
 
 artist: U.S. Girls
 album: In a Poem Unlimited
 score: 8
-art: https://coverartarchive.org/release/3b5db962-46e7-4a21-a667-95f80742deca/front-500
+art: images/covers/u-s-girls-in-a-poem-unlimited-93ef569a-254c-40cc-a1ea-54f2b99bd20a.jpg
 review: 
 
 artist: Jamie xx
 album: In Colour
 score: 8
-art: https://coverartarchive.org/release/9fa0a3a0-3644-4f5d-900a-de7f658cb64c/front-500
+art: images/covers/jamie-xx-in-colour-effbf12f-1338-4da9-9e2e-39a1ca7bc4ba.jpg
 review: 
 
 artist: Department Of Eagles
@@ -1471,31 +1471,31 @@ review:
 artist: The Field
 album: Infinite Moment
 score: 8
-art: https://coverartarchive.org/release/713fbb06-6b29-4c27-8409-59d97123805e/front-500
+art: images/covers/the-field-infinite-moment-15ec087d-73a3-4fb8-9ced-913bd15fa80f.jpg
 review: 
 
 artist: Japanese Breakfast
 album: Jubilee
 score: 8
-art: https://coverartarchive.org/release/9bab5c5a-7f90-4250-9ccd-6591c9d160d6/front-500
+art: images/covers/japanese-breakfast-jubilee-edceeb0b-c5dc-4508-a467-9ae0be4d6815.jpg
 review: 
 
 artist: Various Artists
 album: Kankyō Ongaku: Japanese Ambient, Environmental & New Age Music 1980-1990
 score: 8
-art: https://coverartarchive.org/release/cffa9289-55eb-4da3-96a5-33a44477e40c/front-500
+art: images/covers/various-artists-kanky-ongaku-japanese-ambient-environmental-new-age-music-1980-1990-2951673d-e0ea-4559-9bb5-35c31b9de8b2.jpg
 review: 
 
 artist: KIDS SEE GHOSTS
 album: KIDS SEE GHOSTS
 score: 8
-art: https://coverartarchive.org/release/aaf52b88-9a7a-47c1-9e64-c4ab6742e37b/front-500
+art: images/covers/kids-see-ghosts-kids-see-ghosts-bfd49137-704c-4b31-bdb1-b4a5ca739db3.jpg
 review: 
 
 artist: Tim Hecker
 album: Konoyo
 score: 8
-art: https://coverartarchive.org/release/359c37a9-bd1e-48db-b892-6f96846403e4/front-500
+art: images/covers/tim-hecker-konoyo-ef389c8c-9465-45fa-86e1-efc49f6f3c36.jpg
 review: 
 
 artist: Jon Hopkins
@@ -1507,37 +1507,37 @@ review:
 artist: Tyler Childers
 album: Long Violent History
 score: 8
-art: https://coverartarchive.org/release/3346dd3b-20ad-4f5c-a1fa-8606bfb40713/front-500
+art: images/covers/tyler-childers-long-violent-history-91166af4-34c8-41a4-860f-6c8501b39fda.jpg
 review: 
 
 artist: FKA twigs
 album: MAGDALENE
 score: 8
-art: https://coverartarchive.org/release/f58a3757-14fe-4340-94e8-5f2284e48356/front-500
+art: images/covers/fka-twigs-magdalene-c34e03c7-163e-4495-8e6f-9cb9579a2720.jpg
 review: 
 
 artist: Kid Cudi
 album: Man On The Moon: The End Of Day
 score: 8
-art: https://coverartarchive.org/release/502e512f-a120-39f8-b244-e14fd73cde6e/front-500
+art: images/covers/kid-cudi-man-on-the-moon-the-end-of-day-e44d998a-0b74-4bbf-b0b1-f8cb5541169d.jpg
 review: 
 
 artist: Pinegrove
 album: Marigold
 score: 8
-art: https://coverartarchive.org/release/7b8d1fa7-227f-441e-8efe-a12d21e19ae1/front-500
+art: images/covers/pinegrove-marigold-7b8d1fa7-227f-441e-8efe-a12d21e19ae1.jpg
 review: 
 
 artist: MIKE
 album: MAY GOD BLESS YOUR HUSTLE
 score: 8
-art: https://coverartarchive.org/release/8351e55c-6ca3-493a-a051-1204e3d379e6/front-500
+art: images/covers/mike-may-god-bless-your-hustle-8351e55c-6ca3-493a-a051-1204e3d379e6.jpg
 review: 
 
 artist: Dogleg
 album: Melee
 score: 8
-art: https://coverartarchive.org/release/33d9a10c-74db-40d3-8594-2dd7ea2c056f/front-500
+art: images/covers/dogleg-melee-33d9a10c-74db-40d3-8594-2dd7ea2c056f.jpg
 review: 
 
 artist: MF DOOM
@@ -1549,19 +1549,19 @@ review:
 artist: Magdalena Bay
 album: mini mix vol. 3
 score: 8
-art: https://coverartarchive.org/release/ed2e9bd1-6c53-42f4-b563-9e76fb80eb84/front-500
+art: images/covers/magdalena-bay-mini-mix-vol-3-8075e8e1-dcc5-4c4a-bd5d-dadeecfc1260.jpg
 review: 
 
 artist: Various Artists
 album: Mono No Aware
 score: 8
-art: https://coverartarchive.org/release/09153bd3-18c0-47b1-a9d8-6f165f625c1c/front-500
+art: images/covers/various-artists-mono-no-aware-09153bd3-18c0-47b1-a9d8-6f165f625c1c.jpg
 review: 
 
 artist: Autechre
 album: NTS Session 1
 score: 8
-art: https://coverartarchive.org/release/7d64a467-1c94-4366-a8ad-526918133f08/front-500
+art: images/covers/autechre-nts-session-1-7d64a467-1c94-4366-a8ad-526918133f08.jpg
 review: 
 
 artist: Caribou
@@ -1573,25 +1573,25 @@ review:
 artist: BUSDRIVER
 album: Perfect Hair
 score: 8
-art: https://coverartarchive.org/release/9aa1b390-b86a-43df-bdc7-c96d0f9f05cd/front-500
+art: images/covers/busdriver-perfect-hair-03bf933e-1843-45b1-ae7e-2a893f4048b9.jpg
 review: 
 
 artist: Rival Consoles
 album: Persona
 score: 8
-art: https://coverartarchive.org/release/34543361-6fc1-4dc4-a883-296aa69b4a8b/front-500
+art: images/covers/rival-consoles-persona-34543361-6fc1-4dc4-a883-296aa69b4a8b.jpg
 review: 
 
 artist: Japanese Breakfast
 album: Psychopomp
 score: 8
-art: https://coverartarchive.org/release/af4d3849-163c-40ab-908a-4014fdf42725/front-500
+art: images/covers/japanese-breakfast-psychopomp-9ee0373c-c5d3-42d9-bf12-9f031990af27.jpg
 review: 
 
 artist: Alex G
 album: Race
 score: 8
-art: https://coverartarchive.org/release/6299f2e7-11d9-4cce-8aff-855a38d91408/front-500
+art: images/covers/alex-g-race-6299f2e7-11d9-4cce-8aff-855a38d91408.jpg
 review: 
 
 artist: Fleetwood Mac
@@ -1603,43 +1603,43 @@ review:
 artist: Unknown Mortal Orchestra
 album: SB-07
 score: 8
-art: https://coverartarchive.org/release/446e6195-e45f-4c36-abca-fb4ac6d1ac3b/front-500
+art: images/covers/unknown-mortal-orchestra-sb-07-446e6195-e45f-4c36-abca-fb4ac6d1ac3b.jpg
 review: 
 
 artist: Armand Hammer
 album: Shrines
 score: 8
-art: https://coverartarchive.org/release/590aa69a-c8de-49de-bfa2-099d7d1069b2/front-500
+art: images/covers/armand-hammer-shrines-a93b4cc8-8905-40ad-a129-a14e9498f3ce.jpg
 review: 
 
 artist: Mary Lattimore
 album: Silver Ladders
 score: 8
-art: https://coverartarchive.org/release/e40d16f5-3c8a-4667-afea-753fe4584ba8/front-500
+art: images/covers/mary-lattimore-silver-ladders-8f267247-2af2-47c7-9ef1-be647190f1c9.jpg
 review: 
 
 artist: Japanese Breakfast
 album: Soft Sounds from Another Planet
 score: 8
-art: https://coverartarchive.org/release/eb257724-923b-419f-855f-11a5085a9d27/front-500
+art: images/covers/japanese-breakfast-soft-sounds-from-another-planet-eb257724-923b-419f-855f-11a5085a9d27.jpg
 review: 
 
 artist: Earl Sweatshirt
 album: Some Rap Songs
 score: 8
-art: https://coverartarchive.org/release/bb12aa9f-824c-4c3d-8e6c-5cb1f40b3ca3/front-500
+art: images/covers/earl-sweatshirt-some-rap-songs-df91e382-59c7-4966-88c0-6c20eee2e4d5.jpg
 review: 
 
 artist: James Blake
 album: The Colour In Anything
 score: 8
-art: https://coverartarchive.org/release/3df96cfd-6a0d-4680-a068-a5e1f6b72570/front-500
+art: images/covers/james-blake-the-colour-in-anything-3df96cfd-6a0d-4680-a068-a5e1f6b72570.jpg
 review: 
 
 artist: Pink Floyd
 album: The Dark Side of the Moon
 score: 8
-art: https://coverartarchive.org/release/4534f168-c25e-4d84-9da6-4fb26a261640/front-500
+art: images/covers/pink-floyd-the-dark-side-of-the-moon-24824319-9bb8-3d1e-a2c5-b8b864dafd1b.jpg
 review: 
 
 artist: Burial
@@ -1651,13 +1651,13 @@ review:
 artist: Danny Brown
 album: uknowhatimsayin¿
 score: 8
-art: https://coverartarchive.org/release/d746ccbd-5967-4178-a3d9-7f45da30a6e8/front-500
+art: images/covers/danny-brown-uknowhatimsayin-d746ccbd-5967-4178-a3d9-7f45da30a6e8.jpg
 review: 
 
 artist: Lil Ugly Mane
 album: Uneven Compromise
 score: 8
-art: https://coverartarchive.org/release/a171fb49-0fc1-494d-993b-a8940fef90a7/front-500
+art: images/covers/lil-ugly-mane-uneven-compromise-a171fb49-0fc1-494d-993b-a8940fef90a7.jpg
 review: 
 
 artist: Nick Hakim
@@ -1669,7 +1669,7 @@ review:
 artist: Nick Hakim
 album: Where Will We Go, Pt. 2
 score: 8
-art: https://coverartarchive.org/release/24ddcf48-8320-46e1-9c7b-c7c28e9103a9/front-500
+art: images/covers/nick-hakim-where-will-we-go-pt-2-24ddcf48-8320-46e1-9c7b-c7c28e9103a9.jpg
 review: 
 
 artist: Miguel
@@ -1693,37 +1693,37 @@ review:
 artist: Thom Yorke
 album: ANIMA
 score: 7.9
-art: https://coverartarchive.org/release/f4f39eef-fa47-48e4-bc57-9ef53393164c/front-500
+art: images/covers/thom-yorke-anima-a2575477-c681-4c77-a306-966c2459c765.jpg
 review: 
 
 artist: James Blake
 album: Assume Form
 score: 7.9
-art: https://coverartarchive.org/release/5a03c550-0fa3-48e0-a4e0-33721670a11e/front-500
+art: images/covers/james-blake-assume-form-cf704309-6132-4869-9cc7-d1370504fb1b.jpg
 review: 
 
 artist: Freddie Gibbs
 album: Bandana
 score: 7.9
-art: https://coverartarchive.org/release/48aeaa3c-69c1-43c5-ab16-dab58b10959d/front-500
+art: images/covers/freddie-gibbs-bandana-48aeaa3c-69c1-43c5-ab16-dab58b10959d.jpg
 review: 
 
 artist: Quelle Chris
 album: Being You Is Great, I Wish I Could Be You More Often
 score: 7.9
-art: https://coverartarchive.org/release/35c456d7-091c-4711-bac1-8b61a1ebe49c/front-500
+art: images/covers/quelle-chris-being-you-is-great-i-wish-i-could-be-you-more-often-35c456d7-091c-4711-bac1-8b61a1ebe49c.jpg
 review: 
 
 artist: Better Oblivion Community Center
 album: Better Oblivion Community Center
 score: 7.9
-art: https://coverartarchive.org/release/9257b5f4-ad07-4666-a45f-3d083d0fb66f/front-500
+art: images/covers/better-oblivion-community-center-better-oblivion-community-center-9257b5f4-ad07-4666-a45f-3d083d0fb66f.jpg
 review: 
 
 artist: JJ DOOM
 album: Bookhead EP
 score: 7.9
-art: https://coverartarchive.org/release/0702d251-707f-43ec-bd30-aae27533de2e/front-500
+art: images/covers/jj-doom-bookhead-ep-0702d251-707f-43ec-bd30-aae27533de2e.jpg
 review: 
 
 artist: MF DOOM
@@ -1735,325 +1735,325 @@ review:
 artist: Nick Cave
 album: CARNAGE
 score: 7.9
-art: https://coverartarchive.org/release/a8c82f90-d509-4faf-a967-fafde1de9463/front-500
+art: images/covers/nick-cave-carnage-a8c82f90-d509-4faf-a967-fafde1de9463.jpg
 review: 
 
 artist: COBRAH
 album: COBRAH
 score: 7.9
-art: https://coverartarchive.org/release/f4c7818c-914b-44db-b359-020b1efc0c47/front-500
+art: images/covers/cobrah-cobrah-f4c7818c-914b-44db-b359-020b1efc0c47.jpg
 review: 
 
 artist: Injury Reserve
 album: Floss
 score: 7.9
-art: https://coverartarchive.org/release/de97a6f3-9c84-42a7-99cb-cd72e9669cf0/front-500
+art: images/covers/injury-reserve-floss-de97a6f3-9c84-42a7-99cb-cd72e9669cf0.jpg
 review: 
 
 artist: The Japanese House
 album: Good At Falling
 score: 7.9
-art: https://coverartarchive.org/release/0c5b72c1-1a2b-4453-85f3-515353ee27a9/front-500
+art: images/covers/the-japanese-house-good-at-falling-f5e9fc59-ea1f-4fff-a412-79abcad8be97.jpg
 review: 
 
 artist: The Hotelier
 album: Goodness
 score: 7.9
-art: https://coverartarchive.org/release/88eb2526-e91f-4405-b6d8-eeef3b3cd8cd/front-500
+art: images/covers/the-hotelier-goodness-971fb101-ea4b-4199-a2db-28231661eee7.jpg
 review: 
 
 artist: Ka
 album: Honor Killed the Samurai
 score: 7.9
-art: https://coverartarchive.org/release/c18c324e-fd6e-4e94-944d-6656e211ce48/front-500
+art: images/covers/ka-honor-killed-the-samurai-218df76b-d436-4ef6-9675-408021c63fd9.jpg
 review: 
 
 artist: Bon Iver
 album: i,i
 score: 7.9
-art: https://coverartarchive.org/release/816a1255-9415-4b3c-88de-c57caec25b29/front-500
+art: images/covers/bon-iver-i-i-cd9efa7c-caec-4d0e-b3c6-6e0897fd5479.jpg
 review: 
 
 artist: Kelly Lee Owens
 album: Inner Song
 score: 7.9
-art: https://coverartarchive.org/release/1cdaf0f6-9cf0-47c3-b439-412fb25c3fd6/front-500
+art: images/covers/kelly-lee-owens-inner-song-1cdaf0f6-9cf0-47c3-b439-412fb25c3fd6.jpg
 review: 
 
 artist: Jai Paul
 album: Leak 04-13 (Bait Ones)
 score: 7.9
-art: https://coverartarchive.org/release/06a78a7e-23b1-42b1-a1ed-7e64a461e06a/front-500
+art: images/covers/jai-paul-leak-04-13-bait-ones-06a78a7e-23b1-42b1-a1ed-7e64a461e06a.jpg
 review: 
 
 artist: Blu & Exile
 album: Miles
 score: 7.9
-art: https://coverartarchive.org/release/0fc4838c-cdee-40ab-a04c-c01bde091243/front-500
+art: images/covers/blu-exile-miles-25953a00-fad9-4319-b822-574b7165f122.jpg
 review: 
 
 artist: Coil
 album: Musick To Play In The Dark
 score: 7.9
-art: https://coverartarchive.org/release/262bbfdb-37c0-4ce1-a953-debfcc3cfc10/front-500
+art: images/covers/coil-musick-to-play-in-the-dark-3dd5bae4-0639-4654-bdae-88dff1dbaf57.jpg
 review: 
 
 artist: Metronomy
 album: Nights Out
 score: 7.9
-art: https://coverartarchive.org/release/05fe737d-09f8-4dd1-8e9f-2f45329a801a/front-500
+art: images/covers/metronomy-nights-out-05fe737d-09f8-4dd1-8e9f-2f45329a801a.jpg
 review: 
 
 artist: Tim Hecker
 album: No Highs
 score: 7.9
-art: https://coverartarchive.org/release/effec65f-8fc7-493d-9894-893533eeadac/front-500
+art: images/covers/tim-hecker-no-highs-c0da55f5-df19-4220-8d05-92714f582291.jpg
 review: 
 
 artist: Vegyn
 album: Only Diamonds Cut Diamonds
 score: 7.9
-art: https://coverartarchive.org/release/fbd255a4-f6e5-4af9-86c3-7239f266ed16/front-500
+art: images/covers/vegyn-only-diamonds-cut-diamonds-fbd255a4-f6e5-4af9-86c3-7239f266ed16.jpg
 review: 
 
 artist: Mitski
 album: Puberty 2
 score: 7.9
-art: https://coverartarchive.org/release/cce59c4b-4b07-4005-8237-135e230b351a/front-500
+art: images/covers/mitski-puberty-2-42698308-2c61-4ad7-a9bd-e53c395518ec.jpg
 review: 
 
 artist: Waxahatchee
 album: Saint Cloud
 score: 7.9
-art: https://coverartarchive.org/release/e66edb2e-4c59-43ea-a7f2-eb65dfbe8898/front-500
+art: images/covers/waxahatchee-saint-cloud-8851cb63-eefe-4c3f-965c-18c75e716340.jpg
 review: 
 
 artist: Origami Angel
 album: Somewhere City
 score: 7.9
-art: https://coverartarchive.org/release/9f11e0a6-a36a-4b91-aaa1-8d942a41a884/front-500
+art: images/covers/origami-angel-somewhere-city-9f11e0a6-a36a-4b91-aaa1-8d942a41a884.jpg
 review: 
 
 artist: Nick Kozik
 album: Subnivean
 score: 7.9
-art: https://coverartarchive.org/release/2a289e1e-7a00-45bd-90f9-2e776cfbad40/front-500
+art: images/covers/nick-kozik-subnivean-2a289e1e-7a00-45bd-90f9-2e776cfbad40.jpg
 review: 
 
 artist: Caribou
 album: Suddenly
 score: 7.9
-art: https://coverartarchive.org/release/f57ebc64-884f-4f03-a376-c313e4eeccf5/front-500
+art: images/covers/caribou-suddenly-5e28bbf6-2421-44ec-b1c7-d2047d95d0dd.jpg
 review: 
 
 artist: Beach House
 album: Teen Dream
 score: 7.9
-art: https://coverartarchive.org/release/a92f8b5e-76a7-48a8-88d0-17e67f0714c8/front-500
+art: images/covers/beach-house-teen-dream-a92f8b5e-76a7-48a8-88d0-17e67f0714c8.jpg
 review: 
 
 artist: Kanye West
 album: The Life Of Pablo
 score: 7.9
-art: https://coverartarchive.org/release/f84ac70c-0956-4752-950c-0a1cdc4ee5a0/front-500
+art: images/covers/kanye-west-the-life-of-pablo-f84ac70c-0956-4752-950c-0a1cdc4ee5a0.jpg
 review: 
 
 artist: Kendrick Lamar
 album: untitled unmastered.
 score: 7.9
-art: https://coverartarchive.org/release/f81499e0-1bb8-43c2-b39a-a765f6c68ddb/front-500
+art: images/covers/kendrick-lamar-untitled-unmastered-70cb7b95-9a0d-4d6a-a2cb-7371c895bc2c.jpg
 review: 
 
 artist: clipping.
 album: Visions of Bodies Being Burned
 score: 7.9
-art: https://coverartarchive.org/release/ed6091cf-e088-44b3-9b48-c539d8f683d0/front-500
+art: images/covers/clipping-visions-of-bodies-being-burned-ed6091cf-e088-44b3-9b48-c539d8f683d0.jpg
 review: 
 
 artist: NERO
 album: Welcome Reality
 score: 7.9
-art: https://coverartarchive.org/release/a5839dc7-4419-4277-a6fc-f8edebac4d49/front-500
+art: images/covers/nero-welcome-reality-4eb5e75f-a2b4-4083-8473-ab66ebf3b04a.jpg
 review: 
 
 artist: Blanck Mass
 album: World Eater
 score: 7.9
-art: https://coverartarchive.org/release/672d8c35-24f6-499e-b378-70397b876f97/front-500
+art: images/covers/blanck-mass-world-eater-fd7643b6-8789-45fe-ac8c-ad076f3be498.jpg
 review: 
 
 artist: Knife Knights
 album: 1 Time Mirage
 score: 7.8
-art: https://coverartarchive.org/release/f692f7f4-62dc-43d2-aeb1-5e8603674116/front-500
+art: images/covers/knife-knights-1-time-mirage-f692f7f4-62dc-43d2-aeb1-5e8603674116.jpg
 review: 
 
 artist: Oneohtrix Point Never
 album: Age Of
 score: 7.8
-art: https://coverartarchive.org/release/941c8aae-25ef-42be-a78d-3705d528c822/front-500
+art: images/covers/oneohtrix-point-never-age-of-dd579774-93db-4256-9bf2-e857eb69dd96.jpg
 review: 
 
 artist: Sufjan Stevens
 album: Aporia
 score: 7.8
-art: https://coverartarchive.org/release/2b9b538e-75b9-4907-9f59-b73beba9c114/front-500
+art: images/covers/sufjan-stevens-aporia-2b9b538e-75b9-4907-9f59-b73beba9c114.jpg
 review: 
 
 artist: KAYTRANADA
 album: BUBBA
 score: 7.8
-art: https://coverartarchive.org/release/dce6ae2d-949f-40b2-8fb3-c7efc7a42ab9/front-500
+art: images/covers/kaytranada-bubba-5a9c7104-d8df-4b04-9a2d-09b04fb354c5.jpg
 review: 
 
 artist: Young Fathers
 album: Cocoa Sugar
 score: 7.8
-art: https://coverartarchive.org/release/4f6f38c2-bf6b-4399-b783-b4727bf52c9f/front-500
+art: images/covers/young-fathers-cocoa-sugar-64b41726-3f47-40d8-a191-1c71b3d84dda.jpg
 review: 
 
 artist: Pusha T
 album: DAYTONA
 score: 7.8
-art: https://coverartarchive.org/release/154c51b2-7f73-4b61-80fc-0753c7040cc0/front-500
+art: images/covers/pusha-t-daytona-3179aee3-3e2d-4b26-8161-3d49c77c6d91.jpg
 review: 
 
 artist: Caroline Polachek
 album: Desire, I Want To Turn Into You
 score: 7.8
-art: https://coverartarchive.org/release/fee77552-7209-43fb-9bd9-609599aec466/front-500
+art: images/covers/caroline-polachek-desire-i-want-to-turn-into-you-05880dab-780b-40e9-85ed-16606b79b7f5.jpg
 review: 
 
 artist: Beach House
 album: Devotion
 score: 7.8
-art: https://coverartarchive.org/release/1b22d999-b30b-356d-9370-c1e07d0223c5/front-500
+art: images/covers/beach-house-devotion-3a003336-2137-4011-b137-c43512993629.jpg
 review: 
 
 artist: Jim James
 album: Eternally Even
 score: 7.8
-art: https://coverartarchive.org/release/cc23336e-bf1b-40e3-8f7e-dd6a71f6a112/front-500
+art: images/covers/jim-james-eternally-even-cc23336e-bf1b-40e3-8f7e-dd6a71f6a112.jpg
 review: 
 
 artist: Jean Grae
 album: Everything's Fine
 score: 7.8
-art: https://coverartarchive.org/release/e2b76db6-024a-45a3-99eb-36465ce55cbc/front-500
+art: images/covers/jean-grae-everything-s-fine-e2b76db6-024a-45a3-99eb-36465ce55cbc.jpg
 review: 
 
 artist: Freddie Gibbs
 album: Freddie
 score: 7.8
-art: https://coverartarchive.org/release/e78fe561-ac63-4364-b0c8-11d6a6bba616/front-500
+art: images/covers/freddie-gibbs-freddie-dd47456c-1c92-4100-ac74-52f9701fa31f.jpg
 review: 
 
 artist: Origami Angel
 album: Gami Gang
 score: 7.8
-art: https://coverartarchive.org/release/50fb5981-6c32-4e24-88ef-95bd6c74ce11/front-500
+art: images/covers/origami-angel-gami-gang-50fb5981-6c32-4e24-88ef-95bd6c74ce11.jpg
 review: 
 
 artist: Aminé
 album: Good For You
 score: 7.8
-art: https://coverartarchive.org/release/f5b33c74-d2ca-4acc-b425-4b39e5af6c74/front-500
+art: images/covers/amin-good-for-you-f5b33c74-d2ca-4acc-b425-4b39e5af6c74.jpg
 review: 
 
 artist: Nick Hakim
 album: Green Twins
 score: 7.8
-art: https://coverartarchive.org/release/a7ac8f12-b176-4c28-a152-032a7c46e8ae/front-500
+art: images/covers/nick-hakim-green-twins-a7ac8f12-b176-4c28-a152-032a7c46e8ae.jpg
 review: 
 
 artist: Maggie Rogers
 album: Heard It In A Past Life
 score: 7.8
-art: https://coverartarchive.org/release/4b598993-6620-4396-82c6-c3e87e99acf1/front-500
+art: images/covers/maggie-rogers-heard-it-in-a-past-life-f3e4c7f8-3047-45c7-a516-b735b37ef0cc.jpg
 review: 
 
 artist: Ital Tek
 album: Hollowed
 score: 7.8
-art: https://coverartarchive.org/release/4d5b7e94-bd0b-4c68-8b49-a79c5ae614c9/front-500
+art: images/covers/ital-tek-hollowed-fd019a88-da65-4c15-ac29-02b6afe0da94.jpg
 review: 
 
 artist: Lea Porcelain
 album: HYMNS TO THE NIGHT
 score: 7.8
-art: https://coverartarchive.org/release/87fad2e2-d989-4cb9-b508-8c9d9068f7e0/front-500
+art: images/covers/lea-porcelain-hymns-to-the-night-87fad2e2-d989-4cb9-b508-8c9d9068f7e0.jpg
 review: 
 
 artist: Tyler, The Creator
 album: IGOR
 score: 7.8
-art: https://coverartarchive.org/release/4603cee3-ece6-435c-b0b7-7d9eb1842d36/front-500
+art: images/covers/tyler-the-creator-igor-dafab458-d6dd-4150-89df-bbc9a335d1ad.jpg
 review: 
 
 artist: Moderat
 album: II
 score: 7.8
-art: https://coverartarchive.org/release/e5d6fa13-49b5-46b0-8dc2-27d2dab41755/front-500
+art: images/covers/moderat-ii-fdf5eafa-cac1-45b2-8118-33156f3b5219.jpg
 review: 
 
 artist: TNGHT
 album: II
 score: 7.8
-art: https://coverartarchive.org/release/e996a803-2036-4db0-84fd-eb5da0fb9513/front-500
+art: images/covers/tnght-ii-ebea0e43-1efd-4ecd-aa5f-071b9a89303c.jpg
 review: 
 
 artist: Joey Purp
 album: iiiDrops
 score: 7.8
-art: https://coverartarchive.org/release/911dec7e-4f5b-40fe-83e0-6f605ccd2a0c/front-500
+art: images/covers/joey-purp-iiidrops-911dec7e-4f5b-40fe-83e0-6f605ccd2a0c.jpg
 review: 
 
 artist: Injury Reserve
 album: Injury Reserve
 score: 7.8
-art: https://coverartarchive.org/release/1d4ea35a-40a5-401f-9ac8-eb74f28c9135/front-500
+art: images/covers/injury-reserve-injury-reserve-852eb889-fa4a-4593-a2e2-f7ade8dda640.jpg
 review: 
 
 artist: Thundercat
 album: It Is What It Is
 score: 7.8
-art: https://coverartarchive.org/release/2a58f611-4186-4c42-810e-081e371328a8/front-500
+art: images/covers/thundercat-it-is-what-it-is-0bb16545-9846-4c07-8863-222bf908a0e2.jpg
 review: 
 
 artist: Beyoncé
 album: Lemonade
 score: 7.8
-art: https://coverartarchive.org/release/19c88bb5-1300-4bf3-b743-76e159d60b3a/front-500
+art: images/covers/beyonc-lemonade-58dd82e2-88d5-48a2-9c10-606e1e39b6b0.jpg
 review: 
 
 artist: Amen Dunes
 album: Love
 score: 7.8
-art: https://coverartarchive.org/release/312c5270-91fd-4229-9aac-3566b1b2b339/front-500
+art: images/covers/amen-dunes-love-c5a39597-ad3a-4fa3-8ea8-8fdfe93d04c3.jpg
 review: 
 
 artist: King Krule
 album: Man Alive!
 score: 7.8
-art: https://coverartarchive.org/release/077f534f-3a94-4174-beeb-f4d5b10e2c56/front-500
+art: images/covers/king-krule-man-alive-077f534f-3a94-4174-beeb-f4d5b10e2c56.jpg
 review: 
 
 artist: Emile Mosseri
 album: Minari (Original Motion Picture Soundtrack)
 score: 7.8
-art: https://coverartarchive.org/release/a9da3b80-e27a-4f40-ac7c-460fc25aebc2/front-500
+art: images/covers/emile-mosseri-minari-original-motion-picture-soundtrack-a9da3b80-e27a-4f40-ac7c-460fc25aebc2.jpg
 review: 
 
 artist: Motion Graphics
 album: Motion Graphics
 score: 7.8
-art: https://coverartarchive.org/release/5bcdbcbc-c20d-4668-98d0-d2ac1aa875c8/front-500
+art: images/covers/motion-graphics-motion-graphics-d26e2e8f-4e66-4d03-ac11-9196e1f0f7f0.jpg
 review: 
 
 artist: Dan Deacon
 album: Mystic Familiar
 score: 7.8
-art: https://coverartarchive.org/release/f00974af-b473-445a-a908-ed1b70ff134b/front-500
+art: images/covers/dan-deacon-mystic-familiar-68a37084-2e54-4f29-a113-45b0bf4e2888.jpg
 review: 
 
 artist: MF DOOM
@@ -2065,169 +2065,169 @@ review:
 artist: Shamir
 album: Ratchet
 score: 7.8
-art: https://coverartarchive.org/release/486ec0b6-00c1-4db4-b5ce-c1c52bea6b65/front-500
+art: images/covers/shamir-ratchet-873145f0-de50-4d2a-bbe8-2978e317002a.jpg
 review: 
 
 artist: Fleet Foxes
 album: Shore
 score: 7.8
-art: https://coverartarchive.org/release/8bd0261d-cfe3-4810-bd8d-a9184fd8642f/front-500
+art: images/covers/fleet-foxes-shore-59ec2d9c-618c-4501-9c14-e3de76d0335c.jpg
 review: 
 
 artist: Big Boi
 album: Sir Lucious Left Foot...The Son Of Chico Dusty
 score: 7.8
-art: https://coverartarchive.org/release/f92c2f42-d71c-480e-93e1-492fb6b87cf9/front-500
+art: images/covers/big-boi-sir-lucious-left-foot-the-son-of-chico-dusty-19e58d58-40bc-4bc5-af31-4f60162e321d.jpg
 review: 
 
 artist: Car Seat Headrest
 album: Teens of Style
 score: 7.8
-art: https://coverartarchive.org/release/81717a4f-4d8b-454e-bfcb-1951133db9c4/front-500
+art: images/covers/car-seat-headrest-teens-of-style-81717a4f-4d8b-454e-bfcb-1951133db9c4.jpg
 review: 
 
 artist: Ariana Grande
 album: thank u, next
 score: 7.8
-art: https://coverartarchive.org/release/f31c798a-3cc8-4a17-b170-958a380f84f1/front-500
+art: images/covers/ariana-grande-thank-u-next-f3c1f76d-d436-4402-8888-1fdcf9e6cba8.jpg
 review: 
 
 artist: Andy Shauf
 album: The Neon Skyline
 score: 7.8
-art: https://coverartarchive.org/release/63f19c30-2dfb-48aa-bd22-8ac4ec8873a7/front-500
+art: images/covers/andy-shauf-the-neon-skyline-06339026-e316-44c1-beaf-966c79173bac.jpg
 review: 
 
 artist: Sleep
 album: The Sciences
 score: 7.8
-art: https://coverartarchive.org/release/4a40538d-341d-47b0-9ea9-dadaf13f9bab/front-500
+art: images/covers/sleep-the-sciences-8cd8cd7a-eac8-45f1-b51b-a8be66d74a11.jpg
 review: 
 
 artist: clipping.
 album: There Existed an Addiction to Blood
 score: 7.8
-art: https://coverartarchive.org/release/85d7b8be-5c05-4120-8c05-026847630b3f/front-500
+art: images/covers/clipping-there-existed-an-addiction-to-blood-85d7b8be-5c05-4120-8c05-026847630b3f.jpg
 review: 
 
 artist: Big Thief
 album: U.F.O.F.
 score: 7.8
-art: https://coverartarchive.org/release/3bac0f33-a076-4c61-bac9-b1e2150b4300/front-500
+art: images/covers/big-thief-u-f-o-f-c9f3f18d-baea-4dcc-8d69-6054d3f7a933.jpg
 review: 
 
 artist: Grimes
 album: Art Angels
 score: 7.7
-art: https://coverartarchive.org/release/676290f0-e5ca-4446-aabd-87170af02150/front-500
+art: images/covers/grimes-art-angels-b92a7502-caf8-4370-83b5-8765e03db95e.jpg
 review: 
 
 artist: Rival Consoles
 album: Articulation
 score: 7.7
-art: https://coverartarchive.org/release/5de90636-c24c-4a5c-8121-e87306353edc/front-500
+art: images/covers/rival-consoles-articulation-61b9683c-fbdd-4bb9-b1cb-432d7a7de441.jpg
 review: 
 
 artist: Dälek
 album: Asphalt for Eden
 score: 7.7
-art: https://coverartarchive.org/release/d84177a7-35a5-4ef3-858d-402e8bc29a85/front-500
+art: images/covers/d-lek-asphalt-for-eden-d9feb6c2-658d-40db-9c5e-9521cebbf280.jpg
 review: 
 
 artist: Slow Crush
 album: Aurora
 score: 7.7
-art: https://coverartarchive.org/release/24730c8a-4db4-4e99-8e27-cb6619111063/front-500
+art: images/covers/slow-crush-aurora-4cd02db4-5c0b-4f43-966f-e488144e507b.jpg
 review: 
 
 artist: James Blake
 album: Before
 score: 7.7
-art: https://coverartarchive.org/release/89b9b320-327c-4964-ba44-322bb9036a95/front-500
+art: images/covers/james-blake-before-89b9b320-327c-4964-ba44-322bb9036a95.jpg
 review: 
 
 artist: Dirty Projectors
 album: Bitte Orca
 score: 7.7
-art: https://coverartarchive.org/release/9f08eb54-8fef-4ee2-8b73-cd3cf363a074/front-500
+art: images/covers/dirty-projectors-bitte-orca-0919188d-38fe-4abb-bd7b-be998426140f.jpg
 review: 
 
 artist: Swet Shop Boys
 album: Cashmere
 score: 7.7
-art: https://coverartarchive.org/release/a3fe5d88-c424-4908-be5f-571cb0a1117d/front-500
+art: images/covers/swet-shop-boys-cashmere-a3fe5d88-c424-4908-be5f-571cb0a1117d.jpg
 review: 
 
 artist: Arlo Parks
 album: Collapsed In Sunbeams
 score: 7.7
-art: https://coverartarchive.org/release/ffdcb629-7312-4ebd-abcb-ea3ccb1ca194/front-500
+art: images/covers/arlo-parks-collapsed-in-sunbeams-6f26ace6-92b3-4810-bd96-22887315ecb7.jpg
 review: 
 
 artist: Neat Beats
 album: Cosmic Surgery
 score: 7.7
-art: https://coverartarchive.org/release/61a9b190-4ed3-4227-ac48-db119322b392/front-500
+art: images/covers/neat-beats-cosmic-surgery-61a9b190-4ed3-4227-ac48-db119322b392.jpg
 review: 
 
 artist: Floating Points
 album: Crush
 score: 7.7
-art: https://coverartarchive.org/release/6329eda8-4771-471e-9149-e3681d4c6cce/front-500
+art: images/covers/floating-points-crush-2e7caf57-af4d-4e90-a0f3-2126bdbf6693.jpg
 review: 
 
 artist: Thundercat
 album: Drank
 score: 7.7
-art: https://coverartarchive.org/release/b9f3fe9f-e081-4a35-aa83-28b12373c0d1/front-500
+art: images/covers/thundercat-drank-dac3f23c-624f-465b-a687-8c52f82a7e5c.jpg
 review: 
 
 artist: Tyler, The Creator
 album: Flower Boy
 score: 7.7
-art: https://coverartarchive.org/release/c4d321ac-f21d-45e8-aebc-31986fc8233b/front-500
+art: images/covers/tyler-the-creator-flower-boy-c4d321ac-f21d-45e8-aebc-31986fc8233b.jpg
 review: 
 
 artist: FOG
 album: Fogesque
 score: 7.7
-art: https://coverartarchive.org/release/683534c4-5757-4dba-bda9-36c13af7be83/front-500
+art: images/covers/fog-fogesque-275ad5e9-103d-4c27-9e29-6f464af81d7a.jpg
 review: 
 
 artist: Com Truise
 album: Galactic Melt
 score: 7.7
-art: https://coverartarchive.org/release/f54c29e3-2dba-402e-a44f-a1958b176e47/front-500
+art: images/covers/com-truise-galactic-melt-5c32edc4-e937-4552-9501-5354ea6d7148.jpg
 review: 
 
 artist: Father John Misty
 album: God's Favorite Customer
 score: 7.7
-art: https://coverartarchive.org/release/c6795923-829f-4b5c-be90-564f4d1a8386/front-500
+art: images/covers/father-john-misty-god-s-favorite-customer-c6795923-829f-4b5c-be90-564f4d1a8386.jpg
 review: 
 
 artist: Michael Cera Palin
 album: I Don't Know How to Explain It
 score: 7.7
-art: https://coverartarchive.org/release/41ce1421-4591-4a62-9c80-6571612d3829/front-500
+art: images/covers/michael-cera-palin-i-don-t-know-how-to-explain-it-ccfe9915-1b31-4e0d-a389-abed0d962264.jpg
 review: 
 
 artist: Let's Eat Grandma
 album: I'm All Ears
 score: 7.7
-art: https://coverartarchive.org/release/7e1b9788-65c6-45b5-93bd-836b61a7b4d6/front-500
+art: images/covers/let-s-eat-grandma-i-m-all-ears-da8a7325-1081-4557-bd6a-b591aa444ac3.jpg
 review: 
 
 artist: Isbells
 album: Isbells
 score: 7.7
-art: https://coverartarchive.org/release/faf588ab-3100-46de-a0cb-6470c2389b98/front-500
+art: images/covers/isbells-isbells-faf588ab-3100-46de-a0cb-6470c2389b98.jpg
 review: 
 
 artist: Mount Kimbie
 album: Love What Survives
 score: 7.7
-art: https://coverartarchive.org/release/619123bb-d185-4060-a442-2e6f684414df/front-500
+art: images/covers/mount-kimbie-love-what-survives-619123bb-d185-4060-a442-2e6f684414df.jpg
 review: 
 
 artist: Heems
@@ -2239,193 +2239,193 @@ review:
 artist: Jeff Rosenstock
 album: POST-
 score: 7.7
-art: https://coverartarchive.org/release/24ee8ede-d873-465c-ad1f-9efd09588d65/front-500
+art: images/covers/jeff-rosenstock-post-cf604f9e-044b-4583-ae7b-2b8754a7affa.jpg
 review: 
 
 artist: Mac DeMarco
 album: Salad Days
 score: 7.7
-art: https://coverartarchive.org/release/98a68512-5338-4e45-9998-1ee50150e4ff/front-500
+art: images/covers/mac-demarco-salad-days-98a68512-5338-4e45-9998-1ee50150e4ff.jpg
 review: 
 
 artist: Vondelpark
 album: Seabed
 score: 7.7
-art: https://coverartarchive.org/release/d92171ab-37f5-4f77-b265-87cd2e62d110/front-500
+art: images/covers/vondelpark-seabed-d92171ab-37f5-4f77-b265-87cd2e62d110.jpg
 review: 
 
 artist: Hiatus Kaiyote
 album: Tawk Tomahawk
 score: 7.7
-art: https://coverartarchive.org/release/09fade80-bd8a-4c08-9a00-cf1dcc7bc91c/front-500
+art: images/covers/hiatus-kaiyote-tawk-tomahawk-6431bffb-18cc-416a-b095-1d3842b85a39.jpg
 review: 
 
 artist: The Besnard Lakes
 album: The Besnard Lakes Are The Roaring Night
 score: 7.7
-art: https://coverartarchive.org/release/fed099ea-4674-4999-80f0-ec755d53421e/front-500
+art: images/covers/the-besnard-lakes-the-besnard-lakes-are-the-roaring-night-48080b1e-f6dc-4a30-8457-af006a6b0def.jpg
 review: 
 
 artist: Aesop Rock
 album: The Impossible Kid
 score: 7.7
-art: https://coverartarchive.org/release/2efcb7c9-3ec1-4879-80af-f51ede430d50/front-500
+art: images/covers/aesop-rock-the-impossible-kid-2394cdbc-671d-4657-851a-16fb030dc7f4.jpg
 review: 
 
 artist: Blur
 album: The Magic Whip
 score: 7.7
-art: https://coverartarchive.org/release/2be0e006-5f69-432f-acca-50c7a756d74b/front-500
+art: images/covers/blur-the-magic-whip-4f5af267-3017-4ae3-b2e2-b444261b4494.jpg
 review: 
 
 artist: Miguel
 album: War & Leisure
 score: 7.7
-art: https://coverartarchive.org/release/02d78856-1aac-4ef7-a1ed-356aaad0eb35/front-500
+art: images/covers/miguel-war-leisure-02d78856-1aac-4ef7-a1ed-356aaad0eb35.jpg
 review: 
 
 artist: Deerhunter
 album: Why Hasn't Everything Already Disappeared?
 score: 7.7
-art: https://coverartarchive.org/release/f41cbdbc-fb04-4eee-b056-4b1f2e81d9e7/front-500
+art: images/covers/deerhunter-why-hasn-t-everything-already-disappeared-768a8ff6-d660-4734-be2a-fd3554cf4564.jpg
 review: 
 
 artist: Freddie Gibbs
 album: Alfredo
 score: 7.6
-art: https://coverartarchive.org/release/2e37074e-1ad5-4c88-a5de-f06850c42691/front-500
+art: images/covers/freddie-gibbs-alfredo-afbdebc0-d9e5-494f-a8f6-c02ac035914d.jpg
 review: 
 
 artist: Colin Stetson
 album: All This I Do For Glory
 score: 7.6
-art: https://coverartarchive.org/release/f1a48fe8-678d-4573-9d2b-1394f7cc06bb/front-500
+art: images/covers/colin-stetson-all-this-i-do-for-glory-e41d4e73-2a8e-4926-a7ca-79328617a45a.jpg
 review: 
 
 artist: Cassandra Jenkins
 album: An Overview on Phenomenal Nature
 score: 7.6
-art: https://coverartarchive.org/release/dd00e61a-4d7f-4330-afe5-7c7535165dcd/front-500
+art: images/covers/cassandra-jenkins-an-overview-on-phenomenal-nature-1fdfc654-9b53-4158-8e75-322b7dea6096.jpg
 review: 
 
 artist: Cap'n Jazz
 album: Analphabetapolothology
 score: 7.6
-art: https://coverartarchive.org/release/e866a680-e105-48d2-95f1-8c9cb01e5387/front-500
+art: images/covers/cap-n-jazz-analphabetapolothology-e866a680-e105-48d2-95f1-8c9cb01e5387.jpg
 review: 
 
 artist: Mac Miller
 album: Circles
 score: 7.6
-art: https://coverartarchive.org/release/d60d0d06-7200-4e4d-aefd-5deb9e5674a2/front-500
+art: images/covers/mac-miller-circles-b389974d-8b4f-4eea-80db-9e05a9a89dc5.jpg
 review: 
 
 artist: Tyler Childers
 album: Country Squire
 score: 7.6
-art: https://coverartarchive.org/release/46e5b6ea-23bd-4291-8e1f-bc60dd5fd008/front-500
+art: images/covers/tyler-childers-country-squire-46e5b6ea-23bd-4291-8e1f-bc60dd5fd008.jpg
 review: 
 
 artist: James Blake
 album: Covers
 score: 7.6
-art: https://coverartarchive.org/release/742e0bf1-f409-492b-87cb-1ee105401833/front-500
+art: images/covers/james-blake-covers-742e0bf1-f409-492b-87cb-1ee105401833.jpg
 review: 
 
 artist: Injury Reserve
 album: Drive It Like It's Stolen
 score: 7.6
-art: https://coverartarchive.org/release/fd1701e7-0b73-4375-9d26-7f5ba4715608/front-500
+art: images/covers/injury-reserve-drive-it-like-it-s-stolen-cfdd6fbc-025c-4fae-8cdb-9a309c5bcbec.jpg
 review: 
 
 artist: Vampire Weekend
 album: Father of the Bride
 score: 7.6
-art: https://coverartarchive.org/release/406c06b7-fc45-4447-a5a7-4d21eda709f5/front-500
+art: images/covers/vampire-weekend-father-of-the-bride-658892e9-bf54-4c0b-a810-e39d39cfce26.jpg
 review: 
 
 artist: Anna Calvi
 album: Hunter
 score: 7.6
-art: https://coverartarchive.org/release/d3098c9c-96d5-4872-8e21-c5a3bf69c4e4/front-500
+art: images/covers/anna-calvi-hunter-52923c2b-a5e5-4bdc-8df9-96889dc98645.jpg
 review: 
 
 artist: Doused
 album: Murmur
 score: 7.6
-art: https://coverartarchive.org/release/3acc9533-73be-42da-aa56-6977a0ec79bd/front-500
+art: images/covers/doused-murmur-3acc9533-73be-42da-aa56-6977a0ec79bd.jpg
 review: 
 
 artist: Grizzly Bear
 album: Painted Ruins
 score: 7.6
-art: https://coverartarchive.org/release/fb8ffbf0-71b5-4c8a-b151-3772bc54f3fc/front-500
+art: images/covers/grizzly-bear-painted-ruins-fb8ffbf0-71b5-4c8a-b151-3772bc54f3fc.jpg
 review: 
 
 artist: Choker
 album: Peak
 score: 7.6
-art: https://coverartarchive.org/release/78a9d68a-aa84-4c34-8d42-8ac5afa1f498/front-500
+art: images/covers/choker-peak-78a9d68a-aa84-4c34-8d42-8ac5afa1f498.jpg
 review: 
 
 artist: Shabazz Palaces
 album: Quazarz: Born on a Gangster Star
 score: 7.6
-art: https://coverartarchive.org/release/2ef5b705-83d4-46e2-a499-ba61f64189a7/front-500
+art: images/covers/shabazz-palaces-quazarz-born-on-a-gangster-star-2ef5b705-83d4-46e2-a499-ba61f64189a7.jpg
 review: 
 
 artist: Brand New
 album: Science Fiction
 score: 7.6
-art: https://coverartarchive.org/release/806a8384-9949-4a96-8aa9-1e2bc301a26d/front-500
+art: images/covers/brand-new-science-fiction-d6fb00f1-4735-4e6a-84e3-a30d86999e8b.jpg
 review: 
 
 artist: Mura Masa
 album: Someday Somewhere
 score: 7.6
-art: https://coverartarchive.org/release/13e08d55-223f-4c6a-b75c-5bc71b2781ab/front-500
+art: images/covers/mura-masa-someday-somewhere-13e08d55-223f-4c6a-b75c-5bc71b2781ab.jpg
 review: 
 
 artist: Ariana Grande
 album: Sweetener
 score: 7.6
-art: https://coverartarchive.org/release/58ad365e-8f7b-46e3-98a3-4591827bf7c9/front-500
+art: images/covers/ariana-grande-sweetener-7e1a47a1-a9f5-4815-a7fb-c2183cd61ebc.jpg
 review: 
 
 artist: Aphex Twin
 album: Syro
 score: 7.6
-art: https://coverartarchive.org/release/c60d3a7d-7db7-4661-b18a-f3efa385ea81/front-500
+art: images/covers/aphex-twin-syro-29625757-3991-4cfa-8d8a-3e1d5bd1f0d5.jpg
 review: 
 
 artist: Kanye West
 album: The College Dropout
 score: 7.6
-art: https://coverartarchive.org/release/11b6532c-0de0-45bb-84fc-7e99514a4cd5/front-500
+art: images/covers/kanye-west-the-college-dropout-99a96bf6-8166-3b7c-97ed-ea525f13ec65.jpg
 review: 
 
 artist: Tame Impala
 album: The Slow Rush
 score: 7.6
-art: https://coverartarchive.org/release/5db93cc1-9f8b-4a82-a09a-d47a7bf5e499/front-500
+art: images/covers/tame-impala-the-slow-rush-ffa6a32b-103f-4ed6-89dd-5745f39a6045.jpg
 review: 
 
 artist: Grandaddy
 album: Under the Western Freeway
 score: 7.6
-art: https://coverartarchive.org/release/bada239d-a4c2-4b2e-be15-51399f06d04e/front-500
+art: images/covers/grandaddy-under-the-western-freeway-bada239d-a4c2-4b2e-be15-51399f06d04e.jpg
 review: 
 
 artist: Molly Tuttle
 album: ...but i'd rather be with you
 score: 7.5
-art: https://coverartarchive.org/release/68429b0e-17d3-4319-8ecc-4d7411897216/front-500
+art: images/covers/molly-tuttle-but-i-d-rather-be-with-you-68429b0e-17d3-4319-8ecc-4d7411897216.jpg
 review: 
 
 artist: Fontaines D.C.
 album: A Hero's Death
 score: 7.5
-art: https://coverartarchive.org/release/2079f63a-0165-4637-bae7-95e1e810cb65/front-500
+art: images/covers/fontaines-d-c-a-hero-s-death-f769da37-50a7-4a68-80f2-77be000ae9cd.jpg
 review: 
 
 artist: Hail Mary Mallon
@@ -2437,19 +2437,19 @@ review:
 artist: Iglooghost
 album: Clear Tamei
 score: 7.5
-art: https://coverartarchive.org/release/265e5dee-582a-443c-a2da-addc6511d71c/front-500
+art: images/covers/iglooghost-clear-tamei-265e5dee-582a-443c-a2da-addc6511d71c.jpg
 review: 
 
 artist: Chromatics
 album: Closer To Grey
 score: 7.5
-art: https://coverartarchive.org/release/504cfe95-970d-41c3-bad4-898020d93dba/front-500
+art: images/covers/chromatics-closer-to-grey-e5aa7c04-2b10-4e24-9e3c-dd5f963ffc48.jpg
 review: 
 
 artist: Aphex Twin
 album: Collapse EP
 score: 7.5
-art: https://coverartarchive.org/release/8e9e6cb5-13cc-4ab8-950d-735aa6e0f543/front-500
+art: images/covers/aphex-twin-collapse-ep-56ba2889-b98c-441f-8717-8fe6fd6b2e4b.jpg
 review: 
 
 artist: We Are Trees
@@ -2461,37 +2461,37 @@ review:
 artist: Hatchie
 album: Keepsake
 score: 7.5
-art: https://coverartarchive.org/release/76614877-61bc-470f-a037-74152d823a03/front-500
+art: images/covers/hatchie-keepsake-76614877-61bc-470f-a037-74152d823a03.jpg
 review: 
 
 artist: Grandaddy
 album: Last Place
 score: 7.5
-art: https://coverartarchive.org/release/f2704327-39af-4176-b244-ecabdf20e844/front-500
+art: images/covers/grandaddy-last-place-a4a5751d-9368-459e-9cfc-24fb6909fae2.jpg
 review: 
 
 artist: Wiki
 album: No Mountains In Manhattan
 score: 7.5
-art: https://coverartarchive.org/release/6764913c-d13f-4bd4-b58b-2060e229cab1/front-500
+art: images/covers/wiki-no-mountains-in-manhattan-6764913c-d13f-4bd4-b58b-2060e229cab1.jpg
 review: 
 
 artist: Galaxie 500
 album: On Fire
 score: 7.5
-art: https://coverartarchive.org/release/162eca4b-b43b-3fed-80d9-b7ef89148f73/front-500
+art: images/covers/galaxie-500-on-fire-162eca4b-b43b-3fed-80d9-b7ef89148f73.jpg
 review: 
 
 artist: Armand Hammer
 album: Paraffin
 score: 7.5
-art: https://coverartarchive.org/release/d238a8e9-16fc-443d-a448-09130d6ff76d/front-500
+art: images/covers/armand-hammer-paraffin-d238a8e9-16fc-443d-a448-09130d6ff76d.jpg
 review: 
 
 artist: Shabazz Palaces
 album: Quazarz vs. The Jealous Machines
 score: 7.5
-art: https://coverartarchive.org/release/5e9a106b-acdc-4b50-b9f9-d8a07be458d2/front-500
+art: images/covers/shabazz-palaces-quazarz-vs-the-jealous-machines-5e9a106b-acdc-4b50-b9f9-d8a07be458d2.jpg
 review: 
 
 artist: Floating Points
@@ -2503,457 +2503,457 @@ review:
 artist: Charlotte Gainsbourg
 album: Rest
 score: 7.5
-art: https://coverartarchive.org/release/9391ae1b-db11-4159-8320-09a83f8a87d6/front-500
+art: images/covers/charlotte-gainsbourg-rest-9391ae1b-db11-4159-8320-09a83f8a87d6.jpg
 review: 
 
 artist: Arbour
 album: Sights & Sounds
 score: 7.5
-art: https://coverartarchive.org/release/70af7c34-1311-46a0-b208-5b59b0540782/front-500
+art: images/covers/arbour-sights-sounds-4e2fd00b-91a4-47be-894b-f48b0362ef58.jpg
 review: 
 
 artist: Sleep
 album: Sleep's Holy Mountain
 score: 7.5
-art: https://coverartarchive.org/release/ca0d066f-5bdf-4d83-8494-841b9616bd43/front-500
+art: images/covers/sleep-sleep-s-holy-mountain-849f2476-e7b5-4b45-8f88-e46ef299f72c.jpg
 review: 
 
 artist: Alabama Shakes
 album: Sound & Color
 score: 7.5
-art: https://coverartarchive.org/release/fe9e2291-14ca-482c-b3a0-2d8657bd6b81/front-500
+art: images/covers/alabama-shakes-sound-color-0d8034c4-98e5-4f94-83fc-ef0bd5aa1151.jpg
 review: 
 
 artist: Olivia Rodrigo
 album: SOUR
 score: 7.5
-art: https://coverartarchive.org/release/02abeb6d-3583-4b82-abec-dd5e3c6c9bc4/front-500
+art: images/covers/olivia-rodrigo-sour-d7428716-fb3a-47a9-8aa1-a94988ab4316.jpg
 review: 
 
 artist: Chrome Sparks
 album: Sparks EP
 score: 7.5
-art: https://coverartarchive.org/release/aa076b82-9732-4b7f-a404-086fb4177d44/front-500
+art: images/covers/chrome-sparks-sparks-ep-aa076b82-9732-4b7f-a404-086fb4177d44.jpg
 review: 
 
 artist: Gorillaz
 album: The Now Now
 score: 7.5
-art: https://coverartarchive.org/release/996c0dbe-bb55-48ad-9b29-186e6d5f1626/front-500
+art: images/covers/gorillaz-the-now-now-c4373e06-464a-462e-a765-2aedfafd5bf8.jpg
 review: 
 
 artist: BUSDRIVER
 album: Thumbs
 score: 7.5
-art: https://coverartarchive.org/release/df447eb4-fd2b-4f2b-8996-a08aa0be2759/front-500
+art: images/covers/busdriver-thumbs-df447eb4-fd2b-4f2b-8996-a08aa0be2759.jpg
 review: 
 
 artist: Big Thief
 album: Two Hands
 score: 7.5
-art: https://coverartarchive.org/release/53d18ac3-98e6-4c11-bfcd-523cbd0f4220/front-500
+art: images/covers/big-thief-two-hands-56a16fe0-ec4d-419f-81fb-606e8e93d35d.jpg
 review: 
 
 artist: Denzel Curry
 album: UNLOCKED
 score: 7.5
-art: https://coverartarchive.org/release/436cf929-3d77-46f8-8f3d-de6ea53b741f/front-500
+art: images/covers/denzel-curry-unlocked-489422dc-8b9b-423d-8d7d-2d06e6825fa6.jpg
 review: 
 
 artist: Anderson .Paak
 album: Ventura
 score: 7.5
-art: https://coverartarchive.org/release/c61401a3-f6c6-4b55-bf78-10eb17286707/front-500
+art: images/covers/anderson-paak-ventura-f30e9f19-f0da-4eb5-bea4-0dfd75f5cae2.jpg
 review: 
 
 artist: John Maus
 album: We Must Become the Pitiless Censors of Ourselves
 score: 7.5
-art: https://coverartarchive.org/release/26de3bea-8eed-4987-8ee3-f5d0e8ec5fc7/front-500
+art: images/covers/john-maus-we-must-become-the-pitiless-censors-of-ourselves-9e403337-67f3-4964-9e97-2d574faa3bc6.jpg
 review: 
 
 artist: Beach Fossils
 album: What a Pleasure
 score: 7.5
-art: https://coverartarchive.org/release/1969a788-3fd2-4666-8394-f3490b619a25/front-500
+art: images/covers/beach-fossils-what-a-pleasure-1969a788-3fd2-4666-8394-f3490b619a25.jpg
 review: 
 
 artist: Childish Gambino
 album: 3.15.20
 score: 7.4
-art: https://coverartarchive.org/release/a4d03311-be77-45fb-b7da-4c968d4cf970/front-500
+art: images/covers/childish-gambino-3-15-20-a4d03311-be77-45fb-b7da-4c968d4cf970.jpg
 review: 
 
 artist: Open Mike Eagle
 album: Anime, Trauma and Divorce
 score: 7.4
-art: https://coverartarchive.org/release/676d1446-ab7c-43e0-895a-5d09d303b224/front-500
+art: images/covers/open-mike-eagle-anime-trauma-and-divorce-850f1aa2-898b-45a1-a3e7-e6bc8980333f.jpg
 review: 
 
 artist: Daniel Caesar
 album: CASE STUDY 01
 score: 7.4
-art: https://coverartarchive.org/release/fbca2693-b11f-401d-8e69-ae2787a41782/front-500
+art: images/covers/daniel-caesar-case-study-01-fbca2693-b11f-401d-8e69-ae2787a41782.jpg
 review: 
 
 artist: Have A Nice Life
 album: Deathconsciousness
 score: 7.4
-art: https://coverartarchive.org/release/7af76c0f-ef18-4483-b1df-10136d1cfab7/front-500
+art: images/covers/have-a-nice-life-deathconsciousness-7af76c0f-ef18-4483-b1df-10136d1cfab7.jpg
 review: 
 
 artist: Oneohtrix Point Never
 album: Garden Of Delete
 score: 7.4
-art: https://coverartarchive.org/release/07cd81a7-cdf4-4a54-8ea1-f82a259bb571/front-500
+art: images/covers/oneohtrix-point-never-garden-of-delete-8cf24c3b-b57a-4176-9ff9-1a30b2dec0bc.jpg
 review: 
 
 artist: DJ Koze
 album: Knock Knock
 score: 7.4
-art: https://coverartarchive.org/release/c6a6b877-d9fd-4601-8626-a4d0b4ee3949/front-500
+art: images/covers/dj-koze-knock-knock-9387f3c3-52c4-423a-905b-c6a8a7ae023f.jpg
 review: 
 
 artist: Bill Callahan
 album: Shepherd in a Sheepskin Vest
 score: 7.4
-art: https://coverartarchive.org/release/77c2bbcd-9a7a-4f3a-898e-c002f59f8231/front-500
+art: images/covers/bill-callahan-shepherd-in-a-sheepskin-vest-e01fb351-781a-4180-94f6-33987bb44cc7.jpg
 review: 
 
 artist: The Besnard Lakes
 album: The Besnard Lakes Are The Dark Horse
 score: 7.4
-art: https://coverartarchive.org/release/d54103fd-bc4c-4071-8597-eff67b858051/front-500
+art: images/covers/the-besnard-lakes-the-besnard-lakes-are-the-dark-horse-d54103fd-bc4c-4071-8597-eff67b858051.jpg
 review: 
 
 artist: Free Throw
 album: Those Days Are Gone
 score: 7.4
-art: https://coverartarchive.org/release/a8b42b02-a7cb-4cea-84ba-5218693a4a47/front-500
+art: images/covers/free-throw-those-days-are-gone-a8b42b02-a7cb-4cea-84ba-5218693a4a47.jpg
 review: 
 
 artist: Pavement
 album: Wowee Zowee
 score: 7.4
-art: https://coverartarchive.org/release/69f5e467-574f-3fb9-8dfc-8e8d4ea0efc2/front-500
+art: images/covers/pavement-wowee-zowee-d919f8f0-1d66-3e03-a71f-2f1a7e9a3ebc.jpg
 review: 
 
 artist: Richard Dawson
 album: 2020
 score: 7.3
-art: https://coverartarchive.org/release/2757d45c-3404-41db-92c2-a82a76d70363/front-500
+art: images/covers/richard-dawson-2020-a10c978c-3749-40b0-84de-81cb4cd03b4b.jpg
 review: 
 
 artist: DJ Sabrina The Teenage DJ
 album: Charmed
 score: 7.3
-art: https://coverartarchive.org/release/6e70ae4e-20b1-4f7f-b576-7e5ffb6bb565/front-500
+art: images/covers/dj-sabrina-the-teenage-dj-charmed-6e70ae4e-20b1-4f7f-b576-7e5ffb6bb565.jpg
 review: 
 
 artist: Dälek
 album: From Filthy Tongue of Gods and Griots
 score: 7.3
-art: https://coverartarchive.org/release/beca37c6-9b32-4ac4-ac2a-e480cd71d46c/front-500
+art: images/covers/d-lek-from-filthy-tongue-of-gods-and-griots-beca37c6-9b32-4ac4-ac2a-e480cd71d46c.jpg
 review: 
 
 artist: The Besnard Lakes
 album: The Besnard Lakes Are The Last Of The Great Thunderstorm Warnings
 score: 7.3
-art: https://coverartarchive.org/release/d35d1f07-6c0c-4c35-b61e-97124a0acb3c/front-500
+art: images/covers/the-besnard-lakes-the-besnard-lakes-are-the-last-of-the-great-thunderstorm-warnings-d35d1f07-6c0c-4c35-b61e-97124a0acb3c.jpg
 review: 
 
 artist: David Byrne
 album: American Utopia
 score: 7.2
-art: https://coverartarchive.org/release/ea12558a-9394-4fc8-aa4d-0ebad4983f2f/front-500
+art: images/covers/david-byrne-american-utopia-ea12558a-9394-4fc8-aa4d-0ebad4983f2f.jpg
 review: 
 
 artist: Avantdale Bowling Club
 album: Avantdale Bowling Club
 score: 7.2
-art: https://coverartarchive.org/release/3966a10f-1993-475a-9499-6a62eb65567b/front-500
+art: images/covers/avantdale-bowling-club-avantdale-bowling-club-3966a10f-1993-475a-9499-6a62eb65567b.jpg
 review: 
 
 artist: Hemlock Ernst
 album: Back At The House
 score: 7.2
-art: https://coverartarchive.org/release/08fe55be-caa6-4def-9d34-5746d2203946/front-500
+art: images/covers/hemlock-ernst-back-at-the-house-08fe55be-caa6-4def-9d34-5746d2203946.jpg
 review: 
 
 artist: Iceage
 album: Beyondless
 score: 7.2
-art: https://coverartarchive.org/release/cadb5b4f-70ce-4573-bf95-e8acd8801dcb/front-500
+art: images/covers/iceage-beyondless-d1b776d6-d7c7-4505-b6df-0e7bfba0c2db.jpg
 review: 
 
 artist: Troye Sivan
 album: Bloom
 score: 7.2
-art: https://coverartarchive.org/release/a00290ca-d3af-4feb-a933-bccc951adf87/front-500
+art: images/covers/troye-sivan-bloom-292b1501-8b30-4026-81a4-215975885f1d.jpg
 review: 
 
 artist: Duster
 album: Duster
 score: 7.2
-art: https://coverartarchive.org/release/51128fae-3181-45e3-97f5-6d6cec1ba2f7/front-500
+art: images/covers/duster-duster-51128fae-3181-45e3-97f5-6d6cec1ba2f7.jpg
 review: 
 
 artist: Flying Lotus
 album: Flamagra
 score: 7.2
-art: https://coverartarchive.org/release/bc5b9f73-69ea-4730-821b-a0959c3c6d3e/front-500
+art: images/covers/flying-lotus-flamagra-2c20215b-fed3-4b2b-b61a-15068e69fe70.jpg
 review: 
 
 artist: The Weather Station
 album: Ignorance
 score: 7.2
-art: https://coverartarchive.org/release/61a9f2c5-d0fe-42c3-a796-15975140b067/front-500
+art: images/covers/the-weather-station-ignorance-593712d2-621e-459e-a927-92e11c00c923.jpg
 review: 
 
 artist: Lianne La Havas
 album: Lianne La Havas
 score: 7.2
-art: https://coverartarchive.org/release/b9711ac4-cbd4-4e99-8c53-394cb99d673a/front-500
+art: images/covers/lianne-la-havas-lianne-la-havas-4b799688-7416-44e1-b47d-79a4a8b747ee.jpg
 review: 
 
 artist: The Koreatown Oddity
 album: Little Dominiques Nosebleed
 score: 7.2
-art: https://coverartarchive.org/release/5bbf6d68-cb76-4a32-af94-1962d18c22b6/front-500
+art: images/covers/the-koreatown-oddity-little-dominiques-nosebleed-5bbf6d68-cb76-4a32-af94-1962d18c22b6.jpg
 review: 
 
 artist: Aminé
 album: ONEPOINTFIVE
 score: 7.2
-art: https://coverartarchive.org/release/8741ebad-965e-4b18-8c9f-86c05b173ba5/front-500
+art: images/covers/amin-onepointfive-dee140b9-f7fd-4692-912b-6dd44523452c.jpg
 review: 
 
 artist: Leon Vynehall
 album: Rare, Forever
 score: 7.2
-art: https://coverartarchive.org/release/0ecd793d-89ef-45d9-ac70-871b1fa39c54/front-500
+art: images/covers/leon-vynehall-rare-forever-0ecd793d-89ef-45d9-ac70-871b1fa39c54.jpg
 review: 
 
 artist: Daniel Avery
 album: Song for Alpha
 score: 7.2
-art: https://coverartarchive.org/release/fa11858c-d868-4a7c-b693-3d4e6426f215/front-500
+art: images/covers/daniel-avery-song-for-alpha-3d72190f-3c50-4abd-8811-80548ea6737c.jpg
 review: 
 
 artist: Astronauts, etc.
 album: Supermelodic Pulp
 score: 7.2
-art: https://coverartarchive.org/release/c944c896-5f21-43a3-8979-248c3eecd475/front-500
+art: images/covers/astronauts-etc-supermelodic-pulp-c944c896-5f21-43a3-8979-248c3eecd475.jpg
 review: 
 
 artist: Shabazz Palaces
 album: The Don Of Diamond Dreams
 score: 7.2
-art: https://coverartarchive.org/release/3b685c2a-01f0-4ee4-bf8d-7f1230126b92/front-500
+art: images/covers/shabazz-palaces-the-don-of-diamond-dreams-450daec9-acff-46ae-813d-5699759833a1.jpg
 review: 
 
 artist: Damien Jurado
 album: Visions of Us on the Land
 score: 7.2
-art: https://coverartarchive.org/release/9e19ffbe-4a60-46ec-be1d-ea0b3f8f0a1b/front-500
+art: images/covers/damien-jurado-visions-of-us-on-the-land-6d50d9d2-fc6a-44a0-98bc-5d27cfef0bf0.jpg
 review: 
 
 artist: Beak>
 album: >>>
 score: 7.1
-art: https://coverartarchive.org/release/1ed7bd00-8edb-42c9-b9e9-d1e7c01ef000/front-500
+art: images/covers/beak-item-1ed7bd00-8edb-42c9-b9e9-d1e7c01ef000.jpg
 review: 
 
 artist: ScHoolboy Q
 album: Blank Face LP
 score: 7.1
-art: https://coverartarchive.org/release/29d3b732-1a74-43c2-989b-d9c1b0e3bdb8/front-500
+art: images/covers/schoolboy-q-blank-face-lp-6f53ff7d-5fb6-447d-bb74-0b58de90c6ff.jpg
 review: 
 
 artist: Beach Fossils
 album: Clash the Truth
 score: 7.1
-art: https://coverartarchive.org/release/eadc3edc-80b5-4600-9443-0c5ef81df6f9/front-500
+art: images/covers/beach-fossils-clash-the-truth-eadc3edc-80b5-4600-9443-0c5ef81df6f9.jpg
 review: 
 
 artist: Bombay Bicycle Club
 album: Everything Else Has Gone Wrong
 score: 7.1
-art: https://coverartarchive.org/release/d278f5fe-caf6-4404-9dd3-73324e512856/front-500
+art: images/covers/bombay-bicycle-club-everything-else-has-gone-wrong-69aab293-758e-46ec-b9c3-78bbaac90d11.jpg
 review: 
 
 artist: Ty Segall
 album: First Taste
 score: 7.1
-art: https://coverartarchive.org/release/5eced8a5-e2fb-4fd1-8522-3b1a48c9d9d7/front-500
+art: images/covers/ty-segall-first-taste-5eced8a5-e2fb-4fd1-8522-3b1a48c9d9d7.jpg
 review: 
 
 artist: Deep Sea Diver
 album: Impossible Weight
 score: 7.1
-art: https://coverartarchive.org/release/7a24b0a4-9c58-4ebb-a2a0-c1ec8bd5605a/front-500
+art: images/covers/deep-sea-diver-impossible-weight-9a86b164-4cc4-43c3-81ab-e98eb85c5098.jpg
 review: 
 
 artist: Nothing
 album: The Great Dismal
 score: 7.1
-art: https://coverartarchive.org/release/566012dd-6dce-4021-a711-4d4f041aa963/front-500
+art: images/covers/nothing-the-great-dismal-01276e6c-c302-49b4-a6ad-8fd0ef78614e.jpg
 review: 
 
 artist: Aly & AJ
 album: a touch of the beat gets you up on your feet gets you out and then into the sun
 score: 7
-art: https://coverartarchive.org/release/cba30911-93c3-4a6d-90e6-30b5d9287f70/front-500
+art: images/covers/aly-aj-a-touch-of-the-beat-gets-you-up-on-your-feet-gets-you-out-and-then-into-the-sun-cba30911-93c3-4a6d-90e6-30b5d9287f70.jpg
 review: 
 
 artist: Pinegrove
 album: Amperland, NY
 score: 7
-art: https://coverartarchive.org/release/c315706a-a4ea-4d58-9d1c-689aff65e9f7/front-500
+art: images/covers/pinegrove-amperland-ny-c315706a-a4ea-4d58-9d1c-689aff65e9f7.jpg
 review: 
 
 artist: Andrew Bird
 album: Are You Serious
 score: 7
-art: https://coverartarchive.org/release/a2a7fe44-996e-466f-a97f-d4832bd06b5d/front-500
+art: images/covers/andrew-bird-are-you-serious-113c3ed2-de96-405e-ba82-9fc6cedb99d4.jpg
 review: 
 
 artist: Mitski
 album: Be the Cowboy
 score: 7
-art: https://coverartarchive.org/release/a20cbaff-9fba-48d1-99f2-322f9394f27e/front-500
+art: images/covers/mitski-be-the-cowboy-a20cbaff-9fba-48d1-99f2-322f9394f27e.jpg
 review: 
 
 artist: R.A.P. Ferreira
 album: Bob's Son
 score: 7
-art: https://coverartarchive.org/release/016197ab-acc0-455e-b3d8-affa8fb232d5/front-500
+art: images/covers/r-a-p-ferreira-bob-s-son-016197ab-acc0-455e-b3d8-affa8fb232d5.jpg
 review: 
 
 artist: Milo
 album: budding ornithologists are weary of tired analogies
 score: 7
-art: https://coverartarchive.org/release/ba747e8a-5467-48a1-819f-a273d2c8c4fb/front-500
+art: images/covers/milo-budding-ornithologists-are-weary-of-tired-analogies-ba747e8a-5467-48a1-819f-a273d2c8c4fb.jpg
 review: 
 
 artist: CZARFACE
 album: Czarface Meets Ghostface
 score: 7
-art: https://coverartarchive.org/release/eeccb3bf-6780-4b79-aa8a-2c97e0bdfb8b/front-500
+art: images/covers/czarface-czarface-meets-ghostface-532220b1-20b0-474e-820f-67233ed2a0e0.jpg
 review: 
 
 artist: BUSDRIVER
 album: electricity is on our side
 score: 7
-art: https://coverartarchive.org/release/08ea8458-3080-4ab3-8957-9a562e18b59c/front-500
+art: images/covers/busdriver-electricity-is-on-our-side-2e44d02a-f19a-47ee-89d7-745e4b628742.jpg
 review: 
 
 artist: Anna Meredith
 album: FIBS
 score: 7
-art: https://coverartarchive.org/release/c4aaee46-8f34-410c-92ae-cfbb7fdaef73/front-500
+art: images/covers/anna-meredith-fibs-c4aaee46-8f34-410c-92ae-cfbb7fdaef73.jpg
 review: 
 
 artist: PJ Harvey
 album: Let England Shake
 score: 7
-art: https://coverartarchive.org/release/88a3096c-b29f-306a-865e-37bddf9bcc28/front-500
+art: images/covers/pj-harvey-let-england-shake-ca453b43-f905-43b0-b6be-119e04daac41.jpg
 review: 
 
 artist: Clams Casino
 album: Moon Trip Radio
 score: 7
-art: https://coverartarchive.org/release/7566e7fd-5776-4c64-971d-1525690dba4f/front-500
+art: images/covers/clams-casino-moon-trip-radio-7566e7fd-5776-4c64-971d-1525690dba4f.jpg
 review: 
 
 artist: BROCKHAMPTON
 album: ROADRUNNER: NEW LIGHT, NEW MACHINE
 score: 7
-art: https://coverartarchive.org/release/cb2bc19d-45d6-419a-8dc3-2908c2dc653c/front-500
+art: images/covers/brockhampton-roadrunner-new-light-new-machine-711d9c2f-b0d9-4674-ade5-b1cd76fa8b7f.jpg
 review: 
 
 artist: Mild High Club
 album: Skiptracing
 score: 7
-art: https://coverartarchive.org/release/ab805b4a-7fb3-4cbd-8921-55f962d56fa2/front-500
+art: images/covers/mild-high-club-skiptracing-b4397723-449d-4fe2-8675-7bfa78e9bc4c.jpg
 review: 
 
 artist: Black Thought
 album: Streams of Thought Vol. 1
 score: 7
-art: https://coverartarchive.org/release/d991a1b5-e5b5-4015-8da0-8842b1eb626e/front-500
+art: images/covers/black-thought-streams-of-thought-vol-1-d991a1b5-e5b5-4015-8da0-8842b1eb626e.jpg
 review: 
 
 artist: Black Thought
 album: Streams Of Thought Vol. 2
 score: 7
-art: https://coverartarchive.org/release/e70b828c-780a-4bce-93b2-b1c81ec53561/front-500
+art: images/covers/black-thought-streams-of-thought-vol-2-e70b828c-780a-4bce-93b2-b1c81ec53561.jpg
 review: 
 
 artist: Black Thought
 album: Streams of Thought, Vol. 3: Cane & Able
 score: 7
-art: https://coverartarchive.org/release/61de9cb7-113a-4abd-b2b1-57cae448ed0a/front-500
+art: images/covers/black-thought-streams-of-thought-vol-3-cane-able-8226122c-a68a-4031-98b3-2b20ed96c6f8.jpg
 review: 
 
 artist: DUDA BEAT
 album: Te Amo Lá Fora
 score: 7
-art: https://coverartarchive.org/release/9191385b-2c58-4fb6-9ef1-500a6a0d5904/front-500
+art: images/covers/duda-beat-te-amo-l-fora-9191385b-2c58-4fb6-9ef1-500a6a0d5904.jpg
 review: 
 
 artist: Damien Jurado
 album: The Horizon Just Laughed
 score: 7
-art: https://coverartarchive.org/release/e6e80833-fa31-46fa-a47d-f402356006f1/front-500
+art: images/covers/damien-jurado-the-horizon-just-laughed-d6f5ce81-3f3a-444e-a3cb-b6ad3010d5fd.jpg
 review: 
 
 artist: Trouble Knows Me
 album: Trouble Knows Me
 score: 7
-art: https://coverartarchive.org/release/9dc37869-5237-4f0d-9a70-184e310a236b/front-500
+art: images/covers/trouble-knows-me-trouble-knows-me-9dc37869-5237-4f0d-9a70-184e310a236b.jpg
 review: 
 
 artist: The Besnard Lakes
 album: Volume I
 score: 7
-art: https://coverartarchive.org/release/aea96c89-1379-4454-8e25-a97b0776b0e7/front-500
+art: images/covers/the-besnard-lakes-volume-i-093fc6b1-5a98-3bbd-b9ff-6a79389c3e12.jpg
 review: 
 
 artist: Altin Gün
 album: Yol
 score: 7
-art: https://coverartarchive.org/release/5a96e346-a96f-46ae-ad7a-fa2a8d5718d0/front-500
+art: images/covers/altin-g-n-yol-dee356f4-f6da-472d-b315-974daded1cdf.jpg
 review: 
 
 artist: clipping.
 album: Splendor & Misery
 score: 6.9
-art: https://coverartarchive.org/release/29350a6b-dd11-4b6e-b8a3-cc3b8bbbe069/front-500
+art: images/covers/clipping-splendor-misery-f4a6caa8-2a5a-4112-a74b-1bf75f9873d8.jpg
 review: 
 
 artist: Childish Gambino
 album: "Awaken, My Love!"
 score: 6.8
-art: https://coverartarchive.org/release/2017e952-42c9-41e0-9e39-69d5aa7b17a6/front-500
+art: images/covers/childish-gambino-awaken-my-love-2017e952-42c9-41e0-9e39-69d5aa7b17a6.jpg
 review: 
 
 artist: Max Cooper
 album: 3D Reworks 001
 score: 6.8
-art: https://coverartarchive.org/release/3d6211bf-29f8-4fa6-b4f6-c2dd1aaf6bff/front-500
+art: images/covers/max-cooper-3d-reworks-001-3d6211bf-29f8-4fa6-b4f6-c2dd1aaf6bff.jpg
 review: 
 
 artist: A. G. Cook
 album: 7G
 score: 6.8
-art: https://coverartarchive.org/release/20297caa-4f2a-432e-ae7b-8349836b1ca8/front-500
+art: images/covers/a-g-cook-7g-47e3b3bf-1353-4707-80f5-e98c41e56f5f.jpg
 review: 
 
 artist: TOOL
 album: Fear Inoculum
 score: 6.8
-art: https://coverartarchive.org/release/a0b21967-e2a8-4cff-b680-26112d0f5192/front-500
+art: images/covers/tool-fear-inoculum-997490e6-0953-48c6-80bf-2dc9f029060c.jpg
 review: 
 
 artist: Ben Howard
@@ -2965,67 +2965,67 @@ review:
 artist: Astronauts, etc.
 album: Living In Symbol
 score: 6.8
-art: https://coverartarchive.org/release/4881d2e7-fe04-474d-b439-3625024daaa8/front-500
+art: images/covers/astronauts-etc-living-in-symbol-92563035-cb71-4196-a522-6fba63190473.jpg
 review: 
 
 artist: Roosevelt
 album: Polydans
 score: 6.8
-art: https://coverartarchive.org/release/5ab0ebff-c0ac-4ac0-b7e5-f2bdd39e85ba/front-500
+art: images/covers/roosevelt-polydans-5ab0ebff-c0ac-4ac0-b7e5-f2bdd39e85ba.jpg
 review: 
 
 artist: CZARFACE
 album: Super What?
 score: 6.8
-art: https://coverartarchive.org/release/43cda21c-e873-4479-b999-7f0526ea2df3/front-500
+art: images/covers/czarface-super-what-9cbee1bd-8373-43c4-b4a8-2488ad64ee62.jpg
 review: 
 
 artist: Blanck Mass
 album: World Eater Re-Voxed
 score: 6.8
-art: https://coverartarchive.org/release/0a55efd0-1270-4801-bdbc-dd24bc0b28e6/front-500
+art: images/covers/blanck-mass-world-eater-re-voxed-0a55efd0-1270-4801-bdbc-dd24bc0b28e6.jpg
 review: 
 
 artist: CZARFACE
 album: Czarface Meets Metal Face
 score: 6.7
-art: https://coverartarchive.org/release/468f4ca9-4c5b-4976-bcfe-9738a5d79e35/front-500
+art: images/covers/czarface-czarface-meets-metal-face-468f4ca9-4c5b-4976-bcfe-9738a5d79e35.jpg
 review: 
 
 artist: Benny Sings
 album: Music
 score: 6.7
-art: https://coverartarchive.org/release/7e6227c4-8324-4e8d-b890-173e4d2282dd/front-500
+art: images/covers/benny-sings-music-7e6227c4-8324-4e8d-b890-173e4d2282dd.jpg
 review: 
 
 artist: MC Paul Barman
 album: (((echo chamber)))
 score: 6.5
-art: https://coverartarchive.org/release/0443019b-5100-403d-9733-7bc40d811d01/front-500
+art: images/covers/mc-paul-barman-echo-chamber-0443019b-5100-403d-9733-7bc40d811d01.jpg
 review: 
 
 artist: Machinedrum
 album: A View of U
 score: 6.5
-art: https://coverartarchive.org/release/8f387498-2618-480c-8f9e-9623578a0be8/front-500
+art: images/covers/machinedrum-a-view-of-u-8db06ed7-408c-4654-9d8b-bf7acf2506c0.jpg
 review: 
 
 artist: Andrew Bird
 album: Armchair Apocrypha
 score: 6.5
-art: https://coverartarchive.org/release/a01bc8ac-bdbe-3893-ab2d-2990e52005cf/front-500
+art: images/covers/andrew-bird-armchair-apocrypha-ed63b63e-6629-40af-8cc2-fc1817085778.jpg
 review: 
 
 artist: Harry Styles
 album: Fine Line
 score: 6.5
-art: https://coverartarchive.org/release/c7f9f23c-1d1f-47b3-961b-cac4ce44af05/front-500
+art: images/covers/harry-styles-fine-line-c6a3c8a1-1c6e-4fef-a3f4-6b24eb064c19.jpg
 review: 
 
 artist: TOBACCO
 album: Fucked up Friends
 score: 6.5
-art: https://coverartarchive.org/release/80b9b429-3049-4469-b4c3-539303af5c52/front-500
+art: images/covers/tobacco-fucked-up-friends-29c864e5-28ca-3c24-af4d-21d8066c799a.jpg
 review: 
 
 artist: Floating Points
@@ -3037,49 +3037,49 @@ review:
 artist: Arbour
 album: Luv Songs
 score: 6.5
-art: https://coverartarchive.org/release/dfc6401b-b290-4a41-8c60-3a74671a727a/front-500
+art: images/covers/arbour-luv-songs-46137cb2-7791-448c-8929-502578235ac4.jpg
 review: 
 
 artist: Bibio
 album: Sleep On The Wing
 score: 6.5
-art: https://coverartarchive.org/release/59cedf63-03e2-4645-a393-48f29cab554e/front-500
+art: images/covers/bibio-sleep-on-the-wing-59cedf63-03e2-4645-a393-48f29cab554e.jpg
 review: 
 
 artist: Aesop Rock
 album: Spirit World Field Guide
 score: 6.5
-art: https://coverartarchive.org/release/2a26bf42-44d4-41b0-aa7a-90ba8fe7c3c9/front-500
+art: images/covers/aesop-rock-spirit-world-field-guide-2a26bf42-44d4-41b0-aa7a-90ba8fe7c3c9.jpg
 review: 
 
 artist: King Gizzard & The Lizard Wizard
 album: Fishing For Fishies
 score: 6.4
-art: https://coverartarchive.org/release/df1e7270-1746-4481-8a77-225ed6e73d5e/front-500
+art: images/covers/king-gizzard-the-lizard-wizard-fishing-for-fishies-e9f1e227-0e29-4831-87c6-a6e25f8ae06d.jpg
 review: 
 
 artist: Gesaffelstein
 album: Aleph
 score: 6.1
-art: https://coverartarchive.org/release/de84ad82-b43e-4adb-8504-1e001a0ed6ff/front-500
+art: images/covers/gesaffelstein-aleph-de84ad82-b43e-4adb-8504-1e001a0ed6ff.jpg
 review: 
 
 artist: Ben Howard
 album: Noonday Dream
 score: 6.1
-art: https://coverartarchive.org/release/4d21af6b-58ba-4f93-8de1-9444aa5a128f/front-500
+art: images/covers/ben-howard-noonday-dream-d49a09c6-7403-4271-9351-0d5f6c4ceeac.jpg
 review: 
 
 artist: Baauer
 album: Aa
 score: 6
-art: https://coverartarchive.org/release/99f80584-5e35-404f-ad83-747121e3e689/front-500
+art: images/covers/baauer-aa-7c7d0bb9-dbe9-4b59-99f2-4292b28d4b66.jpg
 review: 
 
 artist: Amon Tobin
 album: ISAM
 score: 6
-art: https://coverartarchive.org/release/230c604d-86f1-41c1-b343-0f35dc51e271/front-500
+art: images/covers/amon-tobin-isam-230c604d-86f1-41c1-b343-0f35dc51e271.jpg
 review: 
 
 artist: George Clanton
@@ -3097,11 +3097,11 @@ review:
 artist: Charli XCX
 album: BRAT
 score: 9.1
-art: https://coverartarchive.org/release/06272341-cea9-42ad-9b0c-6ec47954417c/front-500
+art: images/covers/charli-xcx-brat-0aa87f3e-a91a-4355-ad9e-6d60be378841.jpg
 review: 
 
 artist: Mount Eerie
 album: Night Palace
 score: 9.5
-art: https://coverartarchive.org/release/465fb64b-ae3a-4b87-9da9-7f62a5658335/front-500
+art: images/covers/mount-eerie-night-palace-d71fd182-d6a0-4746-91da-f284e51d0fb7.jpg
 review:

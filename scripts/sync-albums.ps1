@@ -79,30 +79,145 @@ function Escape-MusicBrainzQueryValue([string]$Value) {
   return ($Value -replace '\\', '\\\\' -replace '"', '\"').Trim()
 }
 
-function Find-BestRelease([string]$Artist, [string]$Album) {
-  $escapedArtist = Escape-MusicBrainzQueryValue $Artist
-  $escapedAlbum = Escape-MusicBrainzQueryValue $Album
-  $query = 'artist:"{0}" AND release:"{1}"' -f $escapedArtist, $escapedAlbum
-  $encodedQuery = [System.Uri]::EscapeDataString($query)
-  $url = "https://musicbrainz.org/ws/2/release/?query=$encodedQuery&fmt=json&limit=10"
-
+function Invoke-MusicBrainzRequest([string]$Url) {
   $headers = @{
     "User-Agent" = "album-ranks/1.0 (https://github.com/)"
     "Accept" = "application/json"
   }
 
-  $response = Invoke-RestMethod -Uri $url -Headers $headers -Method Get
+  $attempt = 0
 
-  if (-not $response.releases) {
+  while ($true) {
+    try {
+      return Invoke-RestMethod -Uri $Url -Headers $headers -Method Get
+    } catch {
+      $attempt += 1
+      $statusCode = $null
+
+      if ($_.Exception.Response -and $_.Exception.Response.StatusCode) {
+        $statusCode = [int]$_.Exception.Response.StatusCode
+      }
+
+      if ($attempt -ge 3 -or ($statusCode -notin @(429, 500, 502, 503, 504))) {
+        throw
+      }
+
+      Start-Sleep -Seconds ([Math]::Pow(2, $attempt))
+    }
+  }
+}
+
+function Find-BestReleaseGroup([string]$Artist, [string]$Album) {
+  $escapedArtist = Escape-MusicBrainzQueryValue $Artist
+  $escapedAlbum = Escape-MusicBrainzQueryValue $Album
+  $query = 'artist:"{0}" AND releasegroup:"{1}"' -f $escapedArtist, $escapedAlbum
+  $encodedQuery = [System.Uri]::EscapeDataString($query)
+  $url = "https://musicbrainz.org/ws/2/release-group/?query=$encodedQuery&fmt=json&limit=10"
+  $response = Invoke-MusicBrainzRequest $url
+
+  if (-not $response.'release-groups') {
     return $null
   }
 
-  $ranked = $response.releases | Sort-Object `
-    @{ Expression = { if ($_.status -eq "Official") { 0 } else { 1 } } }, `
+  $ranked = $response.'release-groups' | Sort-Object `
+    @{ Expression = { if ($_.title -eq $Album) { 0 } else { 1 } } }, `
+    @{ Expression = { if ($_.'primary-type' -eq "Album") { 0 } else { 1 } } }, `
     @{ Expression = { -1 * [int]($_.score) } }, `
-    @{ Expression = { if ($_.date) { $_.date } else { "9999-99-99" } } }
+    @{ Expression = { if ($_.'first-release-date') { $_.'first-release-date' } else { "9999-99-99" } } }
 
   return $ranked | Select-Object -First 1
+}
+
+function Find-ReleasesForReleaseGroup([string]$ReleaseGroupId, [string]$Artist, [string]$Album) {
+  $escapedArtist = Escape-MusicBrainzQueryValue $Artist
+  $escapedAlbum = Escape-MusicBrainzQueryValue $Album
+  $query = 'rgid:{0} AND artist:"{1}" AND release:"{2}"' -f $ReleaseGroupId, $escapedArtist, $escapedAlbum
+  $encodedQuery = [System.Uri]::EscapeDataString($query)
+  $url = "https://musicbrainz.org/ws/2/release/?query=$encodedQuery&fmt=json&limit=25"
+  $response = Invoke-MusicBrainzRequest $url
+  return $response.releases
+}
+
+function Get-ReleaseByMbid([string]$ReleaseMbid) {
+  $url = "https://musicbrainz.org/ws/2/release/$ReleaseMbid?fmt=json"
+  return Invoke-MusicBrainzRequest $url
+}
+
+function Get-FormatRank([string]$Format) {
+  switch ($Format) {
+    "CD" { return 0 }
+    "Digital Media" { return 1 }
+    "2xCD" { return 2 }
+    "Vinyl" { return 3 }
+    default { return 9 }
+  }
+}
+
+function Get-CountryRank([string]$Country) {
+  switch ($Country) {
+    "US" { return 0 }
+    "GB" { return 1 }
+    "XW" { return 2 }
+    default { return 9 }
+  }
+}
+
+function Get-VariantPenalty([string]$Title) {
+  $normalized = $Title.ToLowerInvariant()
+
+  if ($normalized -match 'expanded|deluxe|bonus|hi-res|remaster|anniversary') {
+    return 1
+  }
+
+  return 0
+}
+
+function Find-BestRelease([System.Collections.IDictionary]$EntryMap) {
+  if ($EntryMap.Contains("mbid") -and -not [string]::IsNullOrWhiteSpace($EntryMap["mbid"])) {
+    return @(Get-ReleaseByMbid $EntryMap["mbid"])
+  }
+
+  $releaseGroup = Find-BestReleaseGroup -Artist $EntryMap["artist"] -Album $EntryMap["album"]
+
+  if ($null -eq $releaseGroup -or -not $releaseGroup.id) {
+    return @()
+  }
+
+  $releases = Find-ReleasesForReleaseGroup -ReleaseGroupId $releaseGroup.id -Artist $EntryMap["artist"] -Album $EntryMap["album"]
+
+  if (-not $releases) {
+    return @()
+  }
+
+  $albumTitle = $EntryMap["album"]
+
+  $ranked = $releases | Sort-Object `
+    @{ Expression = { if ($_.status -eq "Official") { 0 } else { 1 } } }, `
+    @{ Expression = { if ($_.title -eq $albumTitle) { 0 } else { 1 } } }, `
+    @{ Expression = { Get-VariantPenalty $_.title } }, `
+    @{ Expression = { Get-FormatRank $_.format } }, `
+    @{ Expression = { Get-CountryRank $_.country } }, `
+    @{ Expression = { if ($_.date) { $_.date } else { "9999-99-99" } } }
+
+  return @($ranked)
+}
+
+function Get-CoverArtTempFile([string]$RemoteArtUrl) {
+  $tempPath = Join-Path -Path ([System.IO.Path]::GetTempPath()) -ChildPath ([System.Guid]::NewGuid().ToString() + ".tmp")
+
+  try {
+    $response = Invoke-WebRequest -Uri $RemoteArtUrl -Method Get -OutFile $tempPath -PassThru
+    return @{
+      Response = $response
+      TempPath = $tempPath
+    }
+  } catch {
+    if (Test-Path -LiteralPath $tempPath) {
+      Remove-Item -LiteralPath $tempPath -Force
+    }
+
+    throw
+  }
 }
 
 function Convert-ToSlug([string]$Value) {
@@ -147,33 +262,50 @@ function Download-AlbumArtForEntry(
   [string]$ImageDirectory,
   [int]$ArtSize
 ) {
-  $release = Find-BestRelease -Artist $EntryMap["artist"] -Album $EntryMap["album"]
+  $releases = Find-BestRelease -EntryMap $EntryMap
 
-  if ($null -eq $release -or -not $release.id) {
-    throw "No MusicBrainz release found."
+  if (-not $releases -or $releases.Count -eq 0) {
+    throw "No suitable MusicBrainz release found."
   }
 
-  $remoteArtUrl = "https://coverartarchive.org/release/$($release.id)/front-$ArtSize"
   $artistSlug = Convert-ToSlug $EntryMap["artist"]
   $albumSlug = Convert-ToSlug $EntryMap["album"]
-  $baseName = "{0}-{1}-{2}" -f $artistSlug, $albumSlug, $release.id.ToLowerInvariant()
 
-  $tempPath = $null
+  foreach ($release in $releases) {
+    if (-not $release.id) {
+      continue
+    }
 
-  try {
-    $tempPath = Join-Path -Path ([System.IO.Path]::GetTempPath()) -ChildPath ([System.Guid]::NewGuid().ToString() + ".tmp")
-    $response = Invoke-WebRequest -Uri $remoteArtUrl -Method Get -OutFile $tempPath -PassThru
-    $extension = Get-ExtensionFromResponse -Response $response -FallbackUrl $remoteArtUrl
-    $destinationFileName = "$baseName$extension"
-    $destinationPath = Join-Path -Path $ResolvedImageDirectory -ChildPath $destinationFileName
-    Move-Item -LiteralPath $tempPath -Destination $destinationPath -Force
+    $remoteArtUrl = "https://coverartarchive.org/release/$($release.id)/front-$ArtSize"
+    $baseName = "{0}-{1}-{2}" -f $artistSlug, $albumSlug, $release.id.ToLowerInvariant()
 
-    return (($ImageDirectory.TrimEnd("\", "/") + "/" + $destinationFileName) -replace "\\", "/")
-  } finally {
-    if ($tempPath -and (Test-Path -LiteralPath $tempPath)) {
-      Remove-Item -LiteralPath $tempPath -Force
+    try {
+      $download = Get-CoverArtTempFile -RemoteArtUrl $remoteArtUrl
+      $response = $download.Response
+      $tempPath = $download.TempPath
+      $extension = Get-ExtensionFromResponse -Response $response -FallbackUrl $remoteArtUrl
+      $destinationFileName = "$baseName$extension"
+      $destinationPath = Join-Path -Path $ResolvedImageDirectory -ChildPath $destinationFileName
+      Move-Item -LiteralPath $tempPath -Destination $destinationPath -Force
+
+      return (($ImageDirectory.TrimEnd("\", "/") + "/" + $destinationFileName) -replace "\\", "/")
+    } catch {
+      $statusCode = $null
+
+      if ($_.Exception.Response -and $_.Exception.Response.StatusCode) {
+        $statusCode = [int]$_.Exception.Response.StatusCode
+      }
+
+      if ($statusCode -eq 404) {
+        Write-Host "  -> no cover art for release $($release.id), trying next match..."
+        continue
+      }
+
+      throw
     }
   }
+
+  throw "No release with cover art was found."
 }
 
 if (-not $Mode) {
