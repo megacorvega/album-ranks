@@ -1,0 +1,310 @@
+@font-face {
+  font-family: "Terminus Web";
+  src: url("fonts/TerminusTTF-4.49.3.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Terminus Web";
+  src: url("fonts/TerminusTTF-Italic-4.49.3.ttf") format("truetype");
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Terminus Web";
+  src: url("fonts/TerminusTTF-Bold-4.49.3.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Terminus Web";
+  src: url("fonts/TerminusTTF-Bold-Italic-4.49.3.ttf") format("truetype");
+  font-weight: 700;
+  font-style: italic;
+}
+
+:root {
+  --bg: #eadcc7;
+  --bg-accent: #e5d6c3;
+  --line: rgba(43, 32, 23, 0.16);
+  --line-strong: rgba(43, 32, 23, 0.28);
+  --text: #1f1a17;
+  --muted: #6b5d50;
+  --artist-col: 188px;
+  --album-col: 208px;
+  --score-col: 144px;
+  --art-col: 310px;
+  --review-col: 600px;
+  --table-gutter: 7.5rem;
+  --table-width: calc(
+    var(--artist-col) +
+    var(--album-col) +
+    var(--score-col) +
+    var(--art-col) +
+    var(--review-col) +
+    var(--table-gutter)
+  );
+  --score-0: #9c615b;
+  --score-1: #a16a60;
+  --score-2: #aa735f;
+  --score-3: #b17c5d;
+  --score-4: #b58a63;
+  --score-5: #b29a69;
+  --score-6: #a3a06a;
+  --score-7: #8f9f70;
+  --score-8: #78976d;
+  --score-9: #648a67;
+  --score-10: #d9b54a;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  min-height: 100%;
+  background-color: var(--bg);
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  color: var(--text);
+  background: transparent;
+  font-family: "Terminus Web", "Terminus", "Terminus (TTF)", "PxPlus IBM VGA8", "Courier New", monospace;
+}
+
+body::before {
+  content: none;
+}
+
+.page-shell {
+  width: min(var(--table-width), calc(100% - 2rem));
+  margin: 0 auto;
+  padding: 2rem 0 3rem;
+}
+
+.toolbar {
+  display: flex;
+  gap: 1rem;
+  align-items: end;
+  justify-content: space-between;
+  margin-bottom: 1.75rem;
+  padding: 0 0.75rem;
+}
+
+.search {
+  display: block;
+  flex: 1;
+  max-width: 420px;
+}
+
+.search-label {
+  display: block;
+  margin-bottom: 0.45rem;
+  color: var(--muted);
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.search input {
+  width: 100%;
+  padding: 0.75rem 0;
+  border: 0;
+  background: transparent;
+  color: var(--text);
+  font: inherit;
+}
+
+.search input:focus {
+  outline: none;
+}
+
+.stats,
+.status-message {
+  color: var(--muted);
+  font-size: 0.95rem;
+}
+
+.status-message {
+  margin-bottom: 0.75rem;
+}
+
+.status-message[hidden] {
+  display: none;
+}
+
+.album-table {
+  width: 100%;
+  border-collapse: collapse;
+  table-layout: fixed;
+}
+
+.artist-col {
+  width: var(--artist-col);
+}
+
+.album-col {
+  width: var(--album-col);
+}
+
+.score-col {
+  width: var(--score-col);
+}
+
+.art-col {
+  width: var(--art-col);
+}
+
+.review-col {
+  width: var(--review-col);
+}
+
+.album-table th,
+.album-table td {
+  padding: 0.9rem 0.75rem;
+  vertical-align: middle;
+  text-align: center;
+}
+
+.album-table th {
+  padding-top: 0;
+  color: var(--muted);
+  font-size: 0.74rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.sortable-header {
+  cursor: pointer;
+  transition: color 140ms ease;
+}
+
+.sortable-header:hover {
+  color: var(--text);
+}
+
+.artist-cell,
+.album-cell {
+  font-weight: 600;
+}
+
+.score-cell {
+  white-space: nowrap;
+  text-align: center;
+}
+
+.album-art {
+  display: block;
+  width: 216px;
+  height: 216px;
+  object-fit: cover;
+  margin: 0 auto;
+}
+
+.review-cell {
+  color: #342b25;
+  line-height: 1.6;
+  text-align: left !important;
+  hyphens: auto;
+  overflow-wrap: break-word;
+}
+
+.score-badge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 3.25rem;
+  min-width: 3.25rem;
+  height: 3.25rem;
+  min-height: 3.25rem;
+  margin: 0 auto;
+  border-radius: 999px;
+  color: #fffaf3;
+  font-weight: 700;
+  line-height: 1;
+}
+
+.score-badge[data-score-band="0"] {
+  background: var(--score-0);
+}
+
+.score-badge[data-score-band="1"] {
+  background: var(--score-1);
+}
+
+.score-badge[data-score-band="2"] {
+  background: var(--score-2);
+}
+
+.score-badge[data-score-band="3"] {
+  background: var(--score-3);
+}
+
+.score-badge[data-score-band="4"] {
+  background: var(--score-4);
+}
+
+.score-badge[data-score-band="5"] {
+  background: var(--score-5);
+}
+
+.score-badge[data-score-band="6"] {
+  background: var(--score-6);
+}
+
+.score-badge[data-score-band="7"] {
+  background: var(--score-7);
+}
+
+.score-badge[data-score-band="8"] {
+  background: var(--score-8);
+}
+
+.score-badge[data-score-band="9"] {
+  background: var(--score-9);
+}
+
+.score-badge[data-score-band="10"] {
+  background: var(--score-10);
+  color: #241a0b;
+}
+
+@media (max-width: 820px) {
+  .page-shell {
+    width: min(100% - 1rem, var(--table-width));
+    padding-top: 1rem;
+  }
+
+  .toolbar {
+    flex-direction: column;
+    align-items: stretch;
+    padding: 0 0.4rem;
+  }
+
+  .search {
+    max-width: none;
+  }
+
+  .album-table {
+    table-layout: auto;
+  }
+
+  .album-table th,
+  .album-table td {
+    padding-left: 0.4rem;
+    padding-right: 0.4rem;
+    font-size: 0.92rem;
+  }
+
+  .album-art {
+    width: 144px;
+    height: 144px;
+  }
+}

@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Album Ranks</title>
+  <meta name="description" content="A simple album ranking page powered by a hand-editable text file.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Manrope:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="page-shell">
+    <section class="toolbar" aria-label="Album controls">
+      <label class="search">
+        <span class="search-label">Search</span>
+        <input id="searchInput" type="search" placeholder="Artist, album, or review text">
+      </label>
+      <div class="stats">
+        <span id="resultCount">0 albums</span>
+      </div>
+    </section>
+
+    <div id="statusMessage" class="status-message" role="status" aria-live="polite">Loading albums...</div>
+
+    <table class="album-table">
+      <colgroup>
+        <col class="artist-col">
+        <col class="album-col">
+        <col class="score-col">
+        <col class="art-col">
+        <col class="review-col">
+      </colgroup>
+      <thead>
+        <tr>
+          <th scope="col" class="sortable-header" data-sort-key="artist" aria-sort="none">Artist</th>
+          <th scope="col" class="sortable-header" data-sort-key="album" aria-sort="none">Album</th>
+          <th scope="col" class="sortable-header" data-sort-key="score" aria-sort="descending">Score</th>
+          <th scope="col">Album Art</th>
+          <th scope="col">Review</th>
+        </tr>
+      </thead>
+      <tbody id="albumTableBody" aria-live="polite"></tbody>
+    </table>
+  </div>
+
+  <template id="albumRowTemplate">
+    <tr>
+      <td class="artist-cell"></td>
+      <td class="album-cell"></td>
+      <td class="score-cell">
+        <span class="score-badge"></span>
+      </td>
+      <td class="art-cell">
+        <img class="album-art" alt="">
+      </td>
+      <td class="review-cell"></td>
+    </tr>
+  </template>
+
+  <script src="app.js" defer></script>
+</body>
+</html>
