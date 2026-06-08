@@ -201,9 +201,12 @@ body::before {
 }
 
 .score-value {
-  display: inline-block;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
   min-width: 3.25rem;
   font-weight: 700;
+  text-align: center;
 }
 
 .album-art {
