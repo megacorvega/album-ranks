@@ -54,7 +54,8 @@ review: "Slide" by George Clanton, released in 2018, is a shimmering journey thr
 
 artist: Daniel Rossen
 album: You Belong There
-score: 9.7
+score: 9.3478
+original_score: 9.7
 art: images/covers/daniel-rossen-you-belong-there-aed1714d-3c3a-4266-bd7a-0444ff0dcfb2.jpg
 review: "You Belong There" by Daniel Rossen, released in 2022, is a hauntingly beautiful exploration of introspection and vulnerability. Rossen, known for his work with Grizzly Bear and Department of Eagles, delivers a solo debut that captivates with its intricate songwriting and ethereal arrangements. Each track is a delicate balance of folk-inspired melodies, intricate guitar work, and Rossen's evocative vocals. You Belong There invites listeners on a journey through moments of intimacy and reflection. "You Belong There" stands as a testament to Rossen's talent as a songwriter and his ability to craft music that resonates deeply with the soul.
 
@@ -102,7 +103,8 @@ review:
 
 artist: George Clanton
 album: 100% Electronica
-score: 9.1
+score: 9.7826
+original_score: 9.1
 art: images/covers/george-clanton-100-electronica-36164993-fb55-4889-b22b-4ae0397d226c.jpg
 review: 
 
@@ -162,7 +164,8 @@ review:
 
 artist: Frank Ocean
 album: Endless
-score: 8.9
+score: 9.1304
+original_score: 8.9
 art: images/covers/frank-ocean-endless-fcac5979-9f6b-473a-a58e-706bedffc93c.jpg
 review: 
 
@@ -198,7 +201,8 @@ review:
 
 artist: Radiohead
 album: Kid A
-score: 8.8
+score: 9.5652
+original_score: 8.8
 art: images/covers/radiohead-kid-a-1c10e255-c03f-4e60-b957-7a86e71faa59.jpg
 review: 
 
@@ -228,13 +232,14 @@ review:
 
 artist: Beach House
 album: Bloom
-score: 8.7
+score: 6.087
+original_score: 8.7
 art: images/covers/beach-house-bloom-24c99b7d-b243-450d-8477-46dfd4a8bfa3.jpg
 review: 
 
 artist: Injury Reserve
 album: By The Time I Get To Phoenix
-score: 9.5238
+score: 8.913
 original_score: 8.7
 art: images/covers/injury-reserve-by-the-time-i-get-to-phoenix-45d90526-f6c1-461d-9ec2-3f8bfbe623ea.jpg
 review: 
@@ -301,7 +306,8 @@ review:
 
 artist: King Geedorah
 album: Take Me To Your Leader
-score: 8.7
+score: 8.2609
+original_score: 8.7
 art: images/covers/king-geedorah-take-me-to-your-leader-e21c3566-03b6-43a2-974c-a8859be391ba.jpg
 review: 
 
@@ -397,7 +403,7 @@ review:
 
 artist: Against All Logic
 album: 2012 - 2017
-score: 8.0952
+score: 7.6087
 original_score: 8.5
 art: https://i.scdn.co/image/ab67616d0000b273f1297d75af3140afebb941b2
 review: 
@@ -440,7 +446,7 @@ review:
 
 artist: Deerhunter
 album: Halcyon Digest
-score: 8.5714
+score: 8.0435
 original_score: 8.5
 art: images/covers/deerhunter-halcyon-digest-fbd9a0fc-9a54-3295-b4b7-2b34cdd5e6c7.jpg
 review: 
@@ -459,13 +465,14 @@ review:
 
 artist: Sufjan Stevens
 album: Illinois
-score: 8.5
+score: 8.4783
+original_score: 8.5
 art: images/covers/sufjan-stevens-illinois-97618304-bfce-4803-a08c-729105f664cb.jpg
 review: 
 
 artist: Jamila Woods
 album: LEGACY! LEGACY!
-score: 3.8095
+score: 3.4783
 original_score: 8.5
 art: images/covers/jamila-woods-legacy-legacy-ff8ccd31-5bbb-4a74-8b38-eec726b48fda.jpg
 review: 
@@ -587,7 +594,7 @@ review:
 
 artist: Slowdive
 album: Pygmalion
-score: 5.2381
+score: 4.3478
 original_score: 8.4
 art: images/covers/slowdive-pygmalion-97d85ef1-bc99-4c2b-9a76-fb6a0975be70.jpg
 review: 
@@ -648,7 +655,7 @@ review:
 
 artist: Solange
 album: A Seat at the Table
-score: 9.0476
+score: 8.6957
 original_score: 8.3
 art: images/covers/solange-a-seat-at-the-table-8311bc5e-45fa-44b5-926f-2e1b8c00b1d5.jpg
 review: 
@@ -665,12 +672,6 @@ score: 8.3
 art: https://coverartarchive.org/release/edb5b432-6f54-41e5-af58-07d31668ef3a/front-500
 review: 
 
-artist: Sharon Van Etten
-album: Are We There
-score: 8.3
-art: images/covers/sharon-van-etten-are-we-there-294ce5a9-a36b-4e41-982e-56f2f94bb581.jpg
-review: 
-
 artist: M.I.A.
 album: Arular
 score: 8.3
@@ -679,7 +680,7 @@ review:
 
 artist: Hiatus Kaiyote
 album: Choose Your Weapon
-score: 6.1905
+score: 4.7826
 original_score: 8.3
 art: images/covers/hiatus-kaiyote-choose-your-weapon-ceab1135-c175-46fd-b0dd-2f981648e78c.jpg
 review: 
@@ -746,7 +747,8 @@ review:
 
 artist: Kanye West
 album: My Beautiful Dark Twisted Fantasy
-score: 8.3
+score: 7.8261
+original_score: 8.3
 art: images/covers/kanye-west-my-beautiful-dark-twisted-fantasy-90bd7e27-d9c3-4b28-9058-0d55f74ab497.jpg
 review: 
 
@@ -788,7 +790,8 @@ review:
 
 artist: Adrianne Lenker
 album: songs
-score: 8.3
+score: 5.8696
+original_score: 8.3
 art: images/covers/adrianne-lenker-songs-46b96d25-e893-4bac-a2b2-379a32f591b3.jpg
 review: 
 
@@ -854,7 +857,8 @@ review:
 
 artist: Sorority Noise
 album: You're Not as _____ as You Think
-score: 8.3
+score: 6.9565
+original_score: 8.3
 art: images/covers/sorority-noise-you-re-not-as-as-you-think-7c75ddbc-46ff-48c3-b694-c91f46f9073e.jpg
 review: 
 
@@ -890,14 +894,14 @@ review:
 
 artist: Bill Callahan
 album: Apocalypse
-score: 5.7143
+score: 4.5652
 original_score: 8.2
 art: images/covers/bill-callahan-apocalypse-cfeefd88-295a-40b5-8d98-f1c120baffa8.jpg
 review: 
 
 artist: Outkast
 album: Aquemini
-score: 7.619
+score: 7.3913
 original_score: 8.2
 art: images/covers/outkast-aquemini-31957688-4145-4d40-ac0d-773a286d060b.jpg
 review: 
@@ -1180,7 +1184,7 @@ review:
 
 artist: Quelle Chris
 album: Guns
-score: 2.8571
+score: 2.8261
 original_score: 8.1
 art: images/covers/quelle-chris-guns-92610b2f-e22e-413e-9e3d-99b7d5d72e39.jpg
 review: 
@@ -1193,7 +1197,8 @@ review:
 
 artist: Lucy Dacus
 album: Historian
-score: 8.1
+score: 6.7391
+original_score: 8.1
 art: images/covers/lucy-dacus-historian-be0eec9e-98be-454f-8b8f-bee944ac0565.jpg
 review: 
 
@@ -1295,7 +1300,8 @@ review:
 
 artist: Duster
 album: Stratosphere
-score: 8.1
+score: 5.2174
+original_score: 8.1
 art: images/covers/duster-stratosphere-79acc86e-b12b-4a4a-ad7d-7c9f928438a3.jpg
 review: 
 
@@ -1319,7 +1325,8 @@ review:
 
 artist: Ezra Furman
 album: Transangelic Exodus
-score: 8.1
+score: 0.2174
+original_score: 8.1
 art: images/covers/ezra-furman-transangelic-exodus-a8d3c33f-7ec5-4446-9afc-a55b53df35a2.jpg
 review: 
 
@@ -1415,7 +1422,7 @@ review:
 
 artist: SPIRIT OF THE BEEHIVE
 album: ENTERTAINMENT, DEATH
-score: 3.3333
+score: 3.2609
 original_score: 8
 art: images/covers/spirit-of-the-beehive-entertainment-death-f05096c9-79a3-4e9c-ae2b-35459203efdc.jpg
 review: 
@@ -1536,7 +1543,7 @@ review:
 
 artist: Pinegrove
 album: Marigold
-score: 2.381
+score: 1.9565
 original_score: 8
 art: images/covers/pinegrove-marigold-7b8d1fa7-227f-441e-8efe-a12d21e19ae1.jpg
 review: 
@@ -1633,7 +1640,7 @@ review:
 
 artist: Japanese Breakfast
 album: Soft Sounds from Another Planet
-score: 7.1429
+score: 6.5217
 original_score: 8
 art: images/covers/japanese-breakfast-soft-sounds-from-another-planet-eb257724-923b-419f-855f-11a5085a9d27.jpg
 review: 
@@ -1700,7 +1707,7 @@ review:
 
 artist: American Football
 album: American Football (LP3)
-score: 6.6667
+score: 5
 original_score: 7.9
 art: images/covers/american-football-american-football-lp3-3f41825e-5e12-477f-a0f8-76a0a9086297.jpg
 review: 
@@ -1749,7 +1756,7 @@ review:
 
 artist: Nick Cave
 album: CARNAGE
-score: 0.9524
+score: 1.087
 original_score: 7.9
 art: images/covers/nick-cave-carnage-a8c82f90-d509-4faf-a967-fafde1de9463.jpg
 review: 
@@ -1894,7 +1901,8 @@ review:
 
 artist: Blanck Mass
 album: World Eater
-score: 7.9
+score: 2.6087
+original_score: 7.9
 art: images/covers/blanck-mass-world-eater-fd7643b6-8789-45fe-ac8c-ad076f3be498.jpg
 review: 
 
@@ -2002,7 +2010,8 @@ review:
 
 artist: Tyler, The Creator
 album: IGOR
-score: 7.8
+score: 3.0435
+original_score: 7.8
 art: images/covers/tyler-the-creator-igor-dafab458-d6dd-4150-89df-bbc9a335d1ad.jpg
 review: 
 
@@ -2020,7 +2029,7 @@ review:
 
 artist: Joey Purp
 album: iiiDrops
-score: 1.9048
+score: 1.7391
 original_score: 7.8
 art: images/covers/joey-purp-iiidrops-911dec7e-4f5b-40fe-83e0-6f605ccd2a0c.jpg
 review: 
@@ -2063,7 +2072,7 @@ review:
 
 artist: Motion Graphics
 album: Motion Graphics
-score: 4.2857
+score: 3.913
 original_score: 7.8
 art: images/covers/motion-graphics-motion-graphics-d26e2e8f-4e66-4d03-ac11-9196e1f0f7f0.jpg
 review: 
@@ -2254,12 +2263,6 @@ score: 7.7
 art: https://i.scdn.co/image/ab67616d0000b273d334a46001d3cb70a3ee676c
 review: 
 
-artist: Jeff Rosenstock
-album: POST-
-score: 7.7
-art: images/covers/jeff-rosenstock-post-cf604f9e-044b-4583-ae7b-2b8754a7affa.jpg
-review: 
-
 artist: Mac DeMarco
 album: Salad Days
 score: 7.7
@@ -2316,7 +2319,8 @@ review:
 
 artist: Colin Stetson
 album: All This I Do For Glory
-score: 7.6
+score: 5.6522
+original_score: 7.6
 art: images/covers/colin-stetson-all-this-i-do-for-glory-e41d4e73-2a8e-4926-a7ca-79328617a45a.jpg
 review: 
 
@@ -2328,7 +2332,8 @@ review:
 
 artist: Cap'n Jazz
 album: Analphabetapolothology
-score: 7.6
+score: 6.3043
+original_score: 7.6
 art: images/covers/cap-n-jazz-analphabetapolothology-e866a680-e105-48d2-95f1-8c9cb01e5387.jpg
 review: 
 
@@ -2346,7 +2351,7 @@ review:
 
 artist: James Blake
 album: Covers
-score: 1.4286
+score: 1.5217
 original_score: 7.6
 art: images/covers/james-blake-covers-742e0bf1-f409-492b-87cb-1ee105401833.jpg
 review: 
@@ -2377,7 +2382,8 @@ review:
 
 artist: Grizzly Bear
 album: Painted Ruins
-score: 7.6
+score: 3.6957
+original_score: 7.6
 art: images/covers/grizzly-bear-painted-ruins-fb8ffbf0-71b5-4c8a-b151-3772bc54f3fc.jpg
 review: 
 
@@ -2389,7 +2395,8 @@ review:
 
 artist: Shabazz Palaces
 album: Quazarz: Born on a Gangster Star
-score: 7.6
+score: 0.6522
+original_score: 7.6
 art: images/covers/shabazz-palaces-quazarz-born-on-a-gangster-star-2ef5b705-83d4-46e2-a499-ba61f64189a7.jpg
 review: 
 
@@ -2479,7 +2486,7 @@ review:
 
 artist: Hatchie
 album: Keepsake
-score: 4.7619
+score: 4.1304
 original_score: 7.5
 art: images/covers/hatchie-keepsake-76614877-61bc-470f-a037-74152d823a03.jpg
 review: 
@@ -2534,7 +2541,8 @@ review:
 
 artist: Sleep
 album: Sleep's Holy Mountain
-score: 7.5
+score: 7.1739
+original_score: 7.5
 art: images/covers/sleep-sleep-s-holy-mountain-849f2476-e7b5-4b45-8f88-e46ef299f72c.jpg
 review: 
 
@@ -2566,12 +2574,6 @@ artist: BUSDRIVER
 album: Thumbs
 score: 7.5
 art: images/covers/busdriver-thumbs-df447eb4-fd2b-4f2b-8996-a08aa0be2759.jpg
-review: 
-
-artist: Big Thief
-album: Two Hands
-score: 7.5
-art: images/covers/big-thief-two-hands-56a16fe0-ec4d-419f-81fb-606e8e93d35d.jpg
 review: 
 
 artist: Denzel Curry
@@ -2624,7 +2626,8 @@ review:
 
 artist: Oneohtrix Point Never
 album: Garden Of Delete
-score: 7.4
+score: 5.4348
+original_score: 7.4
 art: images/covers/oneohtrix-point-never-garden-of-delete-8cf24c3b-b57a-4176-9ff9-1a30b2dec0bc.jpg
 review: 
 
@@ -2638,12 +2641,6 @@ artist: Bill Callahan
 album: Shepherd in a Sheepskin Vest
 score: 7.4
 art: images/covers/bill-callahan-shepherd-in-a-sheepskin-vest-e01fb351-781a-4180-94f6-33987bb44cc7.jpg
-review: 
-
-artist: The Besnard Lakes
-album: The Besnard Lakes Are The Dark Horse
-score: 7.4
-art: images/covers/the-besnard-lakes-the-besnard-lakes-are-the-dark-horse-d54103fd-bc4c-4071-8597-eff67b858051.jpg
 review: 
 
 artist: Free Throw
@@ -2708,7 +2705,8 @@ review:
 
 artist: Troye Sivan
 album: Bloom
-score: 7.2
+score: 0.4348
+original_score: 7.2
 art: images/covers/troye-sivan-bloom-292b1501-8b30-4026-81a4-215975885f1d.jpg
 review: 
 
@@ -2774,7 +2772,7 @@ review:
 
 artist: Damien Jurado
 album: Visions of Us on the Land
-score: 0.4762
+score: 0.8696
 original_score: 7.2
 art: images/covers/damien-jurado-visions-of-us-on-the-land-6d50d9d2-fc6a-44a0-98bc-5d27cfef0bf0.jpg
 review: 
@@ -2853,7 +2851,8 @@ review:
 
 artist: Milo
 album: budding ornithologists are weary of tired analogies
-score: 7
+score: 2.3913
+original_score: 7
 art: images/covers/milo-budding-ornithologists-are-weary-of-tired-analogies-ba747e8a-5467-48a1-819f-a273d2c8c4fb.jpg
 review: 
 
@@ -2938,7 +2937,8 @@ review:
 
 artist: The Besnard Lakes
 album: Volume I
-score: 7
+score: 2.1739
+original_score: 7
 art: images/covers/the-besnard-lakes-volume-i-093fc6b1-5a98-3bbd-b9ff-6a79389c3e12.jpg
 review: 
 
@@ -2956,7 +2956,8 @@ review:
 
 artist: Childish Gambino
 album: "Awaken, My Love!"
-score: 6.8
+score: 1.3043
+original_score: 6.8
 art: images/covers/childish-gambino-awaken-my-love-2017e952-42c9-41e0-9e39-69d5aa7b17a6.jpg
 review: 
 
@@ -3018,12 +3019,6 @@ artist: Benny Sings
 album: Music
 score: 6.7
 art: images/covers/benny-sings-music-7e6227c4-8324-4e8d-b890-173e4d2282dd.jpg
-review: 
-
-artist: MC Paul Barman
-album: (((echo chamber)))
-score: 6.5
-art: images/covers/mc-paul-barman-echo-chamber-0443019b-5100-403d-9733-7bc40d811d01.jpg
 review: 
 
 artist: Machinedrum

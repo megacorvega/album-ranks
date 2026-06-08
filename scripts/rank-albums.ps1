@@ -82,24 +82,6 @@ function Clear-RankingScreen() {
   Clear-Host
 }
 
-function Prompt-Action() {
-  while ($true) {
-    Clear-RankingScreen
-    Write-Host "Choose an action:"
-    Write-Host "1. Rank album"
-    Write-Host "2. Delete album"
-    Write-Host "3. Quit"
-    $selection = (Read-Host "Enter 1, 2, or 3").Trim()
-
-    switch ($selection) {
-      "1" { return "rank" }
-      "2" { return "delete" }
-      "3" { return "quit" }
-      default { Write-Host "Please enter 1, 2, or 3." }
-    }
-  }
-}
-
 function Prompt-Comparison($TargetEntry, $CandidateEntry) {
   while ($true) {
     Clear-RankingScreen
@@ -259,41 +241,6 @@ foreach ($block in $entryBlocks) {
 }
 
 do {
-  $action = Prompt-Action
-
-  if ($action -eq "quit") {
-    break
-  }
-
-  if ($action -eq "delete") {
-    $entryToDelete = Prompt-DeleteSelection -Entries $entries
-
-    if ($null -eq $entryToDelete) {
-      Write-Host "Delete cancelled."
-      continue
-    }
-
-    if (-not (Confirm-Delete $entryToDelete)) {
-      Write-Host "Delete cancelled."
-      continue
-    }
-
-    $null = $entries.Remove($entryToDelete)
-
-    $remainingRankedEntries = New-Object System.Collections.Generic.List[object]
-    foreach ($entry in ($entries | Where-Object { $_.HasDerivedScore } | Sort-Object @{ Expression = { $_.Score }; Descending = $true })) {
-      $remainingRankedEntries.Add($entry)
-    }
-
-    if ($remainingRankedEntries.Count -gt 0) {
-      Reassign-DerivedScores -RankedEntries $remainingRankedEntries
-    }
-
-    Write-AlbumEntries -ResolvedSourcePath $resolvedSourcePath -Entries $entries
-    Write-Host "Deleted $(Get-DisplayName $entryToDelete)."
-    continue
-  }
-
   $targetEntry = Select-TargetEntry -Entries $entries
   $rankedEntries = New-Object System.Collections.Generic.List[object]
 
