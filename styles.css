@@ -201,13 +201,15 @@ body::before {
 }
 
 .score-content {
-  position: relative;
+  display: grid;
+  place-items: center;
   width: 100%;
   min-height: 3.25rem;
   margin: 0 auto;
 }
 
 .score-value {
+  grid-area: 1 / 1;
   display: inline-flex;
   align-items: center;
   justify-content: center;
@@ -216,8 +218,6 @@ body::before {
   height: 3.25rem;
   min-height: 3.25rem;
   margin: 0 auto;
-  position: relative;
-  z-index: 1;
   font-weight: 700;
   text-align: center;
   line-height: 1;
@@ -240,23 +240,19 @@ body::before {
 }
 
 .score-badge {
+  grid-area: 1 / 1;
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  position: absolute;
-  right: 0.4rem;
-  bottom: 0.15rem;
-  z-index: 2;
-  width: 2rem;
-  min-width: 2rem;
-  height: 2rem;
-  min-height: 2rem;
+  width: 3.25rem;
+  min-width: 3.25rem;
+  height: 3.25rem;
+  min-height: 3.25rem;
+  margin: 0 auto;
   border-radius: 999px;
   color: #fffaf3;
-  font-size: 0.78rem;
   font-weight: 700;
   line-height: 1;
-  box-shadow: 0 0 0 2px var(--bg);
 }
 
 .score-badge[data-score-band="0"] {
@@ -367,17 +363,16 @@ body::before {
   }
 
   .score-content {
-    position: relative;
-    display: inline-block;
+    display: inline-grid;
+    place-items: start;
     width: 100%;
     min-height: 0;
     margin: 0;
   }
 
+  .score-value,
   .score-badge {
-    right: auto;
-    left: 2rem;
-    bottom: -0.15rem;
+    margin: 0;
   }
 
   .art-cell {
