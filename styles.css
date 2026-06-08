@@ -201,11 +201,12 @@ body::before {
 }
 
 .score-content {
-  display: inline-flex;
+  display: flex;
   align-items: center;
   justify-content: center;
-  width: 100%;
+  width: 3.25rem;
   min-height: 3.25rem;
+  margin: 0 auto;
 }
 
 .score-value {
@@ -358,8 +359,9 @@ body::before {
   .score-content {
     display: inline-flex;
     justify-content: flex-start;
-    width: auto;
+    width: 3.25rem;
     min-height: 0;
+    margin: 0;
   }
 
   .score-badge {
