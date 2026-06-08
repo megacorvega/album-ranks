@@ -209,13 +209,16 @@ body::before {
 }
 
 .score-value {
-  display: inline-grid;
-  place-items: center;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
   width: 3.25rem;
   min-width: 3.25rem;
+  height: 3.25rem;
   min-height: 3.25rem;
   font-weight: 700;
   text-align: center;
+  line-height: 1;
 }
 
 .album-art {
