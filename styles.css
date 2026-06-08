@@ -197,6 +197,9 @@ body::before {
 
 .score-cell {
   white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   text-align: center;
 }
 
@@ -326,6 +329,10 @@ body::before {
     padding: 0.25rem 0.4rem;
     font-size: 0.92rem;
     text-align: left;
+  }
+
+  .score-cell {
+    display: block;
   }
 
   .album-table td::before {
