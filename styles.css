@@ -197,10 +197,15 @@ body::before {
 
 .score-cell {
   white-space: nowrap;
-  display: flex;
+  text-align: center;
+}
+
+.score-content {
+  display: inline-flex;
   align-items: center;
   justify-content: center;
-  text-align: center;
+  width: 100%;
+  min-height: 3.25rem;
 }
 
 .score-value {
@@ -331,10 +336,6 @@ body::before {
     text-align: left;
   }
 
-  .score-cell {
-    display: block;
-  }
-
   .album-table td::before {
     content: attr(data-label);
     display: block;
@@ -352,6 +353,13 @@ body::before {
 
   .score-value {
     min-width: 0;
+  }
+
+  .score-content {
+    display: inline-flex;
+    justify-content: flex-start;
+    width: auto;
+    min-height: 0;
   }
 
   .score-badge {
