@@ -79,6 +79,16 @@ function Escape-MusicBrainzQueryValue([string]$Value) {
   return ($Value -replace '\\', '\\\\' -replace '"', '\"').Trim()
 }
 
+function Get-PrimaryAlbumTitle([string]$Album) {
+  $stripped = ($Album -replace '\s*\([^)]*\)', '').Trim()
+
+  if ([string]::IsNullOrWhiteSpace($stripped)) {
+    return $Album
+  }
+
+  return $stripped
+}
+
 function Invoke-MusicBrainzRequest([string]$Url) {
   $headers = @{
     "User-Agent" = "album-ranks/1.0 (https://github.com/)"
@@ -177,19 +187,32 @@ function Find-BestRelease([System.Collections.IDictionary]$EntryMap) {
     return @(Get-ReleaseByMbid $EntryMap["mbid"])
   }
 
-  $releaseGroup = Find-BestReleaseGroup -Artist $EntryMap["artist"] -Album $EntryMap["album"]
+  $originalAlbumTitle = $EntryMap["album"]
+  $primaryAlbumTitle = Get-PrimaryAlbumTitle $originalAlbumTitle
+  $searchAlbumTitle = $primaryAlbumTitle
+  $releaseGroup = Find-BestReleaseGroup -Artist $EntryMap["artist"] -Album $searchAlbumTitle
+
+  if (($null -eq $releaseGroup -or -not $releaseGroup.id) -and $primaryAlbumTitle -ne $originalAlbumTitle) {
+    $searchAlbumTitle = $originalAlbumTitle
+    $releaseGroup = Find-BestReleaseGroup -Artist $EntryMap["artist"] -Album $searchAlbumTitle
+  }
 
   if ($null -eq $releaseGroup -or -not $releaseGroup.id) {
     return @()
   }
 
-  $releases = Find-ReleasesForReleaseGroup -ReleaseGroupId $releaseGroup.id -Artist $EntryMap["artist"] -Album $EntryMap["album"]
+  $releases = Find-ReleasesForReleaseGroup -ReleaseGroupId $releaseGroup.id -Artist $EntryMap["artist"] -Album $searchAlbumTitle
+
+  if ((-not $releases -or $releases.Count -eq 0) -and $searchAlbumTitle -ne $originalAlbumTitle) {
+    $searchAlbumTitle = $originalAlbumTitle
+    $releases = Find-ReleasesForReleaseGroup -ReleaseGroupId $releaseGroup.id -Artist $EntryMap["artist"] -Album $searchAlbumTitle
+  }
 
   if (-not $releases) {
     return @()
   }
 
-  $albumTitle = $EntryMap["album"]
+  $albumTitle = $searchAlbumTitle
 
   $ranked = $releases | Sort-Object `
     @{ Expression = { if ($_.status -eq "Official") { 0 } else { 1 } } }, `

@@ -296,15 +296,64 @@ body::before {
     table-layout: auto;
   }
 
-  .album-table th,
+  .album-table colgroup,
+  .album-table thead {
+    display: none;
+  }
+
+  .album-table,
+  .album-table tbody,
+  .album-table tr,
   .album-table td {
-    padding-left: 0.4rem;
-    padding-right: 0.4rem;
+    display: block;
+    width: 100%;
+  }
+
+  .album-table tr {
+    padding: 1rem 0;
+  }
+
+  .album-table td {
+    padding: 0.25rem 0.4rem;
     font-size: 0.92rem;
+    text-align: left;
+  }
+
+  .album-table td::before {
+    content: attr(data-label);
+    display: block;
+    margin-bottom: 0.25rem;
+    color: var(--muted);
+    font-size: 0.72rem;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+  }
+
+  .score-cell {
+    text-align: left;
+  }
+
+  .score-cell::before,
+  .art-cell::before {
+    margin-bottom: 0.5rem;
+  }
+
+  .score-badge {
+    margin: 0;
+  }
+
+  .art-cell {
+    width: 100%;
   }
 
   .album-art {
-    width: 144px;
-    height: 144px;
+    width: min(240px, 100%);
+    height: auto;
+    aspect-ratio: 1 / 1;
+    margin: 0;
+  }
+
+  .review-cell {
+    width: 100%;
   }
 }
