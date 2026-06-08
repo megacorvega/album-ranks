@@ -154,9 +154,8 @@ function renderAlbums(albums) {
       scoreBadge.hidden = true;
       scoreValue.textContent = formattedScore;
     } else {
-      scoreValue.hidden = false;
+      scoreValue.hidden = true;
       scoreBadge.hidden = false;
-      scoreValue.textContent = formatScore(album.originalScore);
       scoreBadge.textContent = formattedScore;
       scoreBadge.dataset.scoreBand = getScoreBand(album.score);
     }
