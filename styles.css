@@ -201,8 +201,7 @@ body::before {
 }
 
 .score-content {
-  display: grid;
-  place-items: center;
+  position: relative;
   width: 100%;
   min-height: 3.25rem;
   margin: 0 auto;
@@ -216,6 +215,9 @@ body::before {
   min-width: 3.25rem;
   height: 3.25rem;
   min-height: 3.25rem;
+  margin: 0 auto;
+  position: relative;
+  z-index: 1;
   font-weight: 700;
   text-align: center;
   line-height: 1;
@@ -241,15 +243,20 @@ body::before {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  width: 3.25rem;
-  min-width: 3.25rem;
-  height: 3.25rem;
-  min-height: 3.25rem;
-  margin: 0 auto;
+  position: absolute;
+  right: 0.4rem;
+  bottom: 0.15rem;
+  z-index: 2;
+  width: 2rem;
+  min-width: 2rem;
+  height: 2rem;
+  min-height: 2rem;
   border-radius: 999px;
   color: #fffaf3;
+  font-size: 0.78rem;
   font-weight: 700;
   line-height: 1;
+  box-shadow: 0 0 0 2px var(--bg);
 }
 
 .score-badge[data-score-band="0"] {
@@ -360,15 +367,17 @@ body::before {
   }
 
   .score-content {
-    display: inline-grid;
-    place-items: start;
+    position: relative;
+    display: inline-block;
     width: 100%;
     min-height: 0;
     margin: 0;
   }
 
   .score-badge {
-    margin: 0;
+    right: auto;
+    left: 2rem;
+    bottom: -0.15rem;
   }
 
   .art-cell {
