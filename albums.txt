@@ -3089,9 +3089,9 @@ art: https://i.scdn.co/image/ab67616d0000b273c0defb45bd8d0039cc185d62
 review: 
 
 artist: Magdalena Bay
-album: Imagnial Disk
+album: Imaginal Disk
 score: 8.9
-art: https://cdn2.albumoftheyear.org/750x/album/1012480-imaginal-disk_115432.jpg
+art: images/covers/magdalena-bay-imaginal-disk-acad6b60-2b75-425a-ae50-0900ac45dda4.jpg
 review: 
 
 artist: Charli XCX
