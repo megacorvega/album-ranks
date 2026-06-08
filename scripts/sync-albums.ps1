@@ -3,8 +3,10 @@ param(
   [string]$ImageDirectory = "images\covers",
   [int]$DelayMs = 1100,
   [int]$ArtSize = 500,
-  [ValidateSet("all", "missing")]
-  [string]$Mode
+  [ValidateSet("all", "missing", "sort")]
+  [string]$Mode,
+  [ValidateSet("artist", "album", "score")]
+  [string]$SortBy
 )
 
 $ErrorActionPreference = "Stop"
@@ -24,12 +26,32 @@ function Get-ModeFromPrompt() {
     Write-Host "Choose an art sync mode:"
     Write-Host "1. Get all art"
     Write-Host "2. Get missing art"
-    $selection = (Read-Host "Enter 1 or 2").Trim()
+    Write-Host "3. Sort albums"
+    $selection = (Read-Host "Enter 1, 2, or 3").Trim()
 
     switch ($selection) {
       "1" { return "all" }
       "2" { return "missing" }
-      default { Write-Host "Please enter 1 or 2." }
+      "3" { return "sort" }
+      default { Write-Host "Please enter 1, 2, or 3." }
+    }
+  }
+}
+
+function Get-SortFieldFromPrompt() {
+  while ($true) {
+    Write-Host ""
+    Write-Host "Sort albums by:"
+    Write-Host "1. artist"
+    Write-Host "2. album"
+    Write-Host "3. score"
+    $selection = (Read-Host "Enter 1, 2, or 3").Trim()
+
+    switch ($selection) {
+      "1" { return "artist" }
+      "2" { return "album" }
+      "3" { return "score" }
+      default { Write-Host "Please enter 1, 2, or 3." }
     }
   }
 }
@@ -57,7 +79,7 @@ function Convert-EntryToMap([string]$EntryText) {
 }
 
 function Build-EntryText([System.Collections.IDictionary]$EntryMap) {
-  $orderedKeys = @("artist", "album", "score", "art", "review")
+  $orderedKeys = @("artist", "album", "score", "mbid", "art", "review")
   $builder = New-Object System.Text.StringBuilder
 
   foreach ($key in $orderedKeys) {
@@ -331,6 +353,38 @@ function Download-AlbumArtForEntry(
   throw "No release with cover art was found."
 }
 
+function Sort-AlbumEntries([string[]]$EntryBlocks, [string]$Field) {
+  $parsedEntries = foreach ($block in $EntryBlocks) {
+    $map = Convert-EntryToMap $block
+    [pscustomobject]@{
+      EntryMap = $map
+      Artist = if ($map.Contains("artist")) { $map["artist"] } else { "" }
+      Album = if ($map.Contains("album")) { $map["album"] } else { "" }
+      Score = if ($map.Contains("score")) { [double]$map["score"] } else { -1 }
+    }
+  }
+
+  switch ($Field) {
+    "artist" {
+      $sorted = $parsedEntries | Sort-Object Artist, Album
+    }
+    "album" {
+      $sorted = $parsedEntries | Sort-Object Album, Artist
+    }
+    "score" {
+      $sorted = $parsedEntries | Sort-Object @{ Expression = { $_.Score }; Descending = $true }, Artist, Album
+    }
+  }
+
+  $updatedEntries = New-Object System.Collections.Generic.List[string]
+
+  foreach ($entry in $sorted) {
+    $updatedEntries.Add((Build-EntryText $entry.EntryMap))
+  }
+
+  return $updatedEntries
+}
+
 if (-not $Mode) {
   $Mode = Get-ModeFromPrompt
 }
@@ -338,12 +392,26 @@ if (-not $Mode) {
 $resolvedSourcePath = Get-ResolvedPath $SourcePath
 $resolvedImageDirectory = Get-ResolvedPath $ImageDirectory
 
+$sourceText = [System.IO.File]::ReadAllText($resolvedSourcePath)
+$entries = Parse-AlbumEntries $sourceText
+
+if ($Mode -eq "sort") {
+  if (-not $SortBy) {
+    $SortBy = Get-SortFieldFromPrompt
+  }
+
+  $sortedEntries = Sort-AlbumEntries -EntryBlocks $entries -Field $SortBy
+  $entrySeparator = [Environment]::NewLine + [Environment]::NewLine
+  $finalText = (($sortedEntries -join $entrySeparator).TrimEnd()) + [Environment]::NewLine
+  [System.IO.File]::WriteAllText($resolvedSourcePath, $finalText)
+  Write-Host "Albums sorted by $SortBy."
+  exit 0
+}
+
 if (-not (Test-Path -Path $resolvedImageDirectory)) {
   New-Item -ItemType Directory -Path $resolvedImageDirectory -Force | Out-Null
 }
 
-$sourceText = [System.IO.File]::ReadAllText($resolvedSourcePath)
-$entries = Parse-AlbumEntries $sourceText
 $updatedEntries = New-Object System.Collections.Generic.List[string]
 
 for ($index = 0; $index -lt $entries.Count; $index++) {
@@ -356,10 +424,11 @@ for ($index = 0; $index -lt $entries.Count; $index++) {
   }
 
   $currentArt = if ($entryMap.Contains("art")) { $entryMap["art"].Trim() } else { "" }
-  $shouldFetch = $Mode -eq "all" -or [string]::IsNullOrWhiteSpace($currentArt)
+  $hasLocalArt = $currentArt -and $currentArt -notmatch '^https?://'
+  $shouldFetch = $Mode -eq "all" -or (-not $hasLocalArt)
 
   if (-not $shouldFetch) {
-    Write-Host "Skipping $($entryMap["artist"]) - $($entryMap["album"]): art already set."
+    Write-Host "Skipping $($entryMap["artist"]) - $($entryMap["album"]): local art already set."
     $updatedEntries.Add((Build-EntryText $entryMap))
     continue
   }

@@ -115,7 +115,7 @@ review:
 artist: SZA
 album: Ctrl
 score: 9.1
-art: https://coverartarchive.org/release/2d5626a5-0fea-4604-97bb-4778c5c1e52f/front-500
+art: images/covers/sza-ctrl-2d5626a5-0fea-4604-97bb-4778c5c1e52f.jpg
 review: 
 
 artist: billy woods & Kenny Segal
@@ -373,7 +373,7 @@ review:
 artist: William Basinski
 album: The Disintegration Loops (Remastered)
 score: 8.6
-art: https://coverartarchive.org/release/2e53b0ce-71f7-4562-972a-d1c017cec98c/front-500
+art: images/covers/william-basinski-the-disintegration-loops-remastered-9b5def6c-4cda-443a-92ef-e045385ccbea.jpg
 review: 
 
 artist: Kendrick Lamar
@@ -445,7 +445,7 @@ review:
 artist: Cocteau Twins
 album: Heaven Or Las Vegas (Remastered)
 score: 8.5
-art: https://i.scdn.co/image/ab67616d0000b273276b940445d7ab5ae6ceba82
+art: images/covers/cocteau-twins-heaven-or-las-vegas-remastered-f96df5d2-4ef9-3ef4-a4be-c743802b6f1e.jpg
 review: 
 
 artist: Charli XCX
@@ -499,7 +499,7 @@ review:
 artist: R.A.P. Ferreira
 album: Purple Moonlight Pages
 score: 8.5
-art: https://coverartarchive.org/release/d6b99e97-eab6-4397-9cb0-6ce2bd69f9f0/front-500
+art: images/covers/r-a-p-ferreira-purple-moonlight-pages-d6b99e97-eab6-4397-9cb0-6ce2bd69f9f0.jpg
 review: 
 
 artist: Elder
@@ -679,7 +679,7 @@ review:
 artist: Sunny Day Real Estate
 album: Diary (2009 Edition)
 score: 8.3
-art: https://i.scdn.co/image/ab67616d0000b27367ff49acdde7920a35d91aac
+art: images/covers/sunny-day-real-estate-diary-2009-edition-8838d557-42df-4ebd-88a4-f74cbc33e8f8.jpg
 review: 
 
 artist: Underworld
@@ -799,7 +799,7 @@ review:
 artist: Fiona Apple
 album: The Idler Wheel Is Wiser Than the Driver of the Screw and Whipping Cords Will Serve You More Than Ropes Will Ever Do (Expanded Edition)
 score: 8.3
-art: https://i.scdn.co/image/ab67616d0000b2731443bd487a471868735f050b
+art: images/covers/fiona-apple-the-idler-wheel-is-wiser-than-the-driver-of-the-screw-and-whipping-cords-will-serve-you-more-than-ropes-will-ever-do-expanded-edition-65db278c-b8d0-4f12-bd41-c12c51e6d346.jpg
 review: 
 
 artist: Death Grips
@@ -907,7 +907,7 @@ review:
 artist: D'Angelo
 album: Brown Sugar (Deluxe Edition)
 score: 8.2
-art: https://i.scdn.co/image/ab67616d0000b2736ad762e3734409edc2c6f7a3
+art: images/covers/d-angelo-brown-sugar-deluxe-edition-4ad0b48f-29c8-3e57-b55e-33b097190079.jpg
 review: 
 
 artist: Soccer Mommy
@@ -1021,7 +1021,7 @@ review:
 artist: Nicolas Jaar
 album: Sirens (deluxe edition)
 score: 8.2
-art: https://i.scdn.co/image/ab67616d0000b2731a1ca967dde9ad0f2f47b45c
+art: images/covers/nicolas-jaar-sirens-deluxe-edition-3f73b1f2-abbf-4750-9107-496376dc0f8d.jpg
 review: 
 
 artist: Pinegrove
@@ -1273,7 +1273,7 @@ review:
 artist: Aesop Rock
 album: Skelethon (Deluxe Edition)
 score: 8.1
-art: https://i.scdn.co/image/ab67616d0000b2733299a3a0f948aedbba6fa70b
+art: images/covers/aesop-rock-skelethon-deluxe-edition-3f83e383-9b98-4d6f-a2e7-97db95585b4c.jpg
 review: 
 
 artist: Milo
@@ -1465,7 +1465,7 @@ review:
 artist: Department Of Eagles
 album: In Ear Park (US Edition)
 score: 8
-art: https://i.scdn.co/image/ab67616d0000b273e1b90fa9cefbdf3b8cea6ce2
+art: images/covers/department-of-eagles-in-ear-park-us-edition-fc7748d3-36df-4825-be30-50ac915c67e9.jpg
 review: 
 
 artist: The Field
@@ -1567,7 +1567,7 @@ review:
 artist: Caribou
 album: Our Love (Expanded Edition)
 score: 8
-art: https://coverartarchive.org/release/1862708b-3203-49ad-b68b-2eb50cddb42d/front-500
+art: images/covers/caribou-our-love-expanded-edition-84acc091-279d-4b9a-bfa2-96cfedda0e3c.jpg
 review: 
 
 artist: BUSDRIVER
@@ -1597,7 +1597,7 @@ review:
 artist: Fleetwood Mac
 album: Rumours (Super Deluxe)
 score: 8
-art: https://coverartarchive.org/release/3f23ed5b-ab7d-4bf1-a9ed-4b753e78738b/front-500
+art: images/covers/fleetwood-mac-rumours-super-deluxe-b8fb140b-6fb2-4243-b25b-7edf3703443d.jpg
 review: 
 
 artist: Unknown Mortal Orchestra
@@ -1675,19 +1675,19 @@ review:
 artist: Miguel
 album: Wildheart (Deluxe Version)
 score: 8
-art: https://i.scdn.co/image/ab67616d0000b273b52b8bb89adb452a75a042af
+art: images/covers/miguel-wildheart-deluxe-version-74c1f1f6-54ee-40b2-8d7a-07533256cc0a.jpg
 review: 
 
 artist: Fishmans
 album: 98.12.28 男達の別れ (Live)
 score: 7.9
-art: https://i.scdn.co/image/ab67616d0000b273b8b2f65e2dfa733439974801
+art: images/covers/fishmans-98-12-28-live-c1a2c108-5b1e-4ed0-8476-a6fd86d1c063.jpg
 review: 
 
 artist: American Football
 album: American Football (LP3)
 score: 7.9
-art: https://coverartarchive.org/release/3da6ebde-90a7-4842-ae9c-5b918d357ba9/front-500
+art: images/covers/american-football-american-football-lp3-3f41825e-5e12-477f-a0f8-76a0a9086297.jpg
 review: 
 
 artist: Thom Yorke
@@ -2059,7 +2059,7 @@ review:
 artist: MF DOOM
 album: Operation: Doomsday (Complete)
 score: 7.8
-art: https://i.scdn.co/image/ab67616d0000b273f56213eede5f2e6a6065fb6d
+art: images/covers/mf-doom-operation-doomsday-complete-2ed8a86a-7396-4aef-8b0f-21e6dc6ade9a.jpg
 review: 
 
 artist: Shamir
@@ -2431,7 +2431,7 @@ review:
 artist: Hail Mary Mallon
 album: Bestiary (Bonus Track Version)
 score: 7.5
-art: https://i.scdn.co/image/ab67616d0000b273be7ede42ebf747995af5d9d9
+art: images/covers/hail-mary-mallon-bestiary-bonus-track-version-230a4f2e-5c0a-452a-bb41-412bebee35fb.jpg
 review: 
 
 artist: Iglooghost
@@ -2497,7 +2497,7 @@ review:
 artist: Floating Points
 album: Ratio (Full Mix)
 score: 7.5
-art: https://i.scdn.co/image/ab67616d0000b2738d9b42f3a2b042ad17bba304
+art: images/covers/floating-points-ratio-full-mix-a1d8e563-a50e-4081-9587-3b3def77c9dd.jpg
 review: 
 
 artist: Charlotte Gainsbourg
@@ -2959,7 +2959,7 @@ review:
 artist: Ben Howard
 album: I Forget Where We Were
 score: 6.8
-art: https://coverartarchive.org/release/a2029112-68d2-4420-9fb3-fe06672c717a/front-500
+art: images/covers/ben-howard-i-forget-where-we-were-a2029112-68d2-4420-9fb3-fe06672c717a.jpg
 review: 
 
 artist: Astronauts, etc.
