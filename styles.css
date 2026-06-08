@@ -200,6 +200,12 @@ body::before {
   text-align: center;
 }
 
+.score-value {
+  display: inline-block;
+  min-width: 3.25rem;
+  font-weight: 700;
+}
+
 .album-art {
   display: block;
   width: 216px;
@@ -329,13 +335,13 @@ body::before {
     text-transform: uppercase;
   }
 
-  .score-cell {
-    text-align: left;
-  }
-
   .score-cell::before,
   .art-cell::before {
     margin-bottom: 0.5rem;
+  }
+
+  .score-value {
+    min-width: 0;
   }
 
   .score-badge {

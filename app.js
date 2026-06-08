@@ -24,7 +24,7 @@ async function initialize() {
     }
 
     const sourceText = await response.text();
-    allAlbums = parseAlbumText(sourceText).sort((left, right) => right.score - left.score);
+    allAlbums = parseAlbumText(sourceText);
     updateSortIndicators();
     renderAlbums(getVisibleAlbums());
     searchInput.addEventListener("input", handleSearch);
@@ -65,6 +65,7 @@ function parseAlbumText(sourceText) {
       artist: fields.artist,
       album: fields.album,
       score: Number.parseFloat(fields.score),
+      originalScore: parseOptionalScore(fields.original_score),
       art: fields.art,
       review: fields.review || "",
     };
@@ -137,7 +138,7 @@ function renderAlbums(albums) {
   for (const album of albums) {
     const row = albumRowTemplate.content.firstElementChild.cloneNode(true);
     const image = row.querySelector(".album-art");
-    const scoreCell = row.querySelector(".score-cell");
+    const scoreValue = row.querySelector(".score-value");
     const scoreBadge = row.querySelector(".score-badge");
 
     image.src = album.art;
@@ -146,8 +147,19 @@ function renderAlbums(albums) {
     image.decoding = "async";
     row.querySelector(".artist-cell").textContent = album.artist;
     row.querySelector(".album-cell").textContent = album.album;
-    scoreBadge.textContent = formatScore(album.score);
-    scoreBadge.dataset.scoreBand = getScoreBand(album.score);
+    const formattedScore = formatScore(album.score);
+
+    if (album.originalScore === null) {
+      scoreValue.hidden = false;
+      scoreBadge.hidden = true;
+      scoreValue.textContent = formattedScore;
+    } else {
+      scoreValue.hidden = true;
+      scoreBadge.hidden = false;
+      scoreBadge.textContent = formattedScore;
+      scoreBadge.dataset.scoreBand = getScoreBand(album.score);
+    }
+
     row.querySelector(".review-cell").textContent = album.review || "";
 
     fragment.appendChild(row);
@@ -158,6 +170,15 @@ function renderAlbums(albums) {
 
 function formatScore(score) {
   return Number.isInteger(score) ? score.toFixed(0) : score.toFixed(1);
+}
+
+function parseOptionalScore(rawScore) {
+  if (!rawScore) {
+    return null;
+  }
+
+  const parsedScore = Number.parseFloat(rawScore);
+  return Number.isNaN(parsedScore) ? null : parsedScore;
 }
 
 function getScoreBand(score) {

@@ -234,7 +234,8 @@ review:
 
 artist: Injury Reserve
 album: By The Time I Get To Phoenix
-score: 8.7
+score: 9.5238
+original_score: 8.7
 art: images/covers/injury-reserve-by-the-time-i-get-to-phoenix-45d90526-f6c1-461d-9ec2-3f8bfbe623ea.jpg
 review: 
 
@@ -396,7 +397,8 @@ review:
 
 artist: Against All Logic
 album: 2012 - 2017
-score: 8.5
+score: 8.0952
+original_score: 8.5
 art: https://i.scdn.co/image/ab67616d0000b273f1297d75af3140afebb941b2
 review: 
 
@@ -438,7 +440,8 @@ review:
 
 artist: Deerhunter
 album: Halcyon Digest
-score: 8.5
+score: 8.5714
+original_score: 8.5
 art: images/covers/deerhunter-halcyon-digest-fbd9a0fc-9a54-3295-b4b7-2b34cdd5e6c7.jpg
 review: 
 
@@ -462,7 +465,8 @@ review:
 
 artist: Jamila Woods
 album: LEGACY! LEGACY!
-score: 8.5
+score: 3.8095
+original_score: 8.5
 art: images/covers/jamila-woods-legacy-legacy-ff8ccd31-5bbb-4a74-8b38-eec726b48fda.jpg
 review: 
 
@@ -516,7 +520,8 @@ review:
 
 artist: Slowdive
 album: Souvlaki
-score: 8.5
+score: 10
+original_score: 8.5
 art: images/covers/slowdive-souvlaki-07d02411-6722-4071-8130-14fb8512288a.jpg
 review: 
 
@@ -582,7 +587,8 @@ review:
 
 artist: Slowdive
 album: Pygmalion
-score: 8.4
+score: 5.2381
+original_score: 8.4
 art: images/covers/slowdive-pygmalion-97d85ef1-bc99-4c2b-9a76-fb6a0975be70.jpg
 review: 
 
@@ -642,7 +648,8 @@ review:
 
 artist: Solange
 album: A Seat at the Table
-score: 8.3
+score: 9.0476
+original_score: 8.3
 art: images/covers/solange-a-seat-at-the-table-8311bc5e-45fa-44b5-926f-2e1b8c00b1d5.jpg
 review: 
 
@@ -672,7 +679,8 @@ review:
 
 artist: Hiatus Kaiyote
 album: Choose Your Weapon
-score: 8.3
+score: 6.1905
+original_score: 8.3
 art: images/covers/hiatus-kaiyote-choose-your-weapon-ceab1135-c175-46fd-b0dd-2f981648e78c.jpg
 review: 
 
@@ -882,13 +890,15 @@ review:
 
 artist: Bill Callahan
 album: Apocalypse
-score: 8.2
+score: 5.7143
+original_score: 8.2
 art: images/covers/bill-callahan-apocalypse-cfeefd88-295a-40b5-8d98-f1c120baffa8.jpg
 review: 
 
 artist: Outkast
 album: Aquemini
-score: 8.2
+score: 7.619
+original_score: 8.2
 art: images/covers/outkast-aquemini-31957688-4145-4d40-ac0d-773a286d060b.jpg
 review: 
 
@@ -1170,7 +1180,8 @@ review:
 
 artist: Quelle Chris
 album: Guns
-score: 8.1
+score: 2.8571
+original_score: 8.1
 art: images/covers/quelle-chris-guns-92610b2f-e22e-413e-9e3d-99b7d5d72e39.jpg
 review: 
 
@@ -1404,7 +1415,8 @@ review:
 
 artist: SPIRIT OF THE BEEHIVE
 album: ENTERTAINMENT, DEATH
-score: 8
+score: 3.3333
+original_score: 8
 art: images/covers/spirit-of-the-beehive-entertainment-death-f05096c9-79a3-4e9c-ae2b-35459203efdc.jpg
 review: 
 
@@ -1524,7 +1536,8 @@ review:
 
 artist: Pinegrove
 album: Marigold
-score: 8
+score: 2.381
+original_score: 8
 art: images/covers/pinegrove-marigold-7b8d1fa7-227f-441e-8efe-a12d21e19ae1.jpg
 review: 
 
@@ -1620,7 +1633,8 @@ review:
 
 artist: Japanese Breakfast
 album: Soft Sounds from Another Planet
-score: 8
+score: 7.1429
+original_score: 8
 art: images/covers/japanese-breakfast-soft-sounds-from-another-planet-eb257724-923b-419f-855f-11a5085a9d27.jpg
 review: 
 
@@ -1686,7 +1700,8 @@ review:
 
 artist: American Football
 album: American Football (LP3)
-score: 7.9
+score: 6.6667
+original_score: 7.9
 art: images/covers/american-football-american-football-lp3-3f41825e-5e12-477f-a0f8-76a0a9086297.jpg
 review: 
 
@@ -1734,7 +1749,8 @@ review:
 
 artist: Nick Cave
 album: CARNAGE
-score: 7.9
+score: 0.9524
+original_score: 7.9
 art: images/covers/nick-cave-carnage-a8c82f90-d509-4faf-a967-fafde1de9463.jpg
 review: 
 
@@ -2004,7 +2020,8 @@ review:
 
 artist: Joey Purp
 album: iiiDrops
-score: 7.8
+score: 1.9048
+original_score: 7.8
 art: images/covers/joey-purp-iiidrops-911dec7e-4f5b-40fe-83e0-6f605ccd2a0c.jpg
 review: 
 
@@ -2046,7 +2063,8 @@ review:
 
 artist: Motion Graphics
 album: Motion Graphics
-score: 7.8
+score: 4.2857
+original_score: 7.8
 art: images/covers/motion-graphics-motion-graphics-d26e2e8f-4e66-4d03-ac11-9196e1f0f7f0.jpg
 review: 
 
@@ -2328,7 +2346,8 @@ review:
 
 artist: James Blake
 album: Covers
-score: 7.6
+score: 1.4286
+original_score: 7.6
 art: images/covers/james-blake-covers-742e0bf1-f409-492b-87cb-1ee105401833.jpg
 review: 
 
@@ -2460,7 +2479,8 @@ review:
 
 artist: Hatchie
 album: Keepsake
-score: 7.5
+score: 4.7619
+original_score: 7.5
 art: images/covers/hatchie-keepsake-76614877-61bc-470f-a037-74152d823a03.jpg
 review: 
 
@@ -2754,7 +2774,8 @@ review:
 
 artist: Damien Jurado
 album: Visions of Us on the Land
-score: 7.2
+score: 0.4762
+original_score: 7.2
 art: images/covers/damien-jurado-visions-of-us-on-the-land-6d50d9d2-fc6a-44a0-98bc-5d27cfef0bf0.jpg
 review: 
 
@@ -2844,7 +2865,8 @@ review:
 
 artist: BUSDRIVER
 album: electricity is on our side
-score: 7
+score: 0
+original_score: 7
 art: images/covers/busdriver-electricity-is-on-our-side-2e44d02a-f19a-47ee-89d7-745e4b628742.jpg
 review: 
 

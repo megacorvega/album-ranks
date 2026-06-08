@@ -10,11 +10,14 @@ Add or update entries in [albums.txt](albums.txt) using this format:
 artist: Artist Name
 album: Album Title
 score: 9.4
+original_score: 8.7
 art: https://example.com/cover.jpg
 review: A short review goes here.
 ```
 
 Leave one blank line between albums.
+
+`score` is the current comparison-derived score used by the site. `original_score` preserves your older/manual score when pairwise ranking takes over.
 
 ## One-command sync
 
@@ -52,7 +55,24 @@ review: ...
 - [index.html](index.html) renders the page.
 - [app.js](app.js) reads and parses [albums.txt](albums.txt) from the repo root.
 - [styles.css](styles.css) handles the design.
+- [scripts/rank-albums.ps1](scripts/rank-albums.ps1) runs interactive pairwise ranking and rewrites `score:` while preserving `original_score:`.
 - [scripts/sync-albums.ps1](scripts/sync-albums.ps1) finds MusicBrainz cover art, caches it locally, and updates `albums.txt`.
+
+## Pairwise ranking
+
+To assign final ranks with a Beli-style comparison flow, run:
+
+```powershell
+.\scripts\rank-albums.ps1
+```
+
+The script:
+- picks a random album, preferring albums that do not yet have an `original_score:`
+- compares it against already ranked albums
+- asks whether the target is better or worse
+- inserts it into the ranked order
+- recalculates comparison-derived `score:` values across the ranked set
+- preserves the older/manual value as `original_score:`
 
 ## Publish on GitHub Pages
 
