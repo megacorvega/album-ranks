@@ -78,9 +78,13 @@ function Get-DisplayName($Entry) {
   return "$($Entry.Artist) - $($Entry.Album)"
 }
 
+function Clear-RankingScreen() {
+  Clear-Host
+}
+
 function Prompt-Action() {
   while ($true) {
-    Write-Host ""
+    Clear-RankingScreen
     Write-Host "Choose an action:"
     Write-Host "1. Rank album"
     Write-Host "2. Delete album"
@@ -98,16 +102,17 @@ function Prompt-Action() {
 
 function Prompt-Comparison($TargetEntry, $CandidateEntry) {
   while ($true) {
-    Write-Host ""
+    Clear-RankingScreen
     Write-Host "Target:    $(Get-DisplayName $TargetEntry)"
     Write-Host "Compare to $(Get-DisplayName $CandidateEntry)"
-    $selection = (Read-Host "Is the target better or worse? [b]etter / [w]orse / [q]uit").Trim().ToLowerInvariant()
+    $selection = (Read-Host "Is the target better, worse, or should it be deleted? [b]etter / [w]orse / [d]elete / [q]uit").Trim().ToLowerInvariant()
 
     switch ($selection) {
       "b" { return "better" }
       "w" { return "worse" }
+      "d" { return "delete" }
       "q" { return "quit" }
-      default { Write-Host "Please enter b, w, or q." }
+      default { Write-Host "Please enter b, w, d, or q." }
     }
   }
 }
@@ -138,6 +143,10 @@ function Insert-ByComparison($TargetEntry, [System.Collections.IList]$RankedEntr
       return $null
     }
 
+    if ($comparison -eq "delete") {
+      return "delete"
+    }
+
     if ($comparison -eq "better") {
       $high = $mid - 1
     } else {
@@ -165,6 +174,7 @@ function Reassign-DerivedScores([System.Collections.IList]$RankedEntries) {
 
 function Prompt-Continue() {
   while ($true) {
+    Clear-RankingScreen
     $selection = (Read-Host "Do another action? [y/n]").Trim().ToLowerInvariant()
 
     switch ($selection) {
@@ -177,7 +187,7 @@ function Prompt-Continue() {
 
 function Prompt-DeleteSelection([System.Collections.IList]$Entries) {
   while ($true) {
-    Write-Host ""
+    Clear-RankingScreen
     $query = (Read-Host "Search for an album to delete (or q to cancel)").Trim()
 
     if ($query.ToLowerInvariant() -eq "q") {
@@ -216,7 +226,7 @@ function Prompt-DeleteSelection([System.Collections.IList]$Entries) {
 
 function Confirm-Delete($Entry) {
   while ($true) {
-    Write-Host ""
+    Clear-RankingScreen
     Write-Host "Delete $(Get-DisplayName $Entry) from albums.txt?"
     $selection = (Read-Host "Type y to confirm or n to cancel").Trim().ToLowerInvariant()
 
@@ -300,6 +310,28 @@ do {
 
   if ($null -eq $insertIndex) {
     Write-Host "Ranking cancelled."
+    continue
+  }
+
+  if ($insertIndex -eq "delete") {
+    if (-not (Confirm-Delete $targetEntry)) {
+      Write-Host "Delete cancelled."
+      continue
+    }
+
+    $null = $entries.Remove($targetEntry)
+
+    $remainingRankedEntries = New-Object System.Collections.Generic.List[object]
+    foreach ($entry in ($entries | Where-Object { $_.HasDerivedScore } | Sort-Object @{ Expression = { $_.Score }; Descending = $true })) {
+      $remainingRankedEntries.Add($entry)
+    }
+
+    if ($remainingRankedEntries.Count -gt 0) {
+      Reassign-DerivedScores -RankedEntries $remainingRankedEntries
+    }
+
+    Write-AlbumEntries -ResolvedSourcePath $resolvedSourcePath -Entries $entries
+    Write-Host "Deleted $(Get-DisplayName $targetEntry)."
     continue
   }
 
