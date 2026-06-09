@@ -5,11 +5,11 @@ original_score: 10
 art: images/covers/songs-ohia-magnolia-electric-co-f9479fc5-6438-42e6-b493-0f0bde23a352.jpg
 review: "Magnolia Electric Co." by Songs: Ohia is a haunting journey through the American heartland, blending folk, rock, and alt-country with poetic lyricism. Released in 2003, it's the pinnacle of Jason Molina's songwriting prowess, showcasing his raw, emotive vocals and evocative storytelling. Each track is a sonic landscape, painting scenes of longing, loss, and redemption against a backdrop of twangy guitars, melancholic melodies, and understated instrumentation. Molina's introspective lyrics, coupled with the band's atmospheric soundscapes, create an immersive experience that resonates deeply with listeners, leaving an indelible mark long after the last note fades away.
 
-artist: John Hopkins
+artist: Jon Hopkins
 album: Immunity
 score: 9.9736
 original_score: 9
-art: 
+art: https://cdn2.albumoftheyear.org/750x0/album/2013/7574-immunity-1.jpg 
 review: "Immunity" by Jon Hopkins is a sonic odyssey that seamlessly merges electronic music with ambient textures and pulsating rhythms. Released in 2013, it's a masterclass in atmosphere and emotion, taking listeners on a mesmerizing journey through hypnotic beats and ethereal melodies. Each track unfolds like a vivid dreamscape, with intricate layers of sound that ebb and flow, building tension and release in equal measure. Hopkins' meticulous production and attention to detail create a sense of immersive intimacy, inviting listeners to lose themselves in the music. "Immunity" stands as a testament to Hopkins' visionary talent and remains a timeless masterpiece of electronic music.
 
 artist: Grizzly Bear
