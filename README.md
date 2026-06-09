@@ -17,7 +17,7 @@ review: A short review goes here.
 
 Leave one blank line between albums.
 
-`score` is the current comparison-derived score used by the site. `original_score` preserves your older/manual score when pairwise ranking takes over.
+`score` is the current comparison-derived score used by the site. Pairwise-ranked albums are scaled from `10.0` down to `5.0`. `original_score` preserves your older/manual score when pairwise ranking takes over.
 
 ## One-command sync
 
@@ -71,8 +71,14 @@ The script:
 - compares it against already ranked albums
 - asks whether the target is better or worse
 - inserts it into the ranked order
-- recalculates comparison-derived `score:` values across the ranked set
+- recalculates comparison-derived `score:` values across the ranked set on a `10.0` to `5.0` scale
 - preserves the older/manual value as `original_score:`
+
+To rescale already ranked albums without doing an interactive comparison pass, run:
+
+```powershell
+.\scripts\rank-albums.ps1 -RescaleOnly
+```
 
 ## Publish on GitHub Pages
 

@@ -1,9 +1,12 @@
 param(
-  [string]$SourcePath = "albums.txt"
+  [string]$SourcePath = "albums.txt",
+  [switch]$RescaleOnly
 )
 
 $ErrorActionPreference = "Stop"
 $RepoRoot = Split-Path -Parent $PSScriptRoot
+$MaxDerivedScore = 10.0
+$MinDerivedScore = 5.0
 
 function Get-ResolvedPath([string]$PathValue) {
   if ([System.IO.Path]::IsPathRooted($PathValue)) {
@@ -141,13 +144,15 @@ function Insert-ByComparison($TargetEntry, [System.Collections.IList]$RankedEntr
 
 function Reassign-DerivedScores([System.Collections.IList]$RankedEntries) {
   if ($RankedEntries.Count -eq 1) {
-    $RankedEntries[0].Score = 10.0
+    $RankedEntries[0].Score = $MaxDerivedScore
     $RankedEntries[0].EntryMap["score"] = "10"
     return
   }
 
+  $scoreSpan = $MaxDerivedScore - $MinDerivedScore
+
   for ($index = 0; $index -lt $RankedEntries.Count; $index++) {
-    $score = 10.0 - (($index * 10.0) / ($RankedEntries.Count - 1))
+    $score = $MaxDerivedScore - (($index * $scoreSpan) / ($RankedEntries.Count - 1))
     $roundedScore = [Math]::Round($score, 4)
     $RankedEntries[$index].Score = $roundedScore
     $RankedEntries[$index].EntryMap["score"] = $roundedScore.ToString("0.####", [System.Globalization.CultureInfo]::InvariantCulture)
@@ -238,6 +243,24 @@ foreach ($block in $entryBlocks) {
     OriginalScore = Get-ScoreValue -EntryMap $entryMap -Key "original_score"
     HasDerivedScore = $entryMap.Contains("original_score")
   })
+}
+
+if ($RescaleOnly) {
+  $rankedEntries = New-Object System.Collections.Generic.List[object]
+
+  foreach ($entry in ($entries | Where-Object { $_.HasDerivedScore } | Sort-Object @{ Expression = { $_.Score }; Descending = $true })) {
+    $rankedEntries.Add($entry)
+  }
+
+  if ($rankedEntries.Count -gt 0) {
+    Reassign-DerivedScores -RankedEntries $rankedEntries
+    Write-AlbumEntries -ResolvedSourcePath $resolvedSourcePath -Entries $entries
+    Write-Host "Rescaled $($rankedEntries.Count) ranked albums to the $MinDerivedScore-$MaxDerivedScore range."
+  } else {
+    Write-Host "No derived scores found to rescale."
+  }
+
+  exit 0
 }
 
 do {
