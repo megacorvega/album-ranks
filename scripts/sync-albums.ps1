@@ -3,7 +3,7 @@ param(
   [string]$ImageDirectory = "images\covers",
   [int]$DelayMs = 1100,
   [int]$ArtSize = 500,
-  [ValidateSet("all", "missing", "sort")]
+  [ValidateSet("all", "missing", "refresh", "sort")]
   [string]$Mode,
   [ValidateSet("artist", "album", "score")]
   [string]$SortBy
@@ -26,14 +26,16 @@ function Get-ModeFromPrompt() {
     Write-Host "Choose an art sync mode:"
     Write-Host "1. Get all art"
     Write-Host "2. Get missing art"
-    Write-Host "3. Sort albums"
-    $selection = (Read-Host "Enter 1, 2, or 3").Trim()
+    Write-Host "3. Refresh cached data"
+    Write-Host "4. Sort albums"
+    $selection = (Read-Host "Enter 1, 2, 3, or 4").Trim()
 
     switch ($selection) {
       "1" { return "all" }
       "2" { return "missing" }
-      "3" { return "sort" }
-      default { Write-Host "Please enter 1, 2, or 3." }
+      "3" { return "refresh" }
+      "4" { return "sort" }
+      default { Write-Host "Please enter 1, 2, 3, or 4." }
     }
   }
 }
@@ -79,7 +81,7 @@ function Convert-EntryToMap([string]$EntryText) {
 }
 
 function Build-EntryText([System.Collections.IDictionary]$EntryMap) {
-  $orderedKeys = @("artist", "album", "score", "original_score", "mbid", "art", "review")
+  $orderedKeys = @("artist", "album", "year", "score", "original_score", "mbid", "art", "review")
   $builder = New-Object System.Text.StringBuilder
 
   foreach ($key in $orderedKeys) {
@@ -301,11 +303,76 @@ function Get-ExtensionFromResponse($Response, [string]$FallbackUrl) {
   }
 }
 
-function Download-AlbumArtForEntry(
+function Get-ReleaseYear($Release) {
+  if ($Release -and $Release.date -and $Release.date -match '^(\d{4})') {
+    return $Matches[1]
+  }
+
+  return $null
+}
+
+function Get-ReleaseArtist($Release) {
+  if ($Release -and $Release.'artist-credit') {
+    $names = @(
+      $Release.'artist-credit' |
+        ForEach-Object {
+          if ($_.name) {
+            $_.name
+          } elseif ($_.artist -and $_.artist.name) {
+            $_.artist.name
+          }
+        } |
+        Where-Object { -not [string]::IsNullOrWhiteSpace($_) }
+    )
+
+    if ($names.Count -gt 0) {
+      return ($names -join ", ")
+    }
+  }
+
+  return $null
+}
+
+function Update-EntryMetadataFromRelease([System.Collections.IDictionary]$EntryMap, $Release, [string]$FallbackArtist, [string]$FallbackAlbum) {
+  if ((-not $EntryMap.Contains("artist")) -or [string]::IsNullOrWhiteSpace($EntryMap["artist"])) {
+    $resolvedArtist = Get-ReleaseArtist $Release
+
+    if (-not [string]::IsNullOrWhiteSpace($resolvedArtist)) {
+      $EntryMap["artist"] = $resolvedArtist
+    } elseif (-not [string]::IsNullOrWhiteSpace($FallbackArtist)) {
+      $EntryMap["artist"] = $FallbackArtist
+    }
+  }
+
+  if ((-not $EntryMap.Contains("album")) -or [string]::IsNullOrWhiteSpace($EntryMap["album"])) {
+    if ($Release -and -not [string]::IsNullOrWhiteSpace($Release.title)) {
+      $EntryMap["album"] = $Release.title
+    } elseif (-not [string]::IsNullOrWhiteSpace($FallbackAlbum)) {
+      $EntryMap["album"] = $FallbackAlbum
+    }
+  }
+}
+
+function Get-ReleaseIdFromArtPath([string]$ArtPath) {
+  if ([string]::IsNullOrWhiteSpace($ArtPath)) {
+    return $null
+  }
+
+  $match = [regex]::Match($ArtPath, '-([0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12})\.[a-z0-9]+$', [System.Text.RegularExpressions.RegexOptions]::IgnoreCase)
+
+  if ($match.Success) {
+    return $match.Groups[1].Value.ToLowerInvariant()
+  }
+
+  return $null
+}
+
+function Resolve-AlbumDataForEntry(
   [System.Collections.IDictionary]$EntryMap,
   [string]$ResolvedImageDirectory,
   [string]$ImageDirectory,
-  [int]$ArtSize
+  [int]$ArtSize,
+  [bool]$ForceDownload
 ) {
   $releases = Find-BestRelease -EntryMap $EntryMap
 
@@ -313,16 +380,34 @@ function Download-AlbumArtForEntry(
     throw "No suitable MusicBrainz release found."
   }
 
-  $artistSlug = Convert-ToSlug $EntryMap["artist"]
-  $albumSlug = Convert-ToSlug $EntryMap["album"]
+  $fallbackArtist = if ($EntryMap.Contains("artist")) { $EntryMap["artist"] } else { "" }
+  $fallbackAlbum = if ($EntryMap.Contains("album")) { $EntryMap["album"] } else { "" }
+  $currentArtPath = if ($EntryMap.Contains("art")) { $EntryMap["art"].Trim() } else { "" }
+  $currentReleaseId = Get-ReleaseIdFromArtPath $currentArtPath
 
   foreach ($release in $releases) {
     if (-not $release.id) {
       continue
     }
 
+    $releaseId = $release.id.ToLowerInvariant()
+    $releaseYear = Get-ReleaseYear $release
+    $resolvedArtist = Get-ReleaseArtist $release
+    $artistSlug = Convert-ToSlug $(if ($resolvedArtist) { $resolvedArtist } else { $fallbackArtist })
+    $albumSlug = Convert-ToSlug $(if ($release.title) { $release.title } else { $fallbackAlbum })
+
+    if (-not $ForceDownload -and $currentReleaseId -eq $releaseId) {
+      return @{
+        ArtPath = $currentArtPath
+        Year = $releaseYear
+        ReleaseId = $releaseId
+        ArtChanged = $false
+        Release = $release
+      }
+    }
+
     $remoteArtUrl = "https://coverartarchive.org/release/$($release.id)/front-$ArtSize"
-    $baseName = "{0}-{1}-{2}" -f $artistSlug, $albumSlug, $release.id.ToLowerInvariant()
+    $baseName = "{0}-{1}-{2}" -f $artistSlug, $albumSlug, $releaseId
 
     try {
       $download = Get-CoverArtTempFile -RemoteArtUrl $remoteArtUrl
@@ -333,7 +418,13 @@ function Download-AlbumArtForEntry(
       $destinationPath = Join-Path -Path $ResolvedImageDirectory -ChildPath $destinationFileName
       Move-Item -LiteralPath $tempPath -Destination $destinationPath -Force
 
-      return (($ImageDirectory.TrimEnd("\", "/") + "/" + $destinationFileName) -replace "\\", "/")
+      return @{
+        ArtPath = (($ImageDirectory.TrimEnd("\", "/") + "/" + $destinationFileName) -replace "\\", "/")
+        Year = $releaseYear
+        ReleaseId = $releaseId
+        ArtChanged = $true
+        Release = $release
+      }
     } catch {
       $statusCode = $null
 
@@ -416,16 +507,18 @@ $updatedEntries = New-Object System.Collections.Generic.List[string]
 
 for ($index = 0; $index -lt $entries.Count; $index++) {
   $entryMap = Convert-EntryToMap $entries[$index]
+  $hasMbid = $entryMap.Contains("mbid") -and -not [string]::IsNullOrWhiteSpace($entryMap["mbid"])
+  $hasArtistAlbum = (-not [string]::IsNullOrWhiteSpace($entryMap["artist"])) -and (-not [string]::IsNullOrWhiteSpace($entryMap["album"]))
 
-  if (-not $entryMap["artist"] -or -not $entryMap["album"]) {
-    Write-Warning "Skipping entry $($index + 1): missing artist or album."
+  if (-not $hasMbid -and -not $hasArtistAlbum) {
+    Write-Warning "Skipping entry $($index + 1): missing mbid and artist/album."
     $updatedEntries.Add((Build-EntryText $entryMap))
     continue
   }
 
   $currentArt = if ($entryMap.Contains("art")) { $entryMap["art"].Trim() } else { "" }
-  $hasLocalArt = $currentArt -and $currentArt -notmatch '^https?://'
-  $shouldFetch = $Mode -eq "all" -or (-not $hasLocalArt)
+  $hasBlankArt = [string]::IsNullOrWhiteSpace($currentArt)
+  $shouldFetch = $Mode -in @("all", "refresh") -or ($Mode -eq "missing" -and $hasBlankArt)
 
   if (-not $shouldFetch) {
     Write-Host "Skipping $($entryMap["artist"]) - $($entryMap["album"]): local art already set."
@@ -433,16 +526,53 @@ for ($index = 0; $index -lt $entries.Count; $index++) {
     continue
   }
 
-  Write-Host "Fetching and caching art for $($entryMap["artist"]) - $($entryMap["album"])..."
+  if ($Mode -eq "refresh") {
+    Write-Host "Refreshing MusicBrainz data for $($entryMap["artist"]) - $($entryMap["album"])..."
+  } else {
+    Write-Host "Fetching and caching art for $($entryMap["artist"]) - $($entryMap["album"])..."
+  }
 
   try {
-    $entryMap["art"] = Download-AlbumArtForEntry `
+    $previousArt = $currentArt
+    $previousYear = if ($entryMap.Contains("year")) { $entryMap["year"] } else { "" }
+    $downloadResult = Resolve-AlbumDataForEntry `
       -EntryMap $entryMap `
       -ResolvedImageDirectory $resolvedImageDirectory `
       -ImageDirectory $ImageDirectory `
-      -ArtSize $ArtSize
+      -ArtSize $ArtSize `
+      -ForceDownload ($Mode -eq "all" -or $Mode -eq "missing")
 
-    Write-Host "  -> $($entryMap["art"])"
+    $entryMap["art"] = $downloadResult.ArtPath
+
+    if ($downloadResult.Year) {
+      $entryMap["year"] = $downloadResult.Year
+    }
+
+    if ((-not $entryMap.Contains("mbid")) -or [string]::IsNullOrWhiteSpace($entryMap["mbid"])) {
+      $entryMap["mbid"] = $downloadResult.ReleaseId
+    }
+
+    Update-EntryMetadataFromRelease `
+      -EntryMap $entryMap `
+      -Release $downloadResult.Release `
+      -FallbackArtist $(if ($hasArtistAlbum) { $entryMap["artist"] } else { "" }) `
+      -FallbackAlbum $(if ($hasArtistAlbum) { $entryMap["album"] } else { "" })
+
+    if ($Mode -eq "refresh") {
+      if ($downloadResult.ArtChanged -or $previousArt -ne $entryMap["art"]) {
+        Write-Host "  -> updated art: $($entryMap["art"])"
+      }
+
+      if ($downloadResult.Year -and $previousYear -ne $downloadResult.Year) {
+        Write-Host "  -> updated year: $($downloadResult.Year)"
+      }
+
+      if ((-not $downloadResult.ArtChanged) -and ($previousArt -eq $entryMap["art"]) -and ($previousYear -eq $entryMap["year"])) {
+        Write-Host "  -> no changes found"
+      }
+    } else {
+      Write-Host "  -> $($entryMap["art"])"
+    }
   } catch {
     Write-Warning "Failed for $($entryMap["artist"]) - $($entryMap["album"]): $($_.Exception.Message)"
   }

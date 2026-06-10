@@ -2,12 +2,16 @@ const albumTableBody = document.getElementById("albumTableBody");
 const statusMessage = document.getElementById("statusMessage");
 const resultCount = document.getElementById("resultCount");
 const searchInput = document.getElementById("searchInput");
+const yearFilter = document.getElementById("yearFilter");
+const decadeFilter = document.getElementById("decadeFilter");
 const albumRowTemplate = document.getElementById("albumRowTemplate");
 const sortableHeaders = Array.from(document.querySelectorAll(".sortable-header"));
 const DATA_URL = "albums.txt";
 
 let allAlbums = [];
 let searchQuery = "";
+let selectedYear = "";
+let selectedDecade = "";
 let sortState = {
   key: "score",
   direction: "desc",
@@ -25,9 +29,12 @@ async function initialize() {
 
     const sourceText = await response.text();
     allAlbums = parseAlbumText(sourceText);
+    populateYearFilters(allAlbums);
     updateSortIndicators();
     renderAlbums(getVisibleAlbums());
     searchInput.addEventListener("input", handleSearch);
+    yearFilter.addEventListener("change", handleYearFilter);
+    decadeFilter.addEventListener("change", handleDecadeFilter);
     sortableHeaders.forEach((header) => header.addEventListener("click", handleSort));
   } catch (error) {
     console.error(error);
@@ -41,7 +48,7 @@ function parseAlbumText(sourceText) {
     .map((entry) => entry.trim())
     .filter(Boolean);
 
-  return entries.map((entry, index) => {
+  return entries.flatMap((entry) => {
     const fields = {};
     const lines = entry.split(/\r?\n/);
 
@@ -57,23 +64,37 @@ function parseAlbumText(sourceText) {
       fields[key] = value;
     }
 
+    // Ignore incomplete draft blocks in albums.txt so you can keep placeholders
+    // at the bottom of the file without breaking the rendered site.
     if (!fields.artist || !fields.album || !fields.score || !fields.art) {
-      throw new Error(`Entry ${index + 1} is missing required fields.`);
+      return [];
     }
 
-    return {
+    return [{
       artist: fields.artist,
       album: fields.album,
       score: Number.parseFloat(fields.score),
       originalScore: parseOptionalScore(fields.original_score),
+      year: parseReleaseYear(fields.year),
+      decade: getDecadeLabel(parseReleaseYear(fields.year)),
       art: fields.art,
       review: fields.review || "",
-    };
+    }];
   });
 }
 
 function handleSearch(event) {
   searchQuery = event.target.value.trim().toLowerCase();
+  renderAlbums(getVisibleAlbums());
+}
+
+function handleYearFilter(event) {
+  selectedYear = event.target.value;
+  renderAlbums(getVisibleAlbums());
+}
+
+function handleDecadeFilter(event) {
+  selectedDecade = event.target.value;
   renderAlbums(getVisibleAlbums());
 }
 
@@ -92,12 +113,24 @@ function handleSort(event) {
 }
 
 function getVisibleAlbums() {
-  const filteredAlbums = searchQuery
-    ? allAlbums.filter((album) => {
-        const haystack = [album.artist, album.album, album.review].join(" ").toLowerCase();
-        return haystack.includes(searchQuery);
-      })
-    : [...allAlbums];
+  const filteredAlbums = allAlbums.filter((album) => {
+    if (searchQuery) {
+      const haystack = [album.artist, album.album, album.review].join(" ").toLowerCase();
+      if (!haystack.includes(searchQuery)) {
+        return false;
+      }
+    }
+
+    if (selectedYear && album.year !== Number.parseInt(selectedYear, 10)) {
+      return false;
+    }
+
+    if (selectedDecade && album.decade !== selectedDecade) {
+      return false;
+    }
+
+    return true;
+  });
 
   return filteredAlbums.sort(compareAlbums);
 }
@@ -179,6 +212,49 @@ function parseOptionalScore(rawScore) {
 
   const parsedScore = Number.parseFloat(rawScore);
   return Number.isNaN(parsedScore) ? null : parsedScore;
+}
+
+function parseReleaseYear(rawYear) {
+  if (!rawYear) {
+    return null;
+  }
+
+  const parsedYear = Number.parseInt(rawYear, 10);
+  if (Number.isNaN(parsedYear) || rawYear.trim().length !== 4) {
+    return null;
+  }
+
+  return parsedYear;
+}
+
+function getDecadeLabel(year) {
+  if (year === null) {
+    return "";
+  }
+
+  const decadeStart = Math.floor(year / 10) * 10;
+  return `${decadeStart}s`;
+}
+
+function populateYearFilters(albums) {
+  const years = [...new Set(albums.map((album) => album.year).filter((year) => year !== null))].sort(
+    (left, right) => right - left
+  );
+  const decades = [...new Set(albums.map((album) => album.decade).filter(Boolean))].sort(
+    (left, right) => Number.parseInt(right, 10) - Number.parseInt(left, 10)
+  );
+
+  appendOptions(yearFilter, years, "All years");
+  appendOptions(decadeFilter, decades, "All decades");
+}
+
+function appendOptions(select, values, defaultLabel) {
+  select.replaceChildren();
+  select.appendChild(new Option(defaultLabel, ""));
+
+  for (const value of values) {
+    select.appendChild(new Option(String(value), String(value)));
+  }
 }
 
 function getScoreBand(score) {

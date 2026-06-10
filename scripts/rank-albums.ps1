@@ -39,7 +39,7 @@ function Convert-EntryToMap([string]$EntryText) {
 }
 
 function Build-EntryText([System.Collections.IDictionary]$EntryMap) {
-  $orderedKeys = @("artist", "album", "score", "original_score", "mbid", "art", "review")
+  $orderedKeys = @("artist", "album", "year", "score", "original_score", "mbid", "art", "review")
   $builder = New-Object System.Text.StringBuilder
 
   foreach ($key in $orderedKeys) {
